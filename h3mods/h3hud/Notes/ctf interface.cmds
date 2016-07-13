@@ -1,0 +1,125 @@
+edit 5726
+
+removefrom hudwidgets *
+addto hudwidgets 4
+
+edit hudwidgets[0]
+
+addto statedata 1
+addto placementdata 1
+addto bitmapwidgets 3
+
+edit bitmapwidgets[0]
+addto statedata 1
+addto placementdata 1
+addto animationdata 1
+addto renderdata 1
+exit
+
+edit bitmapwidgets[1]
+addto statedata 1
+addto placementdata 1
+addto renderdata 1
+exit
+
+edit bitmapwidgets[2]
+addto statedata 1
+addto placementdata 1
+addto renderdata 1
+exit
+
+exit
+
+edit hudwidgets[2]
+
+addto statedata 1
+addto placementdata 1
+addto bitmapwidgets 4
+addto textwidgets 5
+
+edit bitmapwidgets[0]
+addto statedata 1
+addto placementdata 1
+addto renderdata 1
+exit
+
+edit bitmapwidgets[1]
+addto statedata 1
+addto placementdata 1
+addto renderdata 1
+exit
+
+edit bitmapwidgets[2]
+addto statedata 1
+addto placementdata 1
+addto renderdata 1
+exit
+
+edit bitmapwidgets[3]
+addto statedata 1
+addto placementdata 1
+addto renderdata 1
+exit
+
+edit textwidgets[0]
+addto statedata 1
+addto placementdata 1
+addto renderdata 1
+exit
+
+edit textwidgets[1]
+addto statedata 1
+addto placementdata 1
+addto renderdata 1
+exit
+
+edit textwidgets[2]
+addto statedata 1
+addto placementdata 1
+addto renderdata 1
+exit
+
+edit textwidgets[3]
+addto statedata 1
+addto placementdata 1
+addto renderdata 1
+exit
+
+edit textwidgets[4]
+addto statedata 1
+addto placementdata 1
+addto renderdata 1
+exit
+
+exit
+
+edit hudwidgets[3]
+
+addto statedata 1
+addto placementdata 1
+addto bitmapwidgets 1
+addto textwidgets 2
+
+edit bitmapwidgets[0]
+addto statedata 1
+addto placementdata 1
+addto renderdata 1
+exit
+
+edit textwidgets[1]
+addto statedata 1
+addto placementdata 1
+addto renderdata 1
+exit
+
+edit textwidgets[2]
+addto statedata 1
+addto placementdata 1
+addto renderdata 1
+exit
+
+exit
+
+savechanges
+
+exit

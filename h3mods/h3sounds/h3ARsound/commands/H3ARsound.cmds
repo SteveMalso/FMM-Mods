@@ -1,0 +1,15 @@
+resourcedata import audio.dat 042F tags/h3AR6.mp3
+
+import 1BB4 tags/1BB4_AR6.snd!
+
+edit 1BB4
+Setfield GainBase 0
+savechanges
+exit
+
+dumplog h3ARSound.log
+exit
+exit
+
+best: 6
+//resourcedata extract audio.dat 042F ffffff HOAR.mp3

@@ -1,0 +1,5 @@
+edit 709
+setfield widescreenbitmapscalex 0.6
+setfield widescreenbitmapscaley 0.63
+savechanges
+exit

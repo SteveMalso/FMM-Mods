@@ -1,0 +1,5 @@
+ECHO FMM_OUTPUT Installing Halo 3 armors...
+cd mods\tagMods\h3mods\h3armors
+MOVE ..\..\..\..\maps\resources.dat resources.dat
+Type commands\h3armors.cmds | TagTool.exe ../../../../maps/tags.dat
+MOVE resources.dat ..\..\..\..\maps\resources.dat

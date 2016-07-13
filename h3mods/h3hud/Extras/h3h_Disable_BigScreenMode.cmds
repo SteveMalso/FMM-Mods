@@ -1,0 +1,67 @@
+edit 000001BD
+edit hudglobals[0]
+edit hudattributes[0]
+setfield ResolutionWidth 1920
+setfield ResolutionHeight 1080
+setfield MotionSensorOffsetY 976
+exit
+exit
+savechanges
+exit
+
+edit 00000C1E
+edit hudwidgets[9]
+edit placementdata[0]
+setfield scalex 1.8
+setfield scaley 1.8
+exit
+exit
+edit hudwidgets[20]
+edit placementdata[0]
+setfield scalex 1
+exit
+exit
+edit hudwidgets[21]
+edit placementdata[0]
+setfield offsety 12
+setfield scalex 1
+exit
+exit
+edit hudwidgets[23]
+edit placementdata[0]
+setfield scalex 1.4
+setfield scaley 1.4
+exit
+exit
+edit hudwidgets[24]
+edit placementdata[0]
+setfield scalex 1.4
+setfield scaley 1.4
+exit
+exit
+savechanges
+exit
+
+edit 000025F4
+edit hudwidgets[1]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield scalex 1
+setfield scaley 1
+exit
+exit
+edit bitmapwidgets[1]
+edit placementdata[0]
+setfield scalex 1
+setfield scaley 1
+exit
+exit
+edit bitmapwidgets[2]
+edit placementdata[0]
+setfield scalex 1.085
+setfield scaley 1
+exit
+exit
+exit
+savechanges
+exit

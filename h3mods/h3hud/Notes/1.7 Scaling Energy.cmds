@@ -1,0 +1,789 @@
+edit 00001E48
+edit hudwidgets[6]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield offsety 8
+exit
+exit
+edit bitmapwidgets[1]
+edit placementdata[0]
+setfield offsetx -130
+setfield offsety 12
+exit
+exit
+edit bitmapwidgets[2]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit bitmapwidgets[3]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit bitmapwidgets[4]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit bitmapwidgets[5]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit textwidgets[0]
+edit placementdata[0]
+setfield offsetx -160
+setfield offsety 24
+exit
+exit
+exit
+edit hudwidgets[0]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield offsetx -110
+setfield offsety -5
+setfield scaley 1.3
+exit
+exit
+edit bitmapwidgets[1]
+edit placementdata[0]
+setfield offsetx -110
+setfield offsety -5
+setfield scaley 1.3
+exit
+exit
+exit
+edit hudwidgets[4]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield mirroroffsetx 1.5
+setfield offsety 82
+exit
+exit
+exit
+savechanges
+exit 
+edit 0000219D
+edit hudwidgets[0]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield offsety 8
+exit
+exit
+edit bitmapwidgets[1]
+edit placementdata[0]
+setfield offsetx -130
+setfield offsety 12
+exit
+exit
+edit bitmapwidgets[2]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit textwidgets[0]
+edit placementdata[0]
+setfield offsetx -160
+setfield offsety 24
+exit
+exit
+exit
+edit hudwidgets[0]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield offsetx -110
+setfield offsety -5
+setfield scaley 1.3
+exit
+exit
+edit bitmapwidgets[1]
+edit placementdata[0]
+setfield offsetx -110
+setfield offsety -5
+setfield scaley 1.3
+exit
+exit
+exit
+savechanges
+exit 
+edit 0000225A
+edit hudwidgets[5]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield offsety 8
+exit
+exit
+edit bitmapwidgets[1]
+edit placementdata[0]
+setfield offsetx -130
+setfield offsety 12
+exit
+exit
+edit bitmapwidgets[2]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit bitmapwidgets[3]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit bitmapwidgets[4]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit bitmapwidgets[5]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit textwidgets[0]
+edit placementdata[0]
+setfield offsetx -160
+setfield offsety 24
+exit
+exit
+exit
+edit hudwidgets[0]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield offsetx -110
+setfield offsety -5
+setfield scaley 1.3
+exit
+exit
+edit bitmapwidgets[1]
+edit placementdata[0]
+setfield offsetx -110
+setfield offsety -5
+setfield scaley 1.3
+exit
+exit
+exit
+edit hudwidgets[4]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield mirroroffsetx 1.5
+setfield offsety 82
+exit
+exit
+exit
+savechanges
+exit 
+edit 000023F3
+edit hudwidgets[5]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield offsety 8
+exit
+exit
+edit bitmapwidgets[1]
+edit placementdata[0]
+setfield offsetx -130
+setfield offsety 12
+exit
+exit
+edit bitmapwidgets[2]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit bitmapwidgets[3]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit bitmapwidgets[4]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit bitmapwidgets[5]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit textwidgets[0]
+edit placementdata[0]
+setfield offsetx -160
+setfield offsety 24
+exit
+exit
+exit
+edit hudwidgets[0]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield offsetx -110
+setfield offsety -5
+setfield scaley 1.3
+exit
+exit
+edit bitmapwidgets[1]
+edit placementdata[0]
+setfield offsetx -110
+setfield offsety -5
+setfield scaley 1.3
+exit
+exit
+exit
+edit hudwidgets[4]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield mirroroffsetx 1.5
+setfield offsety 82
+exit
+exit
+exit
+savechanges
+exit 
+edit 00002423
+edit hudwidgets[5]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield offsety 8
+exit
+exit
+edit bitmapwidgets[1]
+edit placementdata[0]
+setfield offsetx -130
+setfield offsety 12
+exit
+exit
+edit bitmapwidgets[2]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit bitmapwidgets[3]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit bitmapwidgets[4]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit bitmapwidgets[5]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit textwidgets[0]
+edit placementdata[0]
+setfield offsetx -160
+setfield offsety 24
+exit
+exit
+exit
+edit hudwidgets[0]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield offsetx -110
+setfield offsety -5
+setfield scaley 1.3
+exit
+exit
+edit bitmapwidgets[1]
+edit placementdata[0]
+setfield offsetx -110
+setfield offsety -5
+setfield scaley 1.3
+exit
+exit
+exit
+edit hudwidgets[4]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield mirroroffsetx 1.5
+setfield offsety 82
+exit
+exit
+exit
+savechanges
+exit 
+edit 00002439
+edit hudwidgets[2]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield offsety 8
+exit
+exit
+edit bitmapwidgets[1]
+edit placementdata[0]
+setfield offsetx -130
+setfield offsety 12
+exit
+exit
+edit bitmapwidgets[2]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit bitmapwidgets[3]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit bitmapwidgets[4]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit bitmapwidgets[5]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit textwidgets[0]
+edit placementdata[0]
+setfield offsetx -160
+setfield offsety 24
+exit
+exit
+exit
+edit hudwidgets[0]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield offsetx -110
+setfield offsety -5
+setfield scaley 1.3
+exit
+exit
+exit
+edit hudwidgets[4]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield mirroroffsetx 1.5
+setfield offsety 82
+exit
+exit
+exit
+savechanges
+exit 
+edit 00002459
+edit hudwidgets[6]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield offsety 8
+exit
+exit
+edit bitmapwidgets[1]
+edit placementdata[0]
+setfield offsetx -130
+setfield offsety 12
+exit
+exit
+edit bitmapwidgets[2]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit bitmapwidgets[3]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit bitmapwidgets[4]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit bitmapwidgets[5]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit textwidgets[0]
+edit placementdata[0]
+setfield offsetx -160
+setfield offsety 24
+exit
+exit
+exit
+edit hudwidgets[0]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield offsetx -110
+setfield offsety -5
+setfield scaley 1.3
+exit
+exit
+edit bitmapwidgets[1]
+edit placementdata[0]
+setfield offsetx -110
+setfield offsety -5
+setfield scaley 1.3
+exit
+exit
+exit
+edit hudwidgets[4]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield mirroroffsetx 1.5
+setfield offsety 82
+exit
+exit
+exit
+savechanges
+exit 
+edit 000024AB
+edit hudwidgets[3]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield offsety 8
+exit
+exit
+edit bitmapwidgets[1]
+edit placementdata[0]
+setfield offsetx -130
+setfield offsety 12
+exit
+exit
+edit bitmapwidgets[2]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit bitmapwidgets[3]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit bitmapwidgets[4]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit bitmapwidgets[5]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit textwidgets[0]
+edit placementdata[0]
+setfield offsetx -160
+setfield offsety 24
+exit
+exit
+exit
+edit hudwidgets[0]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield offsetx -110
+setfield offsety -5
+setfield scaley 1.3
+exit
+exit
+edit bitmapwidgets[1]
+edit placementdata[0]
+setfield offsetx -110
+setfield offsety -5
+setfield scaley 1.3
+exit
+exit
+exit
+edit hudwidgets[4]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield mirroroffsetx 1.5
+setfield offsety 82
+exit
+exit
+exit
+savechanges
+exit 
+edit 00002527
+edit hudwidgets[0]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield offsety 8
+exit
+exit
+edit bitmapwidgets[1]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit bitmapwidgets[2]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit textwidgets[0]
+edit placementdata[0]
+setfield offsetx -160
+setfield offsety 24
+exit
+exit
+exit
+edit hudwidgets[0]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield offsetx -110
+setfield offsety -5
+setfield scaley 1.3
+exit
+exit
+edit bitmapwidgets[1]
+edit placementdata[0]
+setfield offsetx -110
+setfield offsety -5
+setfield scaley 1.3
+exit
+exit
+exit
+savechanges
+exit 
+edit 000025BA
+edit hudwidgets[5]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield offsety 8
+exit
+exit
+edit bitmapwidgets[1]
+edit placementdata[0]
+setfield offsetx -130
+setfield offsety 12
+exit
+exit
+edit bitmapwidgets[2]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit bitmapwidgets[3]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit bitmapwidgets[4]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit bitmapwidgets[5]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit textwidgets[0]
+edit placementdata[0]
+setfield offsetx -160
+setfield offsety 24
+exit
+exit
+exit
+edit hudwidgets[0]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield offsetx -110
+setfield offsety -5
+setfield scaley 1.3
+exit
+exit
+edit bitmapwidgets[1]
+edit placementdata[0]
+setfield offsetx -110
+setfield offsety -5
+setfield scaley 1.3
+exit
+exit
+exit
+edit hudwidgets[4]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield mirroroffsetx 1.5
+setfield offsety 82
+exit
+exit
+exit
+savechanges
+exit 
+edit 000031C5
+edit hudwidgets[2]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield offsety 8
+exit
+exit
+edit bitmapwidgets[1]
+edit placementdata[0]
+setfield offsetx -130
+setfield offsety 12
+exit
+exit
+edit bitmapwidgets[2]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit bitmapwidgets[3]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit bitmapwidgets[4]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit bitmapwidgets[5]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit textwidgets[0]
+edit placementdata[0]
+setfield offsetx -160
+setfield offsety 24
+exit
+exit
+exit
+edit hudwidgets[0]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield offsetx -110
+setfield offsety -5
+setfield scaley 1.3
+exit
+exit
+edit bitmapwidgets[1]
+edit placementdata[0]
+setfield offsetx -110
+setfield offsety -5
+setfield scaley 1.3
+exit
+exit
+exit
+savechanges
+exit 
+edit 000031FC
+edit hudwidgets[2]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield offsety 8
+exit
+exit
+edit bitmapwidgets[1]
+edit placementdata[0]
+setfield offsetx -130
+setfield offsety 12
+exit
+exit
+edit bitmapwidgets[2]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit bitmapwidgets[3]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit bitmapwidgets[4]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit bitmapwidgets[5]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit textwidgets[0]
+edit placementdata[0]
+setfield offsetx -160
+setfield offsety 24
+exit
+exit
+exit
+edit hudwidgets[0]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield offsetx -110
+setfield offsety -5
+setfield scaley 1.3
+exit
+exit
+exit
+edit hudwidgets[4]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield mirroroffsetx 1.5
+setfield offsety 82
+exit
+exit
+exit
+savechanges
+exit 
+edit 0000322C
+edit hudwidgets[4]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield offsety 8
+exit
+exit
+edit bitmapwidgets[1]
+edit placementdata[0]
+setfield offsetx -130
+setfield offsety 12
+exit
+exit
+edit bitmapwidgets[2]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit bitmapwidgets[3]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit bitmapwidgets[4]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit bitmapwidgets[5]
+edit placementdata[0]
+setfield offsety 50
+exit
+exit
+edit textwidgets[0]
+edit placementdata[0]
+setfield offsetx -160
+setfield offsety 24
+exit
+exit
+exit
+edit hudwidgets[0]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield offsetx -110
+setfield offsety -5
+setfield scaley 1.3
+exit
+exit
+edit bitmapwidgets[1]
+edit placementdata[0]
+setfield offsetx -110
+setfield offsety -5
+setfield scaley 1.3
+exit
+exit
+exit
+edit hudwidgets[3]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield mirroroffsetx 1.5
+setfield offsety 82
+exit
+exit
+exit
+savechanges
+exit 

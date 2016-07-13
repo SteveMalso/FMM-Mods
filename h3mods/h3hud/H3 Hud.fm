@@ -1,0 +1,29 @@
+ECHO FMM_OUTPUT Installing Halo 3 hud.....
+echo FMM_OUTPUT                           .NMMMMMMMMMMMMMM?                                   
+echo FMM_OUTPUT                       MMMMMMMMMMMMMMMMMMMMMMMMMMMMM                           
+echo FMM_OUTPUT                   ~MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM                      
+echo FMM_OUTPUT               .MMMMMMMMMMMMMMMM7~~~$MMMMMMMMMMMMMMMMMMMMMMM                   
+echo FMM_OUTPUT            :MMMMMMM7                           IMMMMMMMMMMMMMD                
+echo FMM_OUTPUT          MMMMMM            MMMMMMMMMMMMMM           MMMMMMMMMMMN              
+echo FMM_OUTPUT        .MMMMZ           MMMMMMMMMMMMMMMMMMMD+         :MMMMMMMMMM             
+echo FMM_OUTPUT       MMMM$             M=           MMMM               OMMMMMMMMM            
+echo FMM_OUTPUT      MMMM                          ,MMM                   MMMMMMMMM           
+echo FMM_OUTPUT MMMMMMMM                         MMMMMMMMM~                MMMMMMMMM          
+echo FMM_OUTPUT  MMMMMM                Halo 3 Hud       MMMMMM             MMMMMMMMMMMMMMMM   
+echo FMM_OUTPUT                        by Alex-231         MMMMO           MMMMMMMMMM         
+echo FMM_OUTPUT                    .                       MMMMM          8MMMMMMMMM          
+echo FMM_OUTPUT                   MMMM                     MMMMM         =MMMMMMMMM           
+echo FMM_OUTPUT                     OMMMMM              MMMMMMM         MMMMMMMMMM            
+echo FMM_OUTPUT                        $MMMMMMMMMMMMMMMMMMMMM         MMMMMMMMMMM             
+echo FMM_OUTPUT                           MMMMMMMMMMMMMM8          MMMMMMMMMMMM8              
+echo FMM_OUTPUT                   MM                           NMMMMMMMMMMMMM8                
+echo FMM_OUTPUT                  MMMMMMMMM:             =MMMMMMMMMMMMMMMMMM                   
+echo FMM_OUTPUT                     MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMZ                      
+echo FMM_OUTPUT                          .MMMMMMMMMMMMMMMMMMMMMMMMM                           
+echo FMM_OUTPUT                                MMMMMMMMMMN=                                   
+cd mods\tagMods\h3mods\h3hud
+echo FMM_OUTPUT [H3 Hud] Importing
+Type import.cmds | Tools\h3h_TagTool.exe ..\..\..\..\maps\tags.dat
+echo FMM_OUTPUT [H3 Hud] Editing tags
+Type edit.cmds | Tools\h3h_TagTool.exe ..\..\..\..\maps\tags.dat
+echo FMM_OUTPUT [H3 Hud] Done

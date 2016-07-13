@@ -1,0 +1,22 @@
+cd mods\tagMods\reachMods\reachDMR
+ECHO FMM_OUTPUT Installing Halo Reach DMR ...
+color 0A
+
+Type commands\genLastTag.cmds | TagTool.exe ../../../../maps/tags.dat
+timeout 1
+
+Type commands\reserveTags.cmds | TagTool.exe ../../../../maps/tags.dat
+timeout 1
+
+START /WAIT commands\TTCC.exe commands\reachDMR.cmdX
+
+timeout 1
+
+MOVE ..\..\..\..\maps\resources.dat resources.dat
+Type commands\reachDMR.cmds | TagTool.exe ../../../../maps/tags.dat
+MOVE resources.dat ..\..\..\..\maps\resources.dat
+
+ECHO FMM_OUTPUT Installing textures. Should not last longer than 3 minutes ...
+Type commands\reachDMR_index.cmds | TagTool.exe ../../../../maps/tags.dat
+ECHO FMM_OUTPUT Textures installation complete ...
+ECHO FMM_OUTPUT Halo Reach DMR installation complete ...

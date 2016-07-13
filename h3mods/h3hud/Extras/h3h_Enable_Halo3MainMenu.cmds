@@ -1,0 +1,188 @@
+edit 70d
+edit groupwidgets[0]
+edit textwidgets[0]
+setfield textstring null
+exit
+exit
+edit groupwidgets[1]
+edit bitmapwidgets[0]
+setfield bitmap 791
+exit
+exit
+savechanges
+exit
+
+edit 27c3
+edit cutscenecamerapoints[0]
+setfield positionz -500
+exit
+savechanges
+exit
+
+stringid add start_new_campaign2
+
+edit 70D
+edit groupwidgets[1]
+edit bitmapwidgets[1]
+setfield widescreenyboundsmin 550
+exit
+exit
+savechanges
+exit
+
+edit 787
+
+set english matchmaking "MATCHMAKING"
+set english mapeditor "FORGE"
+set english multiplayer "CUSTOM GAMES"
+set english start_new_campaign2 "START SOLO GAME"
+
+exit
+
+edit a55
+removefrom data * *
+addto data 5
+edit data[0]
+addto stringidvalues 2
+edit stringidvalues[0]
+setfield datatype name
+setfield value campaign
+exit
+edit stringidvalues[1]
+setfield datatype description
+setfield value campaign_help
+exit
+exit
+edit data[1]
+addto stringidvalues 2
+edit stringidvalues[0]
+setfield datatype name
+setfield value matchmaking
+exit
+edit stringidvalues[1]
+setfield datatype description
+setfield value matchmaking_help
+exit
+exit
+edit data[2]
+addto stringidvalues 2
+edit stringidvalues[0]
+setfield datatype name
+setfield value multiplayer
+exit
+edit stringidvalues[1]
+setfield datatype description
+setfield value custom_games_help
+exit
+exit
+edit data[3]
+addto stringidvalues 2
+edit stringidvalues[0]
+setfield datatype name
+setfield value mapeditor
+exit
+edit stringidvalues[1]
+setfield datatype description
+setfield value editor_help
+exit
+exit
+edit data[4]
+addto stringidvalues 2
+edit stringidvalues[0]
+setfield datatype name
+setfield value theater
+exit
+edit stringidvalues[1]
+setfield datatype description
+setfield value theater_help
+exit
+exit
+savechanges
+exit
+
+
+edit 788
+removefrom data * *
+addto data 9
+edit data[0]
+addto stringidvalues 1
+edit stringidvalues[0]
+setfield datatype name
+setfield value start_new_campaign2
+exit
+exit
+edit data[1]
+addto stringidvalues 1
+edit stringidvalues[0]
+setfield datatype name
+setfield value resume_campaign
+exit
+exit
+edit data[2]
+addto stringidvalues 1
+edit stringidvalues[0]
+setfield datatype name
+setfield value campaign
+exit
+exit
+edit data[3]
+addto stringidvalues 1
+edit stringidvalues[0]
+setfield datatype name
+setfield value matchmaking
+exit
+exit
+edit data[4]
+addto stringidvalues 1
+edit stringidvalues[0]
+setfield datatype name
+setfield value multiplayer
+exit
+exit
+edit data[5]
+addto stringidvalues 1
+edit stringidvalues[0]
+setfield datatype name
+setfield value mapeditor
+exit
+exit
+edit data[6]
+addto stringidvalues 1
+edit stringidvalues[0]
+setfield datatype name
+setfield value theater
+exit
+exit
+edit data[7]
+addto stringidvalues 1
+edit stringidvalues[0]
+setfield datatype name
+setfield value locked
+exit
+exit
+edit data[8]
+addto stringidvalues 1
+edit stringidvalues[0]
+setfield datatype name
+setfield value leave_game
+exit
+exit
+savechanges
+exit
+
+edit 1bf
+
+set english ui_exit_game " "
+set english ui_settings " "
+
+exit
+
+importbitmap 000027fa "h3mods\h3hud\Extras\000027FA_h3.dds"
+
+edit 000000eb
+import 0 "h3mods\h3hud\Extras\000000EB_h3.dds"
+exit
+
+edit 000000f5 
+import 0 "h3mods\h3hud\Extras\000000F5_h3.dds"
+exit

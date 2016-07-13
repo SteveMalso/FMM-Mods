@@ -1,0 +1,8 @@
+edit c1e
+edit hudwidgets[10]
+edit placementdata[0]
+setfield offsety -120
+exit
+exit
+savechanges
+exit

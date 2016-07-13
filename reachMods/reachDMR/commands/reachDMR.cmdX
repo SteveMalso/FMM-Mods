@@ -1,0 +1,192 @@
+// Halo Reach DMR local cosmetic mod for Halo Online Eldewrito MS23 build; made by Bungie; ported by dany5639 using Shockfire's tagtool and Camden's commands;
+========
+XXXX
+ XXXX 
+echo
+//
+========
+========
+0FF3
+modeRDMRfp0
+1057
+modeRDMRfp1
+1031
+modeRDMRfp2
+103D
+modeRDMRfp3
+1048
+modeRDMRfp4
+101E
+modeRDMRfp5
+1059
+modeRDMRfp6
+1E25
+modeRDMR3d0
+25AD
+modeRDMR3d1
+239A
+modeRDMR3d2
+23AA
+modeRDMR3d3
+23B9
+modeRDMR3d4
+25A3
+modeRDMR3d5
+23C5
+modeRDMR3d6
+========
+========
+0000
+bitmRDMR0defa
+0000
+bitmRDMR1purp
+0000
+bitmRDMR2gren
+0000
+bitmRDMR3oran
+0000
+bitmRDMR4redd
+0000
+bitmRDMR5blue
+0000
+bitmRDMR6gold
+0000
+bitmRDMRillu
+0000
+bitmRDMRbump
+0000
+bitmRDMRdeca
+========
+========
+1017
+bitmRDMRammu
+1003
+bitmDMRdetail
+========
+========
+0000
+shadRDMRglass
+0000
+shadRDMRshin0
+0000
+shadRDMRrubb0
+0000
+shadRDMRdecal
+0000
+shadRDMRlens0
+0000
+shadRDMRones0
+0000
+shadRDMRtens0
+0000
+shadRDMRdefaC
+0000
+shadRDMRpurpC
+0000
+shadRDMRgrenC
+0000
+shadRDMRoranC
+0000
+shadRDMRreddC
+0000
+shadRDMRblueC
+0000
+shadRDMRgoldC
+0000
+shadRDMRdefaM
+0000
+shadRDMRpurpM
+0000
+shadRDMRgrenM
+0000
+shadRDMRoranM
+0000
+shadRDMRreddM
+0000
+shadRDMRblueM
+0000
+shadRDMRgoldM
+STOP
+
+resourcedata import resources.dat 0062 tags/reachDMRfp.raw
+
+import modeRDMRfp0 tags/mode_RDMRfp0
+import modeRDMRfp1 tags/mode_RDMRfp1
+import modeRDMRfp2 tags/mode_RDMRfp2
+import modeRDMRfp3 tags/mode_RDMRfp3
+import modeRDMRfp4 tags/mode_RDMRfp4
+import modeRDMRfp5 tags/mode_RDMRfp5
+import modeRDMRfp6 tags/mode_RDMRfp6
+import shadRDMRblueC tags/shad_RDMRblueC
+import shadRDMRblueM tags/shad_RDMRblueM
+import shadRDMRdecal tags/shad_RDMRdecal
+import shadRDMRdefaC tags/shad_RDMRdefaC
+import shadRDMRdefaM tags/shad_RDMRdefaM
+import shadRDMRglass tags/shad_RDMRglass
+import shadRDMRgoldC tags/shad_RDMRgoldC
+import shadRDMRgoldM tags/shad_RDMRgoldM
+import shadRDMRgrenC tags/shad_RDMRgrenC
+import shadRDMRgrenM tags/shad_RDMRgrenM
+import shadRDMRlens0 tags/shad_RDMRlens0
+import shadRDMRones0 tags/shad_RDMRones0
+import shadRDMRoranC tags/shad_RDMRoranC
+import shadRDMRoranM tags/shad_RDMRoranM
+import shadRDMRpurpC tags/shad_RDMRpurpC
+import shadRDMRpurpM tags/shad_RDMRpurpM
+import shadRDMRreddC tags/shad_RDMRreddC
+import shadRDMRreddM tags/shad_RDMRreddM
+import shadRDMRrubb0 tags/shad_RDMRrubb0
+import shadRDMRshin0 tags/shad_RDMRshin0
+import shadRDMRtens0 tags/shad_RDMRtens0
+
+importbitmap bitmRDMR0defa DDS/dmr_diffuse_default.dds
+importbitmap bitmRDMR1purp DDS/dmr_diffuse_purple.dds
+importbitmap bitmRDMR2gren DDS/dmr_diffuse_green.dds
+importbitmap bitmRDMR3oran DDS/dmr_diffuse_orange.dds
+importbitmap bitmRDMR4redd DDS/dmr_diffuse_red.dds
+importbitmap bitmRDMR5blue DDS/dmr_diffuse_blue.dds
+importbitmap bitmRDMR6gold DDS/dmr_diffuse_gold.dds
+importbitmap bitmRDMRbump DDS/dmr_normal.dds
+importbitmap bitmRDMRillu DDS/dmr_illu.dds
+importbitmap bitmRDMRdeca DDS/unsc_decals_diffuse.dds
+
+edit shadRDMRdefaC XXXX SpecifyBitmaps XXXX bitmRDMR0defa XXXX 0343 XXXX bitmRDMRbump XXXX 0376 XXXX 02B7 XXXX 02B9 XXXX bitmRDMRillu XXXX exit
+edit shadRDMRpurpC XXXX SpecifyBitmaps XXXX bitmRDMR1purp XXXX 0343 XXXX bitmRDMRbump XXXX 0376 XXXX 02B7 XXXX 02B9 XXXX bitmRDMRillu XXXX exit
+edit shadRDMRgrenC XXXX SpecifyBitmaps XXXX bitmRDMR2gren XXXX 0343 XXXX bitmRDMRbump XXXX 0376 XXXX 02B7 XXXX 02B9 XXXX bitmRDMRillu XXXX exit
+edit shadRDMRoranC XXXX SpecifyBitmaps XXXX bitmRDMR3oran XXXX 0343 XXXX bitmRDMRbump XXXX 0376 XXXX 02B7 XXXX 02B9 XXXX bitmRDMRillu XXXX exit
+edit shadRDMRreddC XXXX SpecifyBitmaps XXXX bitmRDMR4redd XXXX 0343 XXXX bitmRDMRbump XXXX 0376 XXXX 02B7 XXXX 02B9 XXXX bitmRDMRillu XXXX exit
+edit shadRDMRblueC XXXX SpecifyBitmaps XXXX bitmRDMR5blue XXXX 0343 XXXX bitmRDMRbump XXXX 0376 XXXX 02B7 XXXX 02B9 XXXX bitmRDMRillu XXXX exit
+edit shadRDMRgoldC XXXX SpecifyBitmaps XXXX bitmRDMR6gold XXXX 0343 XXXX bitmRDMRbump XXXX 0376 XXXX 02B7 XXXX 02B9 XXXX bitmRDMRillu XXXX exit
+
+edit shadRDMRdefaM XXXX SpecifyBitmaps XXXX bitmRDMR0defa XXXX 0343 XXXX bitmRDMRbump XXXX 0376 XXXX 02B7 XXXX 02B9 XXXX bitmRDMRillu XXXX exit
+edit shadRDMRpurpM XXXX SpecifyBitmaps XXXX bitmRDMR1purp XXXX 0343 XXXX bitmRDMRbump XXXX 0376 XXXX 02B7 XXXX 02B9 XXXX bitmRDMRillu XXXX exit
+edit shadRDMRgrenM XXXX SpecifyBitmaps XXXX bitmRDMR2gren XXXX 0343 XXXX bitmRDMRbump XXXX 0376 XXXX 02B7 XXXX 02B9 XXXX bitmRDMRillu XXXX exit
+edit shadRDMRoranM XXXX SpecifyBitmaps XXXX bitmRDMR3oran XXXX 0343 XXXX bitmRDMRbump XXXX 0376 XXXX 02B7 XXXX 02B9 XXXX bitmRDMRillu XXXX exit
+edit shadRDMRreddM XXXX SpecifyBitmaps XXXX bitmRDMR4redd XXXX 0343 XXXX bitmRDMRbump XXXX 0376 XXXX 02B7 XXXX 02B9 XXXX bitmRDMRillu XXXX exit
+edit shadRDMRblueM XXXX SpecifyBitmaps XXXX bitmRDMR5blue XXXX 0343 XXXX bitmRDMRbump XXXX 0376 XXXX 02B7 XXXX 02B9 XXXX bitmRDMRillu XXXX exit
+edit shadRDMRgoldM XXXX SpecifyBitmaps XXXX bitmRDMR6gold XXXX 0343 XXXX bitmRDMRbump XXXX 0376 XXXX 02B7 XXXX 02B9 XXXX bitmRDMRillu XXXX exit
+
+edit shadRDMRrubb0 XXXX SpecifyBitmaps XXXX bitmRDMR0defa XXXX 0343 XXXX bitmRDMRbump XXXX 0376 XXXX 02B7 XXXX 02B9 XXXX bitmRDMRillu XXXX exit
+edit shadRDMRshin0 XXXX SpecifyBitmaps XXXX bitmRDMR0defa XXXX 0343 XXXX bitmRDMRbump XXXX 0376 XXXX 02B7 XXXX 02B9 XXXX bitmRDMRillu XXXX exit
+edit shadRDMRones0 XXXX SpecifyBitmaps XXXX bitmRDMRammu XXXX exit
+edit shadRDMRtens0 XXXX SpecifyBitmaps XXXX bitmRDMRammu XXXX exit
+edit shadRDMRdecal XXXX SpecifyBitmaps XXXX bitmRDMRdeca XXXX 0343 XXXX exit
+edit shadRDMRglass XXXX SpecifyBitmaps XXXX 0343 XXXX 0343 XXXX bitmRDMR0defa XXXX 0343 XXXX exit
+
+edit modeRDMRfp0 XXXX SpecifyShaders XXXX shadRDMRdefaC XXXX shadRDMRlens0 XXXX shadRDMRdefaM XXXX shadRDMRshin0 XXXX shadRDMRrubb0 XXXX shadRDMRdecal XXXX shadRDMRglass XXXX shadRDMRones0 XXXX shadRDMRtens0 XXXX exit
+edit modeRDMRfp1 XXXX SpecifyShaders XXXX shadRDMRpurpC XXXX shadRDMRlens0 XXXX shadRDMRpurpM XXXX shadRDMRshin0 XXXX shadRDMRrubb0 XXXX shadRDMRdecal XXXX shadRDMRglass XXXX shadRDMRones0 XXXX shadRDMRtens0 XXXX exit
+edit modeRDMRfp2 XXXX SpecifyShaders XXXX shadRDMRgrenC XXXX shadRDMRlens0 XXXX shadRDMRgrenM XXXX shadRDMRshin0 XXXX shadRDMRrubb0 XXXX shadRDMRdecal XXXX shadRDMRglass XXXX shadRDMRones0 XXXX shadRDMRtens0 XXXX exit
+edit modeRDMRfp3 XXXX SpecifyShaders XXXX shadRDMRoranC XXXX shadRDMRlens0 XXXX shadRDMRoranM XXXX shadRDMRshin0 XXXX shadRDMRrubb0 XXXX shadRDMRdecal XXXX shadRDMRglass XXXX shadRDMRones0 XXXX shadRDMRtens0 XXXX exit
+edit modeRDMRfp4 XXXX SpecifyShaders XXXX shadRDMRreddC XXXX shadRDMRlens0 XXXX shadRDMRreddM XXXX shadRDMRshin0 XXXX shadRDMRrubb0 XXXX shadRDMRdecal XXXX shadRDMRglass XXXX shadRDMRones0 XXXX shadRDMRtens0 XXXX exit
+edit modeRDMRfp5 XXXX SpecifyShaders XXXX shadRDMRblueC XXXX shadRDMRlens0 XXXX shadRDMRblueM XXXX shadRDMRshin0 XXXX shadRDMRrubb0 XXXX shadRDMRdecal XXXX shadRDMRglass XXXX shadRDMRones0 XXXX shadRDMRtens0 XXXX exit
+edit modeRDMRfp6 XXXX SpecifyShaders XXXX shadRDMRgoldC XXXX shadRDMRlens0 XXXX shadRDMRgoldM XXXX shadRDMRshin0 XXXX shadRDMRrubb0 XXXX shadRDMRdecal XXXX shadRDMRglass XXXX shadRDMRones0 XXXX shadRDMRtens0 XXXX exit
+
+extract modeRDMRfp0 tempTag XXXX import modeRDMR3d0 tempTag
+extract modeRDMRfp1 tempTag XXXX import modeRDMR3d1 tempTag
+extract modeRDMRfp2 tempTag XXXX import modeRDMR3d2 tempTag
+extract modeRDMRfp3 tempTag XXXX import modeRDMR3d3 tempTag
+extract modeRDMRfp4 tempTag XXXX import modeRDMR3d4 tempTag
+extract modeRDMRfp5 tempTag XXXX import modeRDMR3d5 tempTag
+extract modeRDMRfp6 tempTag XXXX import modeRDMR3d6 tempTag
+
+dumplog reachDMR.log XXXX exit XXXX exit

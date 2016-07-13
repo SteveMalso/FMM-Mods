@@ -1,0 +1,9 @@
+edit c1e
+edit hudwidgets[24]
+edit placementdata[0]
+setfield scalex 0.9
+setfield scaley 0.9
+exit
+exit
+savechanges
+exit

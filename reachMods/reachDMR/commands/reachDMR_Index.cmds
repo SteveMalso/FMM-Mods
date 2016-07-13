@@ -1,0 +1,15 @@
+echo Importing these textures is extremly slow. MAX 30 seconds per line...
+edit 1017
+import 0 DDS/LCD/numbers_plate_0.dds
+import 1 DDS/LCD/numbers_plate_1.dds
+import 2 DDS/LCD/numbers_plate_2.dds
+import 3 DDS/LCD/numbers_plate_3.dds
+import 4 DDS/LCD/numbers_plate_4.dds
+import 5 DDS/LCD/numbers_plate_5.dds
+import 6 DDS/LCD/numbers_plate_6.dds
+import 7 DDS/LCD/numbers_plate_7.dds
+import 8 DDS/LCD/numbers_plate_8.dds
+import 9 DDS/LCD/numbers_plate_9.dds
+exit
+dumplog ReachDMRindex.log
+exit

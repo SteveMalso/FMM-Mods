@@ -1,0 +1,65 @@
+
+edit {Weapon_Tag_Index}
+
+//ammo_area_right
+edit hudwidgets[{Ammo_Area_Right_Index}]
+
+edit placementdata[0]
+
+//Change the ammo area widget to 1 scale.
+setfield ScaleX 1
+setfield ScaleY 1
+exit
+
+//Edit the schematic block
+edit bitmapwidgets[0]
+	edit placementdata[0]
+	setfield ScaleX 1
+	setfield ScaleY 1
+	exit
+exit
+
+//Edit the divider
+edit bitmapwidgets[1]
+	edit placementdata[0]
+	setfield OffsetX -177
+	setfield OffsetY 9
+	setfield ScaleX 2
+	setfield ScaleY 1.4
+	exit
+exit
+
+//Edit the meter
+edit bitmapwidgets[2]
+	edit placementdata[0]
+	setfield OffsetY 76
+	setfield ScaleX 1
+	setfield ScaleY 1
+	exit
+exit
+
+//edit the ammo_count
+edit textwidgets[0]
+	edit placementdata[0]
+	setfield OffsetX -217
+	setfield OffsetY 26
+	setfield ScaleX 0.8
+	setfield ScaleY 0.8
+	exit
+
+	edit renderdata[0]
+	setfield ShaderIndex Simple
+	exit
+
+setfield Font Conduit32
+exit
+
+//remove the ammo_count_loaded block
+removefrom textwidgets 2 1
+
+//exit hudwidget
+exit
+
+//save and exit
+savechanges
+exit

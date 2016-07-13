@@ -1,0 +1,1093 @@
+HALO 3 ARMORS MOD Version 2.7.5 FOR HALO ONLINE LEDEWRITO 0.5+
+HALO 3 ARMORS MOD Version 2.7.5 FOR HALO ONLINE LEDEWRITO 0.5+
+XXXX
+
+
+echo 
+echo 
+null
+null
+ThirdPersonArmorObject
+ThirdPersonArmorObject
+FirstPersonArmorModel
+FirstPersonArmorModel
+15E5
+15E5
+15E6
+15E6
+15E9
+15E9
+1600
+1600
+1603
+1603
+1604
+1604
+1605
+1605
+1620
+1620
+1621
+1621
+1623
+1623
+1624
+1624
+1625
+1625
+1639
+1639
+163B
+163B
+163C
+163C
+163D
+163D
+164F
+164F
+1652
+1652
+1653
+1653
+1654
+1654
+1667
+1667
+1669
+1669
+166A
+166A
+166B
+166B
+167F
+167F
+1681
+1681
+1682
+1682
+1683
+1683
+1696
+1696
+1697
+1697
+028E
+028E
+15E4
+15E4
+15FE
+15FE
+161E
+161E
+1637
+1637
+164E
+164E
+1665
+1665
+167C
+167C
+1695
+1695
+16B4
+16B4
+16CB
+16CB
+16E2
+16E2
+0CBD
+0CBD
+01DB
+01DB
+01DC
+01DC
+15EA
+15EA
+15EB
+15EB
+15EC
+15EC
+15F4
+15F4
+15F5
+15F5
+15F6
+15F6
+15FA
+15FA
+15FB
+15FB
+15FC
+15FC
+1606
+1606
+160A
+160A
+160B
+160B
+160C
+160C
+1611
+1611
+1612
+1612
+1613
+1613
+1614
+1614
+1615
+1615
+1616
+1616
+1617
+1617
+1618
+1618
+1619
+1619
+161A
+161A
+161B
+161B
+161C
+161C
+1626
+1626
+1627
+1627
+1628
+1628
+1629
+1629
+162A
+162A
+162B
+162B
+162C
+162C
+162D
+162D
+162E
+162E
+162F
+162F
+1630
+1630
+1631
+1631
+1632
+1632
+1633
+1633
+1634
+1634
+1635
+1635
+163E
+163E
+163F
+163F
+1640
+1640
+153A
+153A
+0343
+0343
+0376
+0376
+02B9
+02B9
+02B7
+02B7
+0EF7
+0EF7
+0379
+0379
+0EF6
+0EF6
+1348
+1348
+01DC
+01DC
+16FA
+16FA
+16F9
+16F9
+000000000000000000000000000000000000
+000000000000000000000000000000000000
+1530
+1530
+1530
+1530
+1531
+1531
+1532
+1532
+1533
+1533
+1534
+1534
+1535
+1535
+1536
+1536
+1537
+1537
+1538
+1538
+1539
+1539
+153A
+153A
+STOP
+
+CLEAR
+echo  MULG SETUP
+edit 028E
+edit universal[0]
+
+SetField SpartanArmorCustomization[0].permutations[00].ThirdPersonArmorObject 1530
+SetField SpartanArmorCustomization[0].permutations[00].FirstPersonArmorModel null
+echo  helmet
+SetField SpartanArmorCustomization[0].permutations[02].ThirdPersonArmorObject 1531
+SetField SpartanArmorCustomization[0].permutations[02].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[03].ThirdPersonArmorObject 1530
+SetField SpartanArmorCustomization[0].permutations[03].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[12].ThirdPersonArmorObject 1532
+SetField SpartanArmorCustomization[0].permutations[12].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[13].ThirdPersonArmorObject 1533
+SetField SpartanArmorCustomization[0].permutations[13].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[16].ThirdPersonArmorObject 1534
+SetField SpartanArmorCustomization[0].permutations[16].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[17].ThirdPersonArmorObject 1535
+SetField SpartanArmorCustomization[0].permutations[17].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[18].ThirdPersonArmorObject 1536
+SetField SpartanArmorCustomization[0].permutations[18].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[20].ThirdPersonArmorObject 1537
+SetField SpartanArmorCustomization[0].permutations[20].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[23].ThirdPersonArmorObject 1538
+SetField SpartanArmorCustomization[0].permutations[23].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[27].ThirdPersonArmorObject 1539
+SetField SpartanArmorCustomization[0].permutations[27].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[29].ThirdPersonArmorObject 153A
+SetField SpartanArmorCustomization[0].permutations[29].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[30].ThirdPersonArmorObject 1530
+SetField SpartanArmorCustomization[0].permutations[30].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[34].ThirdPersonArmorObject 1530
+SetField SpartanArmorCustomization[0].permutations[34].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[36].ThirdPersonArmorObject 1531
+SetField SpartanArmorCustomization[0].permutations[36].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[41].ThirdPersonArmorObject 1532
+SetField SpartanArmorCustomization[0].permutations[41].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[47].ThirdPersonArmorObject 1533
+SetField SpartanArmorCustomization[0].permutations[47].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[54].ThirdPersonArmorObject 1534
+SetField SpartanArmorCustomization[0].permutations[54].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[56].ThirdPersonArmorObject 1535
+SetField SpartanArmorCustomization[0].permutations[56].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[57].ThirdPersonArmorObject 1537
+SetField SpartanArmorCustomization[0].permutations[57].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[58].ThirdPersonArmorObject 1538
+SetField SpartanArmorCustomization[0].permutations[58].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[63].ThirdPersonArmorObject 1539
+SetField SpartanArmorCustomization[0].permutations[63].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[67].ThirdPersonArmorObject 153A
+SetField SpartanArmorCustomization[0].permutations[67].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[68].ThirdPersonArmorObject 1530
+SetField SpartanArmorCustomization[0].permutations[68].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[69].ThirdPersonArmorObject 1531
+SetField SpartanArmorCustomization[0].permutations[69].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[79].ThirdPersonArmorObject 1532
+SetField SpartanArmorCustomization[0].permutations[79].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[80].ThirdPersonArmorObject 1533
+SetField SpartanArmorCustomization[0].permutations[80].FirstPersonArmorModel null
+
+SetField SpartanArmorCustomization[1].permutations[00].ThirdPersonArmorObject 1530
+SetField SpartanArmorCustomization[1].permutations[00].FirstPersonArmorModel null
+echo  chest
+SetField SpartanArmorCustomization[1].permutations[02].ThirdPersonArmorObject 1531
+SetField SpartanArmorCustomization[1].permutations[02].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[03].ThirdPersonArmorObject 1530
+SetField SpartanArmorCustomization[1].permutations[03].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[12].ThirdPersonArmorObject 1532
+SetField SpartanArmorCustomization[1].permutations[12].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[13].ThirdPersonArmorObject 1533
+SetField SpartanArmorCustomization[1].permutations[13].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[16].ThirdPersonArmorObject 1534
+SetField SpartanArmorCustomization[1].permutations[16].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[17].ThirdPersonArmorObject 1535
+SetField SpartanArmorCustomization[1].permutations[17].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[18].ThirdPersonArmorObject 1536
+SetField SpartanArmorCustomization[1].permutations[18].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[20].ThirdPersonArmorObject 1537
+SetField SpartanArmorCustomization[1].permutations[20].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[23].ThirdPersonArmorObject 1538
+SetField SpartanArmorCustomization[1].permutations[23].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[27].ThirdPersonArmorObject 1539
+SetField SpartanArmorCustomization[1].permutations[27].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[29].ThirdPersonArmorObject 153A
+SetField SpartanArmorCustomization[1].permutations[29].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[30].ThirdPersonArmorObject 1530
+SetField SpartanArmorCustomization[1].permutations[30].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[34].ThirdPersonArmorObject 1530
+SetField SpartanArmorCustomization[1].permutations[34].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[36].ThirdPersonArmorObject 1531
+SetField SpartanArmorCustomization[1].permutations[36].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[41].ThirdPersonArmorObject 1532
+SetField SpartanArmorCustomization[1].permutations[41].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[47].ThirdPersonArmorObject 1533
+SetField SpartanArmorCustomization[1].permutations[47].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[54].ThirdPersonArmorObject 1534
+SetField SpartanArmorCustomization[1].permutations[54].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[56].ThirdPersonArmorObject 1535
+SetField SpartanArmorCustomization[1].permutations[56].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[57].ThirdPersonArmorObject 1538
+SetField SpartanArmorCustomization[1].permutations[57].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[62].ThirdPersonArmorObject 1539
+SetField SpartanArmorCustomization[1].permutations[62].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[63].ThirdPersonArmorObject 1537
+SetField SpartanArmorCustomization[1].permutations[63].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[67].ThirdPersonArmorObject 153A
+SetField SpartanArmorCustomization[1].permutations[67].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[68].ThirdPersonArmorObject 1530
+SetField SpartanArmorCustomization[1].permutations[68].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[69].ThirdPersonArmorObject 1531
+SetField SpartanArmorCustomization[1].permutations[69].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[79].ThirdPersonArmorObject 1532
+SetField SpartanArmorCustomization[1].permutations[79].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[80].ThirdPersonArmorObject 1533
+SetField SpartanArmorCustomization[1].permutations[80].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[82].ThirdPersonArmorObject 1534
+SetField SpartanArmorCustomization[1].permutations[82].FirstPersonArmorModel null
+
+SetField SpartanArmorCustomization[2].permutations[00].ThirdPersonArmorObject 1530
+SetField SpartanArmorCustomization[2].permutations[00].FirstPersonArmorModel null
+echo  shoulders 
+SetField SpartanArmorCustomization[2].permutations[02].ThirdPersonArmorObject 1531
+SetField SpartanArmorCustomization[2].permutations[02].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[03].ThirdPersonArmorObject 1530
+SetField SpartanArmorCustomization[2].permutations[03].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[12].ThirdPersonArmorObject 1532
+SetField SpartanArmorCustomization[2].permutations[12].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[13].ThirdPersonArmorObject 1533
+SetField SpartanArmorCustomization[2].permutations[13].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[16].ThirdPersonArmorObject 1534
+SetField SpartanArmorCustomization[2].permutations[16].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[17].ThirdPersonArmorObject 1535
+SetField SpartanArmorCustomization[2].permutations[17].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[18].ThirdPersonArmorObject 1536
+SetField SpartanArmorCustomization[2].permutations[18].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[20].ThirdPersonArmorObject 1537
+SetField SpartanArmorCustomization[2].permutations[20].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[23].ThirdPersonArmorObject 1538
+SetField SpartanArmorCustomization[2].permutations[23].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[27].ThirdPersonArmorObject 1539
+SetField SpartanArmorCustomization[2].permutations[27].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[29].ThirdPersonArmorObject 153A
+SetField SpartanArmorCustomization[2].permutations[29].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[30].ThirdPersonArmorObject 1530
+SetField SpartanArmorCustomization[2].permutations[30].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[34].ThirdPersonArmorObject 1530
+SetField SpartanArmorCustomization[2].permutations[34].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[36].ThirdPersonArmorObject 1531
+SetField SpartanArmorCustomization[2].permutations[36].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[41].ThirdPersonArmorObject 1532
+SetField SpartanArmorCustomization[2].permutations[41].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[47].ThirdPersonArmorObject 1533
+SetField SpartanArmorCustomization[2].permutations[47].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[54].ThirdPersonArmorObject 1534
+SetField SpartanArmorCustomization[2].permutations[54].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[56].ThirdPersonArmorObject 1535
+SetField SpartanArmorCustomization[2].permutations[56].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[57].ThirdPersonArmorObject 1538
+SetField SpartanArmorCustomization[2].permutations[57].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[61].ThirdPersonArmorObject 1539
+SetField SpartanArmorCustomization[2].permutations[61].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[62].ThirdPersonArmorObject 1537
+SetField SpartanArmorCustomization[2].permutations[62].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[67].ThirdPersonArmorObject 153A
+SetField SpartanArmorCustomization[2].permutations[67].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[68].ThirdPersonArmorObject 1530
+SetField SpartanArmorCustomization[2].permutations[68].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[69].ThirdPersonArmorObject 1531
+SetField SpartanArmorCustomization[2].permutations[69].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[79].ThirdPersonArmorObject 1532
+SetField SpartanArmorCustomization[2].permutations[79].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[80].ThirdPersonArmorObject 1533
+SetField SpartanArmorCustomization[2].permutations[80].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[82].ThirdPersonArmorObject 1534
+SetField SpartanArmorCustomization[2].permutations[82].FirstPersonArmorModel null
+
+SetField SpartanArmorCustomization[3].permutations[00].ThirdPersonArmorObject 1536
+SetField SpartanArmorCustomization[3].permutations[00].FirstPersonArmorModel null
+echo  arms
+SetField SpartanArmorCustomization[3].permutations[01].ThirdPersonArmorObject 1531
+SetField SpartanArmorCustomization[3].permutations[01].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[06].ThirdPersonArmorObject 1532
+SetField SpartanArmorCustomization[3].permutations[06].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[07].ThirdPersonArmorObject 1533
+SetField SpartanArmorCustomization[3].permutations[07].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[10].ThirdPersonArmorObject 1534
+SetField SpartanArmorCustomization[3].permutations[10].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[11].ThirdPersonArmorObject 1535
+SetField SpartanArmorCustomization[3].permutations[11].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[12].ThirdPersonArmorObject 1536
+SetField SpartanArmorCustomization[3].permutations[12].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[14].ThirdPersonArmorObject 1537
+SetField SpartanArmorCustomization[3].permutations[14].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[17].ThirdPersonArmorObject 1538
+SetField SpartanArmorCustomization[3].permutations[17].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[21].ThirdPersonArmorObject 1539
+SetField SpartanArmorCustomization[3].permutations[21].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[25].ThirdPersonArmorObject 1530
+SetField SpartanArmorCustomization[3].permutations[25].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[26].ThirdPersonArmorObject 1531
+SetField SpartanArmorCustomization[3].permutations[26].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[29].ThirdPersonArmorObject 1532
+SetField SpartanArmorCustomization[3].permutations[29].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[30].ThirdPersonArmorObject 1533
+SetField SpartanArmorCustomization[3].permutations[30].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[33].ThirdPersonArmorObject 1534
+SetField SpartanArmorCustomization[3].permutations[33].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[34].ThirdPersonArmorObject 1535
+SetField SpartanArmorCustomization[3].permutations[34].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[35].ThirdPersonArmorObject 1538
+SetField SpartanArmorCustomization[3].permutations[35].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[38].ThirdPersonArmorObject 1539
+SetField SpartanArmorCustomization[3].permutations[38].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[39].ThirdPersonArmorObject 1537
+SetField SpartanArmorCustomization[3].permutations[39].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[41].ThirdPersonArmorObject 1530
+SetField SpartanArmorCustomization[3].permutations[41].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[43].ThirdPersonArmorObject 1530
+SetField SpartanArmorCustomization[3].permutations[43].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[44].ThirdPersonArmorObject 1533
+SetField SpartanArmorCustomization[3].permutations[44].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[45].ThirdPersonArmorObject 1530
+SetField SpartanArmorCustomization[3].permutations[45].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[46].ThirdPersonArmorObject 153A
+SetField SpartanArmorCustomization[3].permutations[46].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[47].ThirdPersonArmorObject 1530
+SetField SpartanArmorCustomization[3].permutations[47].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[48].ThirdPersonArmorObject 1531
+SetField SpartanArmorCustomization[3].permutations[48].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[49].ThirdPersonArmorObject 1532
+SetField SpartanArmorCustomization[3].permutations[49].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[50].ThirdPersonArmorObject 1533
+SetField SpartanArmorCustomization[3].permutations[50].FirstPersonArmorModel null
+
+SetField SpartanArmorCustomization[4].permutations[00].ThirdPersonArmorObject 1530
+SetField SpartanArmorCustomization[4].permutations[00].FirstPersonArmorModel null
+echo  legs
+SetField SpartanArmorCustomization[4].permutations[01].ThirdPersonArmorObject 1531
+SetField SpartanArmorCustomization[4].permutations[01].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[05].ThirdPersonArmorObject 1532
+SetField SpartanArmorCustomization[4].permutations[05].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[06].ThirdPersonArmorObject 1533
+SetField SpartanArmorCustomization[4].permutations[06].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[09].ThirdPersonArmorObject 1534
+SetField SpartanArmorCustomization[4].permutations[09].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[10].ThirdPersonArmorObject 1535
+SetField SpartanArmorCustomization[4].permutations[10].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[11].ThirdPersonArmorObject 1536
+SetField SpartanArmorCustomization[4].permutations[11].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[13].ThirdPersonArmorObject 1537
+SetField SpartanArmorCustomization[4].permutations[13].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[16].ThirdPersonArmorObject 1538
+SetField SpartanArmorCustomization[4].permutations[16].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[20].ThirdPersonArmorObject 1539
+SetField SpartanArmorCustomization[4].permutations[20].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[24].ThirdPersonArmorObject 1530
+SetField SpartanArmorCustomization[4].permutations[24].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[25].ThirdPersonArmorObject 1531
+SetField SpartanArmorCustomization[4].permutations[25].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[29].ThirdPersonArmorObject 1532
+SetField SpartanArmorCustomization[4].permutations[29].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[30].ThirdPersonArmorObject 1533
+SetField SpartanArmorCustomization[4].permutations[30].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[33].ThirdPersonArmorObject 1534
+SetField SpartanArmorCustomization[4].permutations[33].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[34].ThirdPersonArmorObject 1538
+SetField SpartanArmorCustomization[4].permutations[34].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[37].ThirdPersonArmorObject 1530
+SetField SpartanArmorCustomization[4].permutations[37].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[39].ThirdPersonArmorObject 1530
+SetField SpartanArmorCustomization[4].permutations[39].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[40].ThirdPersonArmorObject 1530
+SetField SpartanArmorCustomization[4].permutations[40].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[41].ThirdPersonArmorObject 1539
+SetField SpartanArmorCustomization[4].permutations[41].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[42].ThirdPersonArmorObject 1537
+SetField SpartanArmorCustomization[4].permutations[42].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[43].ThirdPersonArmorObject 1535
+SetField SpartanArmorCustomization[4].permutations[43].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[44].ThirdPersonArmorObject 1530
+SetField SpartanArmorCustomization[4].permutations[44].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[45].ThirdPersonArmorObject 153A
+SetField SpartanArmorCustomization[4].permutations[45].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[46].ThirdPersonArmorObject 1530
+SetField SpartanArmorCustomization[4].permutations[46].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[47].ThirdPersonArmorObject 1530
+SetField SpartanArmorCustomization[4].permutations[47].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[48].ThirdPersonArmorObject 1530
+SetField SpartanArmorCustomization[4].permutations[48].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[49].ThirdPersonArmorObject 153A
+SetField SpartanArmorCustomization[4].permutations[49].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[50].ThirdPersonArmorObject 153A
+SetField SpartanArmorCustomization[4].permutations[50].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[51].ThirdPersonArmorObject 1530
+SetField SpartanArmorCustomization[4].permutations[51].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[52].ThirdPersonArmorObject 1530
+SetField SpartanArmorCustomization[4].permutations[52].FirstPersonArmorModel null
+
+SetField SpartanArmorCustomization[6].permutations[00].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[6].permutations[00].FirstPersonArmorModel null
+echo  pelvis
+SetField SpartanArmorCustomization[6].permutations[04].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[6].permutations[04].FirstPersonArmorModel null
+
+SetField SpartanArmorCustomization[0].permutations[01].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[01].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[04].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[04].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[05].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[05].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[06].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[06].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[07].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[07].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[08].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[08].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[09].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[09].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[10].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[10].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[11].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[11].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[14].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[14].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[15].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[15].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[19].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[19].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[21].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[21].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[22].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[22].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[24].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[24].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[25].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[25].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[26].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[26].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[28].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[28].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[31].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[31].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[32].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[32].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[33].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[33].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[35].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[35].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[37].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[37].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[38].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[38].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[39].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[39].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[40].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[40].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[42].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[42].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[43].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[43].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[44].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[44].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[45].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[45].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[46].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[46].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[48].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[48].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[49].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[49].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[50].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[50].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[51].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[51].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[52].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[52].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[53].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[53].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[55].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[55].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[59].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[59].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[60].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[60].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[61].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[61].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[62].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[62].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[64].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[64].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[65].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[65].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[66].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[66].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[70].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[70].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[71].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[71].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[72].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[72].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[73].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[73].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[74].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[74].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[75].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[75].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[76].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[76].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[77].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[77].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[78].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[78].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[0].permutations[81].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[0].permutations[81].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[01].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[01].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[04].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[04].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[05].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[05].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[06].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[06].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[07].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[07].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[08].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[08].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[09].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[09].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[10].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[10].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[11].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[11].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[14].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[14].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[15].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[15].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[19].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[19].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[21].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[21].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[22].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[22].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[24].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[24].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[25].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[25].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[26].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[26].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[28].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[28].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[31].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[31].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[32].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[32].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[33].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[33].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[35].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[35].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[37].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[37].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[38].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[38].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[39].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[39].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[40].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[40].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[42].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[42].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[43].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[43].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[44].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[44].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[45].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[45].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[46].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[46].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[48].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[48].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[49].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[49].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[50].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[50].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[51].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[51].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[52].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[52].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[53].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[53].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[55].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[55].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[58].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[58].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[59].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[59].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[60].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[60].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[61].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[61].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[64].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[64].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[65].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[65].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[66].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[66].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[70].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[70].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[71].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[71].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[72].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[72].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[73].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[73].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[74].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[74].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[75].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[75].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[76].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[76].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[77].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[77].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[78].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[78].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[1].permutations[81].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[1].permutations[81].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[01].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[01].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[04].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[04].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[05].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[05].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[06].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[06].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[07].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[07].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[08].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[08].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[09].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[09].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[10].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[10].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[11].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[11].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[14].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[14].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[15].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[15].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[19].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[19].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[21].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[21].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[22].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[22].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[24].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[24].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[25].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[25].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[26].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[26].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[28].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[28].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[31].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[31].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[32].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[32].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[33].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[33].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[35].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[35].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[37].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[37].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[38].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[38].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[39].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[39].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[40].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[40].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[42].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[42].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[43].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[43].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[44].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[44].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[45].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[45].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[46].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[46].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[48].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[48].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[49].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[49].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[50].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[50].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[51].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[51].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[52].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[52].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[53].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[53].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[55].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[55].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[58].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[58].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[59].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[59].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[60].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[60].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[63].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[63].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[64].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[64].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[65].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[65].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[66].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[66].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[70].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[70].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[71].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[71].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[72].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[72].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[73].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[73].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[74].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[74].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[75].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[75].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[76].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[76].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[77].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[77].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[78].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[78].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[2].permutations[81].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[2].permutations[81].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[02].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[3].permutations[02].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[03].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[3].permutations[03].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[04].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[3].permutations[04].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[05].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[3].permutations[05].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[08].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[3].permutations[08].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[09].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[3].permutations[09].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[13].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[3].permutations[13].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[15].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[3].permutations[15].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[16].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[3].permutations[16].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[18].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[3].permutations[18].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[19].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[3].permutations[19].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[20].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[3].permutations[20].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[22].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[3].permutations[22].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[23].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[3].permutations[23].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[24].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[3].permutations[24].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[27].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[3].permutations[27].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[28].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[3].permutations[28].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[31].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[3].permutations[31].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[32].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[3].permutations[32].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[36].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[3].permutations[36].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[37].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[3].permutations[37].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[40].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[3].permutations[40].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[3].permutations[42].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[3].permutations[42].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[02].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[4].permutations[02].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[03].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[4].permutations[03].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[04].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[4].permutations[04].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[07].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[4].permutations[07].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[08].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[4].permutations[08].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[12].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[4].permutations[12].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[14].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[4].permutations[14].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[15].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[4].permutations[15].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[17].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[4].permutations[17].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[18].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[4].permutations[18].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[19].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[4].permutations[19].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[21].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[4].permutations[21].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[22].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[4].permutations[22].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[23].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[4].permutations[23].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[26].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[4].permutations[26].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[27].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[4].permutations[27].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[28].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[4].permutations[28].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[31].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[4].permutations[31].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[32].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[4].permutations[32].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[35].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[4].permutations[35].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[36].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[4].permutations[36].FirstPersonArmorModel null
+SetField SpartanArmorCustomization[4].permutations[38].ThirdPersonArmorObject null
+SetField SpartanArmorCustomization[4].permutations[38].FirstPersonArmorModel null
+
+savechanges
+exitTo tags.dat
+
+echo  END OF MULG SETUP
+echo  Importing raw geometry, wait...
+resourcedata import resources.dat 00A7 tags/H3armsfp.raw
+resourcedata import resources.dat 00A8 tags/H3bodyfp.raw
+resourcedata import resources.dat 0077 tags/H3bipd3d.raw
+
+echo  import textures
+importbitmap 15EA DDS/mp_masterchief.dds
+importbitmap 15EB DDS/mp_masterchief_new_bump.dds
+importbitmap 15EC DDS/mp_masterchief_cc.dds
+importbitmap 15F4 DDS/mp_cobra.dds
+importbitmap 15F5 DDS/mp_cobra_bump.dds
+importbitmap 15F6 DDS/mp_cobra_cc.dds
+importbitmap 15FA DDS/mp_intruder.dds
+importbitmap 15FB DDS/mp_intruder_bump.dds
+importbitmap 15FC DDS/mp_intruder_cc.dds
+importbitmap 1606 DDS/mp_ninja.dds
+importbitmap 160A DDS/mp_ninja_bump.dds
+importbitmap 160B DDS/mp_ninja_cc.dds
+importbitmap 160C DDS/mp_regulator.dds
+importbitmap 1611 DDS/mp_regulator_zbump.dds 
+importbitmap 1612 DDS/mp_regulator_cc.dds
+importbitmap 1613 DDS/mp_ryu.dds
+importbitmap 1614 DDS/mp_ryu_bump.dds
+importbitmap 1615 DDS/mp_ryu_cc.dds
+importbitmap 1616 DDS/mp_marathon.dds
+importbitmap 1617 DDS/mp_marathon_bump.dds
+importbitmap 1618 DDS/mp_marathon_cc.dds
+importbitmap 1619 DDS/mp_markv.dds
+importbitmap 161A DDS/mp_markv_zbump.dds
+importbitmap 161B DDS/mp_markv_cc.dds
+importbitmap 161C DDS/mp_rogue.dds
+importbitmap 1626 DDS/mp_rogue_zbump.dds
+importbitmap 1627 DDS/mp_rogue_cc.dds
+importbitmap 1628 DDS/mp_scout.dds
+importbitmap 1629 DDS/mp_scout_zbump.dds
+importbitmap 162A DDS/mp_scout_cc.dds
+importbitmap 162B DDS/mp_odst_helmet_diffuse.dds
+importbitmap 162C DDS/odst_helmet_zbump.dds
+importbitmap 162D DDS/mp_odst_cc.dds
+importbitmap 162E DDS/visor_realtime.dds
+importbitmap 162F DDS/visor_realtime_bump.dds
+importbitmap 1630 DDS/CC.dds
+importbitmap 1631 DDS/efp_mp_arms_x.dds
+importbitmap 1632 DDS/efp_arms_zbump.dds
+importbitmap 1633 DDS/efp_arms_cc.dds
+importbitmap 1635 DDS/honeycomb.dds
+importbitmap 163E DDS/masterchief_illum.dds
+importbitmap 1634 DDS/masterchief_metal_detail.dds
+importbitmap 163F DDS/masterchief_microbump.dds
+
+echo  derek edge ; fix edge crashing ; cheap fix to make h3 armors and weapons load; removes some background sounds; no one except GC13 complained, oh welp...
+edit 3DDA
+setfield BackgroundSoundEnvironmentPalette[0].BackgroundSound null
+setfield BackgroundSoundEnvironmentPalette[1].BackgroundSound null
+setfield BackgroundSoundEnvironmentPalette[2].BackgroundSound null
+setfield BackgroundSoundEnvironmentPalette[3].BackgroundSound null
+savechanges
+exitTo tags.dat
+edit 3DDB
+setfield BackgroundSoundEnvironmentPalette[0].BackgroundSound null
+setfield BackgroundSoundEnvironmentPalette[1].BackgroundSound null
+setfield BackgroundSoundEnvironmentPalette[2].BackgroundSound null
+setfield BackgroundSoundEnvironmentPalette[3].BackgroundSound null
+savechanges
+exitTo tags.dat
+
+echo  IMPORT TAGS
+import 16F9 tags/hlmt_Cyclops
+import 1348 tags/hlmt_H3ABipedMain
+import 16FA tags/mode_Cyclops
+import 01DC tags/mode_H3A3dBody
+import 0CBD tags/mode_H3ABipedMain
+import 01DC tags/mode_H3ABody3rd
+import 15FE tags/mode_H3ACobra
+import 161E tags/mode_H3AIntru
+import 167C tags/mode_H3AMarat
+import 15E4 tags/mode_H3AMark6
+import 16B4 tags/mode_H3AMarkV
+import 1637 tags/mode_H3ANinja
+import 16E2 tags/mode_H3AOdst0
+import 164E tags/mode_H3ARegul
+import 16CB tags/mode_H3ARogue
+import 1665 tags/mode_H3ARyu00
+import 1695 tags/mode_H3AScout
+import 01DB tags/mode_H3AfpArms
+import 153A tags/scen_ArmorHalberd
+import 167F tags/shad_H3ABipdLights
+import 166B tags/shad_H3ABipdRubber
+import 1683 tags/shad_H3ABipedBlack
+import 15E9 tags/shad_H3ACobraMetal
+import 1600 tags/shad_H3ACobraVisor
+import 1682 tags/shad_H3ADecalsBipd
+import 1681 tags/shad_H3AEmblemBipd
+import 1604 tags/shad_H3AIntruMetal
+import 163B tags/shad_H3AMaratMetal
+import 15E5 tags/shad_H3AMark6Visor
+import 163D tags/shad_H3AMarkvMetal
+import 164F tags/shad_H3AMarkvVisor
+import 1603 tags/shad_H3AMastCMetal
+import 1620 tags/shad_H3ANinjaMetal
+import 1621 tags/shad_H3ANinjaVisor
+import 1669 tags/shad_H3AOdst0Metal
+import 166A tags/shad_H3AOdst0Visor
+import 15E6 tags/shad_H3AReal0Visor
+import 1623 tags/shad_H3ARegulMetal
+import 1652 tags/shad_H3ARogueMetal
+import 1653 tags/shad_H3ARogueVisor
+import 1625 tags/shad_H3ARyu00Metal
+import 1639 tags/shad_H3ARyu00Visor
+import 1654 tags/shad_H3AScoutMetal
+import 1667 tags/shad_H3AScoutVisor
+import 1696 tags/shad_H3AfpArmsMetal
+import 1697 tags/shad_H3AfpArmsRubbe
+import 1605 tags/shad_H3AintruVisor
+import 163C tags/shad_H3AmaratVisor
+import 1624 tags/shad_H3AregulVisor
+echo  END OF IMPORT TAGS
+dumplog h3armors.log
+exitTo tags.dat
+exit

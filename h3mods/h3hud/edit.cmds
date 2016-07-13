@@ -1,0 +1,7 @@
+edit 0000028E
+edit runtime[0]
+setfield CTFIntroUI CB0
+setfield AssaultIntroUI CB2
+exit
+savechanges
+exit

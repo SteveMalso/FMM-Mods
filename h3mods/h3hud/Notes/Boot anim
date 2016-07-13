@@ -1,0 +1,416 @@
+edit 00000C1E
+
+addto hudwidgets 1
+
+edit hudwidgets[23]
+setfield Name init_wipe_horizontal
+setfield SpecialHUDType Ammo
+setfield Unknown1 1
+setfield Unknown2 5
+addto statedata 1
+addto placementdata 1
+addto bitmapwidgets 16
+
+edit bitmapwidgets[0]
+setfield Name line
+setfield Unknown2 6
+addto placementdata 1
+edit placementdata[0]
+setfield Anchor HealthAndShield
+setfield mirroroffsetX 1
+setfield ScaleX 1
+setfield ScaleY 1
+exit
+addto animationdata 1
+edit animationdata[0]
+setfield Animation1 C4A
+setfield Animation2 C32
+exit
+addto renderdata 1
+edit renderdata[0]
+setfield OutputColorC GlobalDynamic2
+exit
+setfield WidgetIndex 49
+setfield Bitmap 00000C4B
+exit
+
+edit bitmapwidgets[1]
+setfield Name line
+setfield Unknown2 6
+addto placementdata 1
+edit placementdata[0]
+setfield Anchor HealthAndShield
+setfield mirroroffsetX 1
+setfield mirroroffsetY -50
+setfield offsetX -20
+setfield ScaleX 1
+setfield ScaleY 1
+exit
+addto animationdata 1
+edit animationdata[0]
+setfield Animation1 C4A
+setfield Animation2 C32
+exit
+addto renderdata 1
+edit renderdata[0]
+setfield OutputColorC GlobalDynamic2
+exit
+setfield WidgetIndex 50
+setfield Bitmap 00000C4B
+exit
+
+edit bitmapwidgets[2]
+setfield Name line
+setfield Unknown2 6
+addto placementdata 1
+edit placementdata[0]
+setfield Anchor HealthAndShield
+setfield mirroroffsetX 1
+setfield mirroroffsetY -100
+setfield offsetX -40
+setfield ScaleX 1
+setfield ScaleY 1
+exit
+addto animationdata 1
+edit animationdata[0]
+setfield Animation1 C4A
+setfield Animation2 C32
+exit
+addto renderdata 1
+edit renderdata[0]
+setfield OutputColorC GlobalDynamic2
+exit
+setfield WidgetIndex 51
+setfield Bitmap 00000C4B
+exit
+
+edit bitmapwidgets[3]
+setfield Name line
+setfield Unknown2 6
+addto placementdata 1
+edit placementdata[0]
+setfield Anchor HealthAndShield
+setfield mirroroffsetX 1
+setfield mirroroffsetY -150
+setfield offsetX -60
+setfield ScaleX 1
+setfield ScaleY 1
+exit
+addto animationdata 1
+edit animationdata[0]
+setfield Animation1 C4A
+setfield Animation2 C32
+exit
+addto renderdata 1
+edit renderdata[0]
+setfield OutputColorC GlobalDynamic2
+exit
+setfield WidgetIndex 52
+setfield Bitmap 00000C4B
+exit
+
+edit bitmapwidgets[4]
+setfield Name line
+setfield Unknown2 6
+addto placementdata 1
+edit placementdata[0]
+setfield Anchor HealthAndShield
+setfield mirroroffsetX 1
+setfield mirroroffsetY -200
+setfield offsetX -80
+setfield ScaleX 1
+setfield ScaleY 1
+exit
+addto animationdata 1
+edit animationdata[0]
+setfield Animation1 C4A
+setfield Animation2 C32
+exit
+addto renderdata 1
+edit renderdata[0]
+setfield OutputColorC GlobalDynamic2
+exit
+setfield WidgetIndex 53
+setfield Bitmap 00000C4B
+exit
+
+edit bitmapwidgets[5]
+setfield Name line
+setfield Unknown2 6
+addto placementdata 1
+edit placementdata[0]
+setfield Anchor HealthAndShield
+setfield mirroroffsetX 1
+setfield mirroroffsetY -250
+setfield offsetX -100
+setfield ScaleX 1
+setfield ScaleY 1
+exit
+addto animationdata 1
+edit animationdata[0]
+setfield Animation1 C4A
+setfield Animation2 C32
+exit
+addto renderdata 1
+edit renderdata[0]
+setfield OutputColorC GlobalDynamic2
+exit
+setfield WidgetIndex 54
+setfield Bitmap 00000C4B
+exit
+
+edit bitmapwidgets[6]
+setfield Name line
+setfield Unknown2 6
+addto placementdata 1
+edit placementdata[0]
+setfield Anchor HealthAndShield
+setfield mirroroffsetX 1
+setfield mirroroffsetY -300
+setfield offsetX -120
+setfield ScaleX 1
+setfield ScaleY 1
+exit
+addto animationdata 1
+edit animationdata[0]
+setfield Animation1 C4A
+setfield Animation2 C32
+exit
+addto renderdata 1
+edit renderdata[0]
+setfield OutputColorC GlobalDynamic2
+exit
+setfield WidgetIndex 55
+setfield Bitmap 00000C4B
+exit
+
+edit bitmapwidgets[7]
+setfield Name line
+setfield Unknown2 6
+addto placementdata 1
+edit placementdata[0]
+setfield Anchor HealthAndShield
+setfield mirroroffsetX 1
+setfield mirroroffsetY -350
+setfield offsetX -140
+setfield ScaleX 1
+setfield ScaleY 1
+exit
+addto animationdata 1
+edit animationdata[0]
+setfield Animation1 C4A
+setfield Animation2 C32
+exit
+addto renderdata 1
+edit renderdata[0]
+setfield OutputColorC GlobalDynamic2
+exit
+setfield WidgetIndex 56
+setfield Bitmap 00000C4B
+exit
+
+edit bitmapwidgets[8]
+setfield Name line
+setfield Unknown2 6
+addto placementdata 1
+edit placementdata[0]
+setfield Anchor HealthAndShield
+setfield mirroroffsetX 1
+setfield mirroroffsetY -400
+setfield offsetX -160
+setfield ScaleX 1
+setfield ScaleY 1
+exit
+addto animationdata 1
+edit animationdata[0]
+setfield Animation1 C4A
+setfield Animation2 C32
+exit
+addto renderdata 1
+edit renderdata[0]
+setfield OutputColorC GlobalDynamic2
+exit
+setfield WidgetIndex 57
+setfield Bitmap 00000C4B
+exit
+
+edit bitmapwidgets[9]
+setfield Name line
+setfield Unknown2 6
+addto placementdata 1
+edit placementdata[0]
+setfield Anchor HealthAndShield
+setfield mirroroffsetX 1
+setfield mirroroffsetY -450
+setfield offsetX -180
+setfield ScaleX 1
+setfield ScaleY 1
+exit
+addto animationdata 1
+edit animationdata[0]
+setfield Animation1 C4A
+setfield Animation2 C32
+exit
+addto renderdata 1
+edit renderdata[0]
+setfield OutputColorC GlobalDynamic2
+exit
+setfield WidgetIndex 58
+setfield Bitmap 00000C4B
+exit
+
+edit bitmapwidgets[10]
+setfield Name line
+setfield Unknown2 6
+addto placementdata 1
+edit placementdata[0]
+setfield Anchor HealthAndShield
+setfield mirroroffsetX 1
+setfield mirroroffsetY -500
+setfield offsetX -200
+setfield ScaleX 1
+setfield ScaleY 1
+exit
+addto animationdata 1
+edit animationdata[0]
+setfield Animation1 C4A
+setfield Animation2 C32
+exit
+addto renderdata 1
+edit renderdata[0]
+setfield OutputColorC GlobalDynamic2
+exit
+setfield WidgetIndex 59
+setfield Bitmap 00000C4B
+exit
+
+edit bitmapwidgets[11]
+setfield Name line
+setfield Unknown2 6
+addto placementdata 1
+edit placementdata[0]
+setfield Anchor HealthAndShield
+setfield mirroroffsetX 1
+setfield mirroroffsetY -550
+setfield offsetX -220
+setfield ScaleX 1
+setfield ScaleY 1
+exit
+addto animationdata 1
+edit animationdata[0]
+setfield Animation1 C4A
+setfield Animation2 C32
+exit
+addto renderdata 1
+edit renderdata[0]
+setfield OutputColorC GlobalDynamic2
+exit
+setfield WidgetIndex 60
+setfield Bitmap 00000C4B
+exit
+
+edit bitmapwidgets[12]
+setfield Name line
+setfield Unknown2 6
+addto placementdata 1
+edit placementdata[0]
+setfield Anchor HealthAndShield
+setfield mirroroffsetX 1
+setfield mirroroffsetY -600
+setfield offsetX -240
+setfield ScaleX 1
+setfield ScaleY 1
+exit
+addto animationdata 1
+edit animationdata[0]
+setfield Animation1 C4A
+setfield Animation2 C32
+exit
+addto renderdata 1
+edit renderdata[0]
+setfield OutputColorC GlobalDynamic2
+exit
+setfield WidgetIndex 61
+setfield Bitmap 00000C4B
+exit
+
+edit bitmapwidgets[13]
+setfield Name line
+setfield Unknown2 6
+addto placementdata 1
+edit placementdata[0]
+setfield Anchor HealthAndShield
+setfield mirroroffsetX 1
+setfield mirroroffsetY -650
+setfield offsetX -260
+setfield ScaleX 1
+setfield ScaleY 1
+exit
+addto animationdata 1
+edit animationdata[0]
+setfield Animation1 C4A
+setfield Animation2 C32
+exit
+addto renderdata 1
+edit renderdata[0]
+setfield OutputColorC GlobalDynamic2
+exit
+setfield WidgetIndex 62
+setfield Bitmap 00000C4B
+exit
+
+edit bitmapwidgets[14]
+setfield Name line
+setfield Unknown2 6
+addto placementdata 1
+edit placementdata[0]
+setfield Anchor HealthAndShield
+setfield mirroroffsetX 1
+setfield mirroroffsetY -700
+setfield offsetX -280
+setfield ScaleX 1
+setfield ScaleY 1
+exit
+addto animationdata 1
+edit animationdata[0]
+setfield Animation1 C4A
+setfield Animation2 C32
+exit
+addto renderdata 1
+edit renderdata[0]
+setfield OutputColorC GlobalDynamic2
+exit
+setfield WidgetIndex 63
+setfield Bitmap 00000C4B
+exit
+
+edit bitmapwidgets[15]
+setfield Name line
+setfield Unknown2 6
+addto placementdata 1
+edit placementdata[0]
+setfield Anchor HealthAndShield
+setfield mirroroffsetX 1
+setfield mirroroffsetY -750
+setfield offsetX -300
+setfield ScaleX 1
+setfield ScaleY 1
+exit
+addto animationdata 1
+edit animationdata[0]
+setfield Animation1 C4A
+setfield Animation2 C32
+exit
+addto renderdata 1
+edit renderdata[0]
+setfield OutputColorC GlobalDynamic2
+exit
+setfield WidgetIndex 64
+setfield Bitmap 00000C4B
+exit
+
+exit
+
+savechanges
+
+exit

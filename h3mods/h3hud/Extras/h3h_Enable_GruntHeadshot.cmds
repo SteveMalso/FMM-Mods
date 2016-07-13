@@ -1,0 +1,21 @@
+edit 1348
+edit newdamageinfo[0]
+edit damagesections[1]
+edit instantresponses[0]
+setfield secondarytransitioneffect 12FE
+exit
+exit
+exit
+savechanges
+exit
+
+edit 1bd
+edit hudglobals[0]
+edit hudsounds[19]
+edit unknown[0]
+setfield sound null
+exit
+exit
+exit
+savechanges
+exit
