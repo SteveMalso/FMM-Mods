@@ -1,8 +1,0 @@
-ECHO FMM_OUTPUT Installing Halo 3 weapons...
-cd mods\tagMods\h3mods\h3weap
-MOVE ..\..\..\..\maps\resources.dat resources.dat
-Type commands\h3weap.cmds | TagTool.exe ../../../../maps/tags.dat
-MOVE resources.dat ..\..\..\..\maps\resources.dat
-
-ECHO FMM_OUTPUT Installing textures, this is very slow for now, may last for 5-10 minutes, please wait...
-Type commands\h3weapIndex.cmds | TagTool.exe ../../../../maps/tags.dat
