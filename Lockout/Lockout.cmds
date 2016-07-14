@@ -2,6 +2,8 @@ Lockout V050; made by Bungie; rebuilt in HO by dany5639 using Shockfire's TagToo
 
 version: .
 
+SetLocale US
+
 echo SHADERS AND TEXTURES
 echo failproof
 extract 3317 tempTag
