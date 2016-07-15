@@ -32,5 +32,6 @@ https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/reachMods/reachDMR/reac
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/reachMods/reachMagnum/reachMagnum.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/reachMods/reachShotgun/reachShotgun.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/reachMods/reachSMG/reachSMG.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/reachMods/reachSniper/reachSniper.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Reacthor/Reacthor.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/weaponOutlineRemover/weaponOutlineRemover.ini
