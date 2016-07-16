@@ -72,8 +72,17 @@ edit modeAR03d XXXX edit geometry.compression[0] XXXX SetField TextureMinV 0.007
 
 edit modeAR0fp XXXX SetField markergroups[01].markers[0].RegionIndex -1 XXXX SetField markergroups[01].markers[0].PermutationIndex -1 XXXX SetField markergroups[01].markers[0].NodeIndex 0 XXXX SetField markergroups[01].markers[0].Unknown3 0 XXXX SetField markergroups[01].markers[0].Translation 0.1010085 -0.002260342 0.01560136 XXXX SetField markergroups[01].markers[0].Rotation -0.6241202 0.1670771 -0.45504 0.6127788 XXXX SetField markergroups[01].markers[0].Scale 0 XXXX savechanges XXXX exit
 
-extract modeAR0fp tempTag XXXX import modeAR2fp tempTag XXXX import modeAR3fp tempTag XXXX import modeAR5fp tempTag XXXX import modeAR6fp tempTag
-extract modeAR03d tempTag XXXX import modeAR23d tempTag XXXX import modeAR33d tempTag XXXX import modeAR53d tempTag XXXX import modeAR63d tempTag
+extract modeAR0fp tempTag
+import modeAR2fp tempTag
+import modeAR3fp tempTag
+import modeAR5fp tempTag
+import modeAR6fp tempTag
+
+extract modeAR03d tempTag
+import modeAR23d tempTag
+import modeAR33d tempTag
+import modeAR53d tempTag
+import modeAR63d tempTag
 
 importbitmap bitmARDisp DDS/Display.dds
 importbitmap bitmARbase DDS/assault_rifle.dds
