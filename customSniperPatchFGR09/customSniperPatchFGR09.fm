@@ -1,6 +1,0 @@
-ECHO FMM_OUTPUT Installing customSniperPatchFGR09...
-cd mods\tagMods\customSniperPatchFGR09
-
-color 0A
-
-Type commands\customSniperPatchFGR09.cmds | TagTool.exe ../../../maps/tags.dat
