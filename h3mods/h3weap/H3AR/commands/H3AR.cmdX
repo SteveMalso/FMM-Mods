@@ -1,11 +1,15 @@
 0000
-bitmARDisp
+bitmARdisp
 0000
 bitmARbase
 0000
 bitmARbump
 0000
 bitmARillu
+0000
+bitmARones
+0000
+bitmARcomp
 0000
 shadAR0def
 0000
@@ -17,13 +21,13 @@ shadAR5gre
 0000
 shadAR6yel
 0000
-shadARComp
+shadARcomp
 0000
-shadARDisp
+shadARdisp
 0000
-shadAROnes
+shadARones
 0000
-shadARTens
+shadARtens
 0000
 shadARenvi
 0000
@@ -34,10 +38,6 @@ modeAR0fp
 modeAR2fp
 0F32
 modeAR3fp
-0F09
-bitmAROnes
-0F40
-bitmARCompass
 0F52
 modeAR5fp
 0F61
@@ -52,6 +52,14 @@ modeAR33d
 modeAR53d
 2358
 modeAR63d
+====
+====
+0F09
+bitmDefaultOnes
+0F40
+bitmDefaultComp
+====
+====
 // Halo 3 weapon (local cosmetic) for Halo Online Eldewrito (ms23; Eldewrito 0.5.1.1)
 ====
 echo
@@ -60,12 +68,12 @@ STOP
 
 SetLocale US
 
-duplicate 0 XXXX duplicate 0 XXXX duplicate 0 XXXX duplicate 0 XXXX duplicate 0 XXXX duplicate 0 XXXX duplicate 0 XXXX duplicate 0 XXXX duplicate 0 XXXX duplicate 0 XXXX duplicate 0 XXXX duplicate 0 XXXX duplicate 0 XXXX duplicate 0 XXXX duplicate 0 XXXX duplicate 0
+duplicate 0 XXXX duplicate 0 XXXX duplicate 0 XXXX duplicate 0 XXXX duplicate 0 XXXX duplicate 0 XXXX duplicate 0 XXXX duplicate 0 XXXX duplicate 0 XXXX duplicate 0 XXXX duplicate 0 XXXX duplicate 0 XXXX duplicate 0 XXXX duplicate 0 XXXX duplicate 0 XXXX duplicate 0 XXXX duplicate 0 XXXX duplicate 0
 
 import modeAR0fp tags/H3ARfp.tag
 import modeAR03d tags/H3AR3d.tag
-importmodelraw modeAR0fp tags/H3ARfp.raw
-importmodelraw modeAR03d tags/H3AR3d.raw
+importresource resources.dat modeAR0fp tags/H3ARfp.raw
+importresource resources.dat modeAR03d tags/H3AR3d.raw
 
 edit modeAR0fp XXXX edit geometry.compression[0] XXXX SetField TextureMinV 0.04066753 XXXX SetField TextureMaxV -1.039278 XXXX savechanges XXXX exitTo tags.dat
 edit modeAR03d XXXX edit geometry.compression[0] XXXX SetField TextureMinV 0.007111788 XXXX SetField TextureMaxV -1.000966 XXXX savechanges XXXX exitTo tags.dat
@@ -84,7 +92,7 @@ import modeAR33d tempTag
 import modeAR53d tempTag
 import modeAR63d tempTag
 
-importbitmap bitmARDisp DDS/Display.dds
+importbitmap bitmARdisp DDS/Display.dds
 importbitmap bitmARbase DDS/assault_rifle.dds
 importbitmap bitmARbump DDS/assault_rifle_bump.dds
 importbitmap bitmARillu DDS/assault_rifle_illum.dds
@@ -94,46 +102,124 @@ import shadAR2red tagTemplates/205B_rmshTemplate
 import shadAR3ora tagTemplates/205B_rmshTemplate
 import shadAR5gre tagTemplates/205B_rmshTemplate
 import shadAR6yel tagTemplates/205B_rmshTemplate
-import shadARComp tagTemplates/0EEA_rmshTemplate
-import shadARDisp tagTemplates/0F11_rmshTemplate
-import shadAROnes tagTemplates/0F79_rmshTemplate
-import shadARTens tagTemplates/0F7A_rmshTemplate
+import shadARcomp tagTemplates/0EEA_rmshTemplate
+import shadARdisp tagTemplates/0F11_rmshTemplate
+import shadARones tagTemplates/0F79_rmshTemplate
+import shadARtens tagTemplates/0F7A_rmshTemplate
 import shadARenvi tagTemplates/205B_rmshTemplate
 import shadARrubb tagTemplates/205B_rmshTemplate
 
-edit modeAR0fp XXXX SpecifyShaders XXXX shadAR0def XXXX shadARrubb XXXX shadAR0def XXXX shadARComp XXXX shadARDisp XXXX shadARTens XXXX shadAROnes XXXX exit
-edit modeAR2fp XXXX SpecifyShaders XXXX shadAR2red XXXX shadARrubb XXXX shadAR2red XXXX shadARComp XXXX shadARDisp XXXX shadARTens XXXX shadAROnes XXXX exit
-edit modeAR3fp XXXX SpecifyShaders XXXX shadAR3ora XXXX shadARrubb XXXX shadAR3ora XXXX shadARComp XXXX shadARDisp XXXX shadARTens XXXX shadAROnes XXXX exit
-edit modeAR5fp XXXX SpecifyShaders XXXX shadAR5gre XXXX shadARrubb XXXX shadAR5gre XXXX shadARComp XXXX shadARDisp XXXX shadARTens XXXX shadAROnes XXXX exit
-edit modeAR6fp XXXX SpecifyShaders XXXX shadAR6yel XXXX shadARrubb XXXX shadAR6yel XXXX shadARComp XXXX shadARDisp XXXX shadARTens XXXX shadAROnes XXXX exit
-edit modeAR03d XXXX SpecifyShaders XXXX shadARTens XXXX shadAROnes XXXX shadARDisp XXXX shadAR0def XXXX shadARrubb XXXX shadAR0def XXXX exit
-edit modeAR23d XXXX SpecifyShaders XXXX shadARTens XXXX shadAROnes XXXX shadARDisp XXXX shadAR2red XXXX shadARrubb XXXX shadAR2red XXXX exit
-edit modeAR33d XXXX SpecifyShaders XXXX shadARTens XXXX shadAROnes XXXX shadARDisp XXXX shadAR3ora XXXX shadARrubb XXXX shadAR3ora XXXX exit
-edit modeAR53d XXXX SpecifyShaders XXXX shadARTens XXXX shadAROnes XXXX shadARDisp XXXX shadAR5gre XXXX shadARrubb XXXX shadAR5gre XXXX exit
-edit modeAR63d XXXX SpecifyShaders XXXX shadARTens XXXX shadAROnes XXXX shadARDisp XXXX shadAR6yel XXXX shadARrubb XXXX shadAR6yel XXXX exit
+edit modeAR0fp XXXX SpecifyShaders XXXX shadAR0def XXXX shadARrubb XXXX shadAR0def XXXX shadARcomp XXXX shadARdisp XXXX shadARtens XXXX shadARones XXXX exit
+edit modeAR2fp XXXX SpecifyShaders XXXX shadAR2red XXXX shadARrubb XXXX shadAR2red XXXX shadARcomp XXXX shadARdisp XXXX shadARtens XXXX shadARones XXXX exit
+edit modeAR3fp XXXX SpecifyShaders XXXX shadAR3ora XXXX shadARrubb XXXX shadAR3ora XXXX shadARcomp XXXX shadARdisp XXXX shadARtens XXXX shadARones XXXX exit
+edit modeAR5fp XXXX SpecifyShaders XXXX shadAR5gre XXXX shadARrubb XXXX shadAR5gre XXXX shadARcomp XXXX shadARdisp XXXX shadARtens XXXX shadARones XXXX exit
+edit modeAR6fp XXXX SpecifyShaders XXXX shadAR6yel XXXX shadARrubb XXXX shadAR6yel XXXX shadARcomp XXXX shadARdisp XXXX shadARtens XXXX shadARones XXXX exit
+edit modeAR03d XXXX SpecifyShaders XXXX shadARtens XXXX shadARones XXXX shadARdisp XXXX shadAR0def XXXX shadARrubb XXXX shadAR0def XXXX exit
+edit modeAR23d XXXX SpecifyShaders XXXX shadARtens XXXX shadARones XXXX shadARdisp XXXX shadAR2red XXXX shadARrubb XXXX shadAR2red XXXX exit
+edit modeAR33d XXXX SpecifyShaders XXXX shadARtens XXXX shadARones XXXX shadARdisp XXXX shadAR3ora XXXX shadARrubb XXXX shadAR3ora XXXX exit
+edit modeAR53d XXXX SpecifyShaders XXXX shadARtens XXXX shadARones XXXX shadARdisp XXXX shadAR5gre XXXX shadARrubb XXXX shadAR5gre XXXX exit
+edit modeAR63d XXXX SpecifyShaders XXXX shadARtens XXXX shadARones XXXX shadARdisp XXXX shadAR6yel XXXX shadARrubb XXXX shadAR6yel XXXX exit
 
-edit shadAROnes XXXX SpecifyBitmaps XXXX bitmAROnes XXXX exit
-edit shadARTens XXXX SpecifyBitmaps XXXX bitmAROnes XXXX exit
 edit shadAR0def XXXX SpecifyBitmaps XXXX bitmARbase XXXX 0343 XXXX bitmARbump XXXX 0376 XXXX 02B7 XXXX 02B9 XXXX bitmARillu XXXX exit
 edit shadAR2red XXXX SpecifyBitmaps XXXX bitmARbase XXXX 0343 XXXX bitmARbump XXXX 0376 XXXX 02B7 XXXX 02B9 XXXX bitmARillu XXXX exit
 edit shadAR3ora XXXX SpecifyBitmaps XXXX bitmARbase XXXX 0343 XXXX bitmARbump XXXX 0376 XXXX 02B7 XXXX 02B9 XXXX bitmARillu XXXX exit
 edit shadAR5gre XXXX SpecifyBitmaps XXXX bitmARbase XXXX 0343 XXXX bitmARbump XXXX 0376 XXXX 02B7 XXXX 02B9 XXXX bitmARillu XXXX exit
 edit shadAR6yel XXXX SpecifyBitmaps XXXX bitmARbase XXXX 0343 XXXX bitmARbump XXXX 0376 XXXX 02B7 XXXX 02B9 XXXX bitmARillu XXXX exit
-edit shadARDisp XXXX SpecifyBitmaps XXXX bitmARDisp XXXX exit
 edit shadARenvi XXXX SpecifyBitmaps XXXX bitmARbase XXXX 0343 XXXX bitmARbump XXXX 0376 XXXX 02B7 XXXX 02B9 XXXX bitmARillu XXXX exit
 edit shadARrubb XXXX SpecifyBitmaps XXXX bitmARbase XXXX 0343 XXXX bitmARbump XXXX 0376 XXXX 02B7 XXXX 02B9 XXXX bitmARillu XXXX exit
+edit shadARones XXXX SpecifyBitmaps XXXX bitmARones XXXX exit
+edit shadARtens XXXX SpecifyBitmaps XXXX bitmARones XXXX exit
+edit shadARdisp XXXX SpecifyBitmaps XXXX bitmARdisp XXXX exit
+edit shadARcomp XXXX SpecifyBitmaps XXXX bitmARcomp XXXX exit
 
 edit shadAR0def XXXX edit ShaderProperties[0] XXXX SetField arguments[19].arg1 1.0 XXXX SetField arguments[16].arg1 0 XXXX SetField arguments[29].arg1 5 XXXX SetField arguments[28].arg1 0.0 XXXX SetField arguments[28].arg2 1.0 XXXX SetField arguments[28].arg3 0 XXXX SetField arguments[06].arg1 1.0 XXXX savechanges XXXX exit XXXX exit
 edit shadAR2red XXXX edit ShaderProperties[0] XXXX SetField arguments[19].arg1 1.0 XXXX SetField arguments[16].arg1 0 XXXX SetField arguments[29].arg1 5 XXXX SetField arguments[28].arg1 1.0 XXXX SetField arguments[28].arg2 0.0 XXXX SetField arguments[28].arg3 0 XXXX SetField arguments[06].arg1 1.0 XXXX savechanges XXXX exit XXXX exit
 edit shadAR3ora XXXX edit ShaderProperties[0] XXXX SetField arguments[19].arg1 1.0 XXXX SetField arguments[16].arg1 0 XXXX SetField arguments[29].arg1 5 XXXX SetField arguments[28].arg1 1.0 XXXX SetField arguments[28].arg2 0.7 XXXX SetField arguments[28].arg3 0 XXXX SetField arguments[06].arg1 1.0 XXXX savechanges XXXX exit XXXX exit
 edit shadAR5gre XXXX edit ShaderProperties[0] XXXX SetField arguments[19].arg1 1.0 XXXX SetField arguments[16].arg1 0 XXXX SetField arguments[29].arg1 5 XXXX SetField arguments[28].arg1 0.0 XXXX SetField arguments[28].arg2 1.0 XXXX SetField arguments[28].arg3 0 XXXX SetField arguments[06].arg1 1.0 XXXX savechanges XXXX exit XXXX exit
 edit shadAR6yel XXXX edit ShaderProperties[0] XXXX SetField arguments[19].arg1 1.0 XXXX SetField arguments[16].arg1 0 XXXX SetField arguments[29].arg1 5 XXXX SetField arguments[28].arg1 1.0 XXXX SetField arguments[28].arg2 1.0 XXXX SetField arguments[28].arg3 0 XXXX SetField arguments[06].arg1 1.0 XXXX savechanges XXXX exit XXXX exit
-edit shadARComp XXXX edit ShaderProperties[0] XXXX SetField arguments[01].arg4 1.0 XXXX savechanges XXXX exit XXXX exit
-edit shadARDisp XXXX edit ShaderProperties[0] XXXX SetField arguments[02].Arg1 0.0 XXXX SetField arguments[02].Arg2 0.5 XXXX SetField arguments[02].Arg3 0.5 XXXX savechanges XXXX exit XXXX exit
 edit shadARenvi XXXX edit ShaderProperties[0] XXXX SetField arguments[19].arg1 1.0 XXXX SetField arguments[16].arg1 0.0 XXXX SetField arguments[29].arg1 0 XXXX SetField arguments[28].arg1 0.0 XXXX SetField arguments[28].arg2 0.0 XXXX SetField arguments[28].arg3 0 XXXX SetField arguments[06].arg1 1.0 XXXX savechanges XXXX exit XXXX exit
 edit shadARrubb XXXX edit ShaderProperties[0] XXXX SetField arguments[19].arg1 1.0 XXXX SetField arguments[16].arg1 0.0 XXXX SetField arguments[29].arg1 0 XXXX SetField arguments[28].arg1 0.0 XXXX SetField arguments[28].arg2 0.0 XXXX SetField arguments[28].arg3 0 XXXX SetField arguments[06].arg1 1.0 XXXX savechanges XXXX exit XXXX exit
+edit shadARcomp XXXX edit ShaderProperties[0] XXXX SetField arguments[01].arg4 1.0 XXXX savechanges XXXX exit XXXX exit
+edit shadARdisp XXXX edit ShaderProperties[0] XXXX SetField arguments[02].Arg1 0.0 XXXX SetField arguments[02].Arg2 0.5 XXXX SetField arguments[02].Arg3 0.5 XXXX savechanges XXXX exit XXXX exit
+
+// edit bitmDefaultOnes
+// import 0 DDS/LCD/0.dds
+// import 1 DDS/LCD/1.dds
+// import 2 DDS/LCD/2.dds
+// import 3 DDS/LCD/3.dds
+// import 4 DDS/LCD/4.dds
+// import 5 DDS/LCD/5.dds
+// import 6 DDS/LCD/6.dds
+// import 7 DDS/LCD/7.dds
+// import 8 DDS/LCD/8.dds
+// import 9 DDS/LCD/9.dds
+// exit
+// edit bitmDefaultComp
+// import 0 DDS/compass/compass0.dds
+// import 1 DDS/compass/compass1.dds
+// import 2 DDS/compass/compass2.dds
+// import 3 DDS/compass/compass3.dds
+// import 4 DDS/compass/compass4.dds
+// import 5 DDS/compass/compass5.dds
+// import 6 DDS/compass/compass6.dds
+// import 7 DDS/compass/compass7.dds
+// exit
+// extract bitmDefaultOnes tags\bitm_H3Ones.tag
+// extract bitmDefaultComp tags\bitm_H3Compass.tag
+// extractresource textures.dat bitmDefaultOnes tags\ones\bitm_ARones_0.bitm 0
+// extractresource textures.dat bitmDefaultOnes tags\ones\bitm_ARones_1.bitm 1
+// extractresource textures.dat bitmDefaultOnes tags\ones\bitm_ARones_2.bitm 2
+// extractresource textures.dat bitmDefaultOnes tags\ones\bitm_ARones_3.bitm 3
+// extractresource textures.dat bitmDefaultOnes tags\ones\bitm_ARones_4.bitm 4
+// extractresource textures.dat bitmDefaultOnes tags\ones\bitm_ARones_5.bitm 5
+// extractresource textures.dat bitmDefaultOnes tags\ones\bitm_ARones_6.bitm 6
+// extractresource textures.dat bitmDefaultOnes tags\ones\bitm_ARones_7.bitm 7
+// extractresource textures.dat bitmDefaultOnes tags\ones\bitm_ARones_8.bitm 8
+// extractresource textures.dat bitmDefaultOnes tags\ones\bitm_ARones_9.bitm 9
+// extractresource textures.dat bitmDefaultComp tags\compass\bitm_AROnes_0.bitm 0
+// extractresource textures.dat bitmDefaultComp tags\compass\bitm_AROnes_1.bitm 1
+// extractresource textures.dat bitmDefaultComp tags\compass\bitm_AROnes_2.bitm 2
+// extractresource textures.dat bitmDefaultComp tags\compass\bitm_AROnes_3.bitm 3
+// extractresource textures.dat bitmDefaultComp tags\compass\bitm_AROnes_4.bitm 4
+// extractresource textures.dat bitmDefaultComp tags\compass\bitm_AROnes_5.bitm 5
+// extractresource textures.dat bitmDefaultComp tags\compass\bitm_AROnes_6.bitm 6
+// extractresource textures.dat bitmDefaultComp tags\compass\bitm_AROnes_7.bitm 7
+
+import bitmARones tags/bitm_H3Ones.tag
+import bitmARcomp tags/bitm_H3Compass.tag
+
+importresource textures.dat bitmARones tags/ones
+importresource textures.dat bitmARcomp tags/compass
 
 dumplog H3AR.log XXXX exit XXXX exit
+
+bitmARdisp bitm_ARDisp
+bitmARbase bitm_ARbase
+bitmARbump bitm_ARbump
+bitmARillu bitm_ARillu
+shadAR0def shad_AR0def
+shadAR2red shad_AR2red
+shadAR3ora shad_AR3ora
+shadAR5gre shad_AR5gre
+shadAR6yel shad_AR6yel
+shadARcomp shad_ARComp
+shadARdisp shad_ARDisp
+shadARones shad_AROnes
+shadARtens shad_ARTens
+shadARenvi shad_ARenvi
+shadARrubb shad_ARrubb
+modeAR0fp mode_AR0fp
+modeAR2fp mode_AR2fp
+modeAR3fp mode_AR3fp
+bitmARones bitm_AROnes
+bitmARCompass bitm_ARCompass
+modeAR5fp mode_AR5fp
+modeAR6fp mode_AR6fp
+modeAR03d mode_AR03d
+modeAR23d mode_AR23d
+modeAR33d mode_AR33d
+modeAR53d mode_AR53d
+modeAR63d mode_AR63d
 
 // INFO for all Halo 3 weapons
 06 diffuse_coefficient
