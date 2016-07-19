@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3weap/H3Sni/H3S
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3weap/H3SPL/H3SPL.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/intelPatch/intelPatch.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Lockout/Lockout.ini
-https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/soundFixHax/soundFixHax.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/soundLagTest/soundLagTest.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/ODST_Styled_Magnums_default/ODST_Styled_Magnums_default.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/ODST_Styled_SMGs_default/ODST_Styled_SMGs_default.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Reach_Styled_Frags/Reach_Styled_Frags.ini
