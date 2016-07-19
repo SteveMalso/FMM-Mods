@@ -151,8 +151,8 @@ setfield Unknown[14].MaxSoundsPerTag 01 XXXX // 04 particle_impacts
 setfield Unknown[15].MaxSoundsPerTag 01 XXXX // 32 weapon_fire_lod
 setfield Unknown[16].MaxSoundsPerTag 01 XXXX // 32 weapon_fire_lod_far
 setfield Unknown[17].MaxSoundsPerTag 00 XXXX // 00 unused2_impacts!
-setfield Unknown[18].MaxSoundsPerTag 02 XXXX // 04 unit_footsteps
-setfield Unknown[19].MaxSoundsPerTag 02 XXXX // 07 unit_dialog
+setfield Unknown[18].MaxSoundsPerTag 04 XXXX // 04 unit_footsteps
+setfield Unknown[19].MaxSoundsPerTag 01 XXXX // 07 unit_dialog
 setfield Unknown[20].MaxSoundsPerTag 01 XXXX // 08 unit_animation
 setfield Unknown[21].MaxSoundsPerTag 00 XXXX // 00 unit_unused!
 setfield Unknown[22].MaxSoundsPerTag 01 XXXX // 04 vehicle_collision
@@ -185,7 +185,7 @@ setfield Unknown[48].MaxSoundsPerTag 00 XXXX // 04 cinematic_dialog
 setfield Unknown[49].MaxSoundsPerTag 00 XXXX // 04 scripted_cinematic_foley
 setfield Unknown[50].MaxSoundsPerTag 01 XXXX // 04 hud
 setfield Unknown[51].MaxSoundsPerTag 01 XXXX // 04 game_event
-setfield Unknown[52].MaxSoundsPerTag 02 XXXX // 16 ui
+setfield Unknown[52].MaxSoundsPerTag 01 XXXX // 16 ui
 setfield Unknown[53].MaxSoundsPerTag 00 XXXX // 16 test
 setfield Unknown[54].MaxSoundsPerTag 00 XXXX // 04 multilingual_test
 setfield Unknown[55].MaxSoundsPerTag 01 XXXX // 04 ambient_nature_details
@@ -218,8 +218,8 @@ setfield Unknown[15].MaxSoundsPerObject 01 XXXX // 02 weapon_fire_lod
 setfield Unknown[16].MaxSoundsPerObject 01 XXXX // 02 weapon_fire_lod_far
 setfield Unknown[17].MaxSoundsPerObject 00 XXXX // 00 unused2_impacts!
 setfield Unknown[18].MaxSoundsPerObject 02 XXXX // 02 unit_footsteps
-setfield Unknown[19].MaxSoundsPerObject 02 XXXX // 07 unit_dialog
-setfield Unknown[20].MaxSoundsPerObject 02 XXXX // 02 unit_animation
+setfield Unknown[19].MaxSoundsPerObject 01 XXXX // 07 unit_dialog
+setfield Unknown[20].MaxSoundsPerObject 01 XXXX // 02 unit_animation
 setfield Unknown[21].MaxSoundsPerObject 00 XXXX // 00 unit_unused!
 setfield Unknown[22].MaxSoundsPerObject 01 XXXX // 02 vehicle_collision
 setfield Unknown[23].MaxSoundsPerObject 08 XXXX // 08 vehicle_engine
