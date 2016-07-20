@@ -4,9 +4,6 @@ https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Grunt_Birthday_Party/Gr
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/FlatGrass/FlatGrass.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Guardium/Guardium.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3armors/h3armors.ini
-https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3hud/H3 Hud - Hitmarkers.ini
-https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3hud/H3 Hud - Centered Crosshairs.ini
-https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3hud/H3 Hud - HUD Shake.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3hud/H3 Hud.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3sounds/h3ARsound/H3ARsound.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3sounds/h3BRsound/h3BRsound.ini
