@@ -1,0 +1,3 @@
+ECHO FMM_OUTPUT Enabling Big Screen Mode for h3 HUD...
+cd mods\tagMods\h3mods\h3hud\Extras\
+Type h3h_Enable_BigScreenMode | ..\Tools\h3h_TagTool.exe ..\..\..\..\maps\tags.dat
