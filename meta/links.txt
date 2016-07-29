@@ -25,6 +25,7 @@ https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Hexagone_Black/Hexagone
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/intelPatch/intelPatch.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Lockout/Lockout.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/soundLagTest/soundLagTest.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/ODST_HUD/HUD.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/ODST_Styled_Magnums_default/ODST_Styled_Magnums_default.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/ODST_Styled_SMGs_default/ODST_Styled_SMGs_default.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Reach_Styled_Frags/Reach_Styled_Frags.ini
