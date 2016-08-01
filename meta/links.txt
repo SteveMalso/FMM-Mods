@@ -37,4 +37,8 @@ https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/reachMods/reachShotgun/
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/reachMods/reachSMG/reachSMG.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/reachMods/reachSniper/reachSniper.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Reacthor/Reacthor.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Snowverhaul/SnowverhaulMap/SnowverhaulMAP.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Snowverhaul/SnowverhaulTeleport/SnowverhaulTELEPORT.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Snowverhaul/SnowverhaulVehicle/SnowverhaulVEHICLE.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Snowverhaul/SnowverhaulWeapon/SnowverhaulWEAPON.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/weaponOutlineRemover/weaponOutlineRemover.ini
