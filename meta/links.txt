@@ -41,4 +41,5 @@ https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Snowverhaul/Snowverhaul
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Snowverhaul/SnowverhaulTeleport/SnowverhaulTELEPORT.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Snowverhaul/SnowverhaulVehicle/SnowverhaulVEHICLE.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Snowverhaul/SnowverhaulWeapon/SnowverhaulWEAPON.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/SpartanVISION_1.0/SpartanVISION.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/weaponOutlineRemover/weaponOutlineRemover.ini
