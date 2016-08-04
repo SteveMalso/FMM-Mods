@@ -21,7 +21,6 @@ https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3weap/H3Sho/H3S
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3weap/H3SMG/H3SMG.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3weap/H3Sni/H3Sni.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3weap/H3SPL/H3SPL.ini
-https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/H4Skins/H4Skins.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Hexagone/Hexagone.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Hexagone_Black/Hexagone.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/intelPatch/intelPatch.ini
