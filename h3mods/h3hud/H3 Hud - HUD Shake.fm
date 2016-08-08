@@ -1,3 +1,3 @@
 ECHO FMM_OUTPUT Enabling HUD Shake for h3 HUD...
 cd mods\tagMods\h3mods\h3hud\Extras\
-Type h3h_Enable_HUDShake | ..\Tools\h3h_TagTool.exe ..\..\..\..\maps\tags.dat
+Type h3h_Enable_HUDShake.cmds | ..\Tools\h3h_TagTool.exe ..\..\..\..\maps\tags.dat
