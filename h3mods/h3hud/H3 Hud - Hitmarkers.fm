@@ -1,4 +1,4 @@
 ECHO FMM_OUTPUT Installing Halo 3 hud hitmarkers.....
 cd mods\tagMods\h3mods\h3hud\Extras\
 echo FMM_OUTPUT [H3 Hud] Adding Hitmarkers
-Type h3h_Enable_Hitmarkers.cmds | ..\Tools\h3h_TagTool.exe ..\..\..\..\maps\tags.dat
+Type h3h_Enable_Hitmarkers.cmds | ..\Tools\h3h_TagTool.exe ..\..\..\..\..\maps\tags.dat
