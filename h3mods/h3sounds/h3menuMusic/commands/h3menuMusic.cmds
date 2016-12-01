@@ -1,7 +1,0 @@
-resourcedata import audio.dat 0201 h3sounds/sounds/h3menu.mp3
-
-import 2D97 h3sounds/tags/2D97.tag
-
-dumplog h3menuMusic.log
-exit
-exit

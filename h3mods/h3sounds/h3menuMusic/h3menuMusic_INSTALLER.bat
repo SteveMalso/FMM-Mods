@@ -10,9 +10,8 @@ if exist ..\..\..\..\..\maps\tags.dat (
 )
 
 :Label0
-MOVE ..\..\..\..\..\maps\audio.dat audio.dat
-Type commands\h3menuMusic.cmds | TagTool.exe ../../../../../maps/tags.dat
-MOVE audio.dat ..\..\..\..\..\maps\audio.dat
+
+Type h3menuMusic.cmds | TagTool.exe ../../../../../maps/tags.dat
 
 ECHO Installation Complete ...
 

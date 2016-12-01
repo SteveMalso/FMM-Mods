@@ -1,0 +1,6 @@
+import 2D97 2D97.snd!
+importresource audio.dat 2D97 h3menu.mp3 0
+
+dumplog h3menuMusic.log
+exit
+exit
