@@ -99,7 +99,7 @@ setfield Unknown[28].Priority 00 XXXX // 08 device_machinery
 setfield Unknown[29].Priority 00 XXXX // 08 device_stationary
 setfield Unknown[30].Priority 00 XXXX // 00 device_unused1!
 setfield Unknown[31].Priority 00 XXXX // 00 device_unused2!
-setfield Unknown[32].Priority 00 XXXX // 10 music
+setfield Unknown[32].Priority 10 XXXX // 10 music
 setfield Unknown[33].Priority 00 XXXX // 08 ambient_nature
 setfield Unknown[34].Priority 00 XXXX // 08 ambient_machinery
 setfield Unknown[35].Priority 00 XXXX // 08 ambient_stationary
@@ -165,7 +165,7 @@ setfield Unknown[28].MaxSoundsPerTag 01 XXXX // 04 device_machinery
 setfield Unknown[29].MaxSoundsPerTag 01 XXXX // 04 device_stationary
 setfield Unknown[30].MaxSoundsPerTag 01 XXXX // 00 device_unused1!
 setfield Unknown[31].MaxSoundsPerTag 01 XXXX // 00 device_unused2!
-setfield Unknown[32].MaxSoundsPerTag 00 XXXX // 04 music
+setfield Unknown[32].MaxSoundsPerTag 01 XXXX // 04 music
 setfield Unknown[33].MaxSoundsPerTag 01 XXXX // 04 ambient_nature
 setfield Unknown[34].MaxSoundsPerTag 01 XXXX // 04 ambient_machinery
 setfield Unknown[35].MaxSoundsPerTag 01 XXXX // 04 ambient_stationary
@@ -231,7 +231,7 @@ setfield Unknown[28].MaxSoundsPerObject 01 XXXX // 04 device_machinery
 setfield Unknown[29].MaxSoundsPerObject 01 XXXX // 01 device_stationary
 setfield Unknown[30].MaxSoundsPerObject 00 XXXX // 00 device_unused1!
 setfield Unknown[31].MaxSoundsPerObject 00 XXXX // 00 device_unused2!
-setfield Unknown[32].MaxSoundsPerObject 00 XXXX // 04 music
+setfield Unknown[32].MaxSoundsPerObject 04 XXXX // 04 music
 setfield Unknown[33].MaxSoundsPerObject 01 XXXX // 04 ambient_nature
 setfield Unknown[34].MaxSoundsPerObject 01 XXXX // 01 ambient_machinery
 setfield Unknown[35].MaxSoundsPerObject 01 XXXX // 04 ambient_stationary
