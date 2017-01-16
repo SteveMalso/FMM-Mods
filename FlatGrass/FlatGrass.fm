@@ -1,5 +1,5 @@
 @echo off
-cd "mods\tagmods\FlatGrass FMM"
+cd "mods\tagmods\FlatGrass"
 echo.
 type reserveTags.cmds | FastIndexGen.exe
 echo.
