@@ -1,0 +1,207 @@
+159e
+weap_energy_blade
+157f
+weap_energy_hilt
+150c
+weap_gravity_hammer
+1504
+weap_excavator
+14f7
+weap_plasma_pistol
+14f8
+weap_needler
+151e
+weap_assault_rifle
+157C
+weap_battle_rifle
+1509
+weap_beam_rifle
+14fe
+weap_carbine
+1580
+weap_dmr
+1525
+weap_plasma_rifle
+1a45
+weap_shotgun
+157d
+weap_smg
+15b1
+weap_sniper_rifle
+1500
+weap_spiker
+15b3
+weap_rocket_launcher
+15b2
+weap_spartan_laser
+14ff
+weap_brute_shot
+1a56
+weap_sentinel_beam
+157e
+weap_magnum
+14f9
+weap_fuelrod
+15a4
+weap_bomb
+15a3
+weap_ball
+15a2
+weap_flag
+STOP
+edit weap_energy_blade
+SetField FirstPersonWeaponOffsetI 0
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK 0
+savechanges
+exit
+edit weap_energy_hilt
+SetField FirstPersonWeaponOffsetI 0
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK 0
+savechanges
+exit
+edit weap_gravity_hammer
+SetField FirstPersonWeaponOffsetI -0.01
+SetField FirstPersonWeaponOffsetJ -0.01
+SetField FirstPersonWeaponOffsetK -0.02
+savechanges
+exit
+edit weap_excavator
+SetField FirstPersonWeaponOffsetI -0.06
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK -0.01
+savechanges
+exit
+edit weap_magnum
+SetField FirstPersonWeaponOffsetI -0.035
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK 0
+savechanges
+exit
+edit weap_needler
+SetField FirstPersonWeaponOffsetI -0.05
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK 0
+savechanges
+exit
+edit weap_plasma_pistol
+SetField FirstPersonWeaponOffsetI -0.055
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK -0.0035
+savechanges
+exit
+edit weap_assault_rifle
+SetField FirstPersonWeaponOffsetI -0.025
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK -0.0035
+savechanges
+exit
+edit weap_battle_rifle
+SetField FirstPersonWeaponOffsetI -0.01
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK -0.005
+savechanges
+exit
+edit weap_beam_rifle
+SetField FirstPersonWeaponOffsetI -0.0295
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK -0.0035
+savechanges
+exit
+edit weap_carbine
+SetField FirstPersonWeaponOffsetI -0.01
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK -0.005
+savechanges
+exit
+//
+edit weap_dmr
+SetField FirstPersonWeaponOffsetI -0.02
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK 0
+savechanges
+exit
+//
+edit weap_plasma_rifle
+SetField FirstPersonWeaponOffsetI 0.015
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK -0.005
+savechanges
+exit
+//
+edit weap_shotgun
+SetField FirstPersonWeaponOffsetI -0.017
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK -0.005
+savechanges
+exit
+edit weap_smg
+SetField FirstPersonWeaponOffsetI -0.015
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK -0.005
+savechanges
+exit
+edit weap_sniper_rifle
+SetField FirstPersonWeaponOffsetI -0.035
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK -0.0035
+savechanges
+exit
+edit weap_spiker
+SetField FirstPersonWeaponOffsetI -0.015
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK -0.005
+savechanges
+exit
+edit weap_fuelrod
+SetField FirstPersonWeaponOffsetI 0
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK 0.01
+savechanges
+exit
+edit weap_rocket_launcher
+SetField FirstPersonWeaponOffsetI -0.01
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK -0.01
+savechanges
+exit
+edit weap_spartan_laser
+SetField FirstPersonWeaponOffsetI -0.025
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK -0.005
+savechanges
+exit
+edit weap_brute_shot
+SetField FirstPersonWeaponOffsetI -0.08
+SetField FirstPersonWeaponOffsetJ -0.002
+SetField FirstPersonWeaponOffsetK -0.005
+savechanges
+exit
+edit weap_sentinel_beam
+SetField FirstPersonWeaponOffsetI -0.1
+SetField FirstPersonWeaponOffsetJ -0.01
+SetField FirstPersonWeaponOffsetK -0.01
+savechanges
+exit
+edit weap_bomb
+SetField FirstPersonWeaponOffsetI 0
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK 0
+savechanges
+exit
+edit weap_ball
+SetField FirstPersonWeaponOffsetI -0.045
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK 0
+savechanges
+exit
+edit weap_flag
+SetField FirstPersonWeaponOffsetI -0.015
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK 0
+savechanges
+exit
+dumplog h3viewmodel.log
+exit To tags.dat
+exit

@@ -1,9 +1,12 @@
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Airglow/Airglow.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/EnhancedForge/EnhancedForge.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/FlatGrass/FlatGrass.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Lockout/Lockout.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Station/Station.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3armors/h3armors.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3hud/H3 Hud.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/CenteredCrosshairs/CenteredCrosshair.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3viewmodel/Remastered H3 Viewmodel.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/ClefMagSkins/ClefMagSkins.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Grunt_Birthday_Party/Grunt_Birthday_Party.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Guardium/Guardium.ini
@@ -26,8 +29,6 @@ https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3weap/H3SPL/H3S
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Hexagone/Hexagone.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Hexagone_Black/HexagoneBlack.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/intelPatch/intelPatch.ini
-https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Lockout/Lockout.ini
-https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Station/Station.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/soundLagTest/soundLagTest.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/ODST_HUD/HUD.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/ODST_Styled_Magnums_default/ODST_Styled_Magnums_default.ini

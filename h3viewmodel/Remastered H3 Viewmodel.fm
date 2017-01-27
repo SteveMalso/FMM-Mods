@@ -1,0 +1,9 @@
+ECHO FMM_OUTPUT Installing MODNAME ...
+
+cd mods\tagMods\MODNAME
+
+START /WAIT commands\TTCC.exe commands\MODNAME.cmdX
+
+Type commands\MODNAME.cmds | TagTool.exe ../../../maps/tags.dat
+
+ECHO FMM_OUTPUT MODNAME installed. ...
