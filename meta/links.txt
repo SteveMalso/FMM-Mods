@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/ClefMagSkins/ClefMagSki
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Grunt_Birthday_Party/Grunt_Birthday_Party.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Guardium/Guardium.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/H2ABR/H2ABR.ini
-https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3intro.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3intro/h3intro.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3sounds/h3ARsound/H3ARsound.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3sounds/h3BRsound/h3BRsound.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3sounds/h3menuMusic/h3menuMusic.ini
