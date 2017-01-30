@@ -1,0 +1,14 @@
+1B8B
+jmad_AR_FP_default
+1D85
+jmad_BR_FP_default
+
+edit jmad_AR_FP_default
+SetField Modes[0].WeaponClass[0].WeaponType[0].ACtions[8].Animation 18
+savechanges \n exitTo tags.dat
+
+edit jmad_BR_FP_default
+SetField Modes[0].WeaponClass[0].WeaponType[0].ACtions[8].Animation 17
+savechanges \n exitTo tags.dat
+
+dumplog H3animationsFix.log \n exit
