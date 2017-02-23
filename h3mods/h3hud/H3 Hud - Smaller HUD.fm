@@ -1,3 +1,2 @@
 ECHO FMM_OUTPUT Shrinking the HUD...
-cd "mods\tagMods\h3mods\h3hud\Extras\Smaller HUD"
-Type Edit.cmds | ..\Tools\h3h_TagTool2.exe ..\..\..\..\..\maps\tags.dat
+Type "mods\tagMods\h3mods\h3hud\Extras\Smaller HUD\Edit.cmds" | "mods\tagMods\h3mods\h3hud\Tools\h3h_TagTool2.exe" "maps\tags.dat"

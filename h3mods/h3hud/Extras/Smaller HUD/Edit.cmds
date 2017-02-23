@@ -13,22 +13,19 @@ exit
 edit 0xe5f
 edit hudwidgets[0]
 edit placementdata[0]
-setfield scalex 1.5
-setfield scaley 1.5
+setfield scale 1.5 1.5
 savechanges
 exit
 edit bitmapwidgets[1]
 edit placementdata[0]
-setfield scalex 1.8
-setfield scaley 1.8
+setfield scale 1.8 1.8
 savechanges
 exit
 savechanges
 exit
 edit bitmapwidgets[2]
 edit placementdata[0]
-setfield scalex 1.8
-setfield scaley 1.5
+setfield scale 1.8 1.5
 savechanges
 exit
 savechanges
@@ -37,16 +34,14 @@ savechanges
 exit
 edit hudwidgets[8]
 edit placementdata[0]
-setfield scalex 1.5
-setfield scaley 1.5
+setfield scale 1.5 1.5
 savechanges
 exit
 savechanges
 exit
 edit hudwidgets[11]
 edit placementdata[0]
-setfield scalex 1.815
-setfield scaley 1.785
+setfield scale 1.815 1.785
 savechanges
 exit
 savechanges
@@ -58,24 +53,21 @@ edit 0x25f4
 edit hudwidgets[0]
 edit bitmapwidgets[0]
 edit placementdata[0]
-setfield scalex 1.92
-setfield scaley 1.95
+setfield scale 1.92 1.95
 savechanges
 exit
 savechanges
 exit
 edit bitmapwidgets[1]
 edit placementdata[0]
-setfield scalex 1.89
-setfield scaley 1.92
+setfield scale 1.89 1.92
 savechanges
 exit
 savechanges
 exit
 edit bitmapwidgets[2]
 edit placementdata[0]
-setfield scalex 2.22
-setfield scaley 2.01
+setfield scale 2.22 2.01
 savechanges
 exit
 savechanges
@@ -88,40 +80,35 @@ exit
 edit 0xc1e
 edit hudwidgets[9]
 edit placementdata[0]
-setfield scalex 1.815
-setfield scaley 1.785
+setfield scale 1.815 1.785
 savechanges
 exit
 savechanges
 exit
 edit hudwidgets[20]
 edit placementdata[0]
-setfield scalex 1.5
-setfield scaley 1.5
+setfield scale 1.5 1.5
 savechanges
 exit
 savechanges
 exit
 edit hudwidgets[21]
 edit placementdata[0]
-setfield scalex 1.5
-setfield scaley 1.5
+setfield scale 1.5 1.5
 savechanges
 exit
 savechanges
 exit
 edit hudwidgets[23]
 edit placementdata[0]
-setfield scalex 1.5
-setfield scaley 1.5
+setfield scale 1.5 1.5
 savechanges
 exit
 savechanges
 exit
 edit hudwidgets[24]
 edit placementdata[0]
-setfield scalex 1.5
-setfield scaley 1.5
+setfield scale 1.5 1.5
 savechanges
 exit
 savechanges
@@ -129,8 +116,7 @@ exit
 edit hudwidgets[1]
 edit textwidgets[0]
 edit placementdata[0]
-setfield scalex 0
-setfield scaley 0
+setfield scale 0 0
 savechanges
 exit
 savechanges
