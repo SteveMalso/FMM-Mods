@@ -1,3 +1,0 @@
-ECHO FMM_OUTPUT Installing Halo 3 centered crosshairs...
-cd mods\tagMods\h3mods\h3hud\Extras\
-Type h3h_Enable_CenteredCrosshairFix.cmds | ..\Tools\h3h_TagTool.exe ..\..\..\..\..\maps\tags.dat

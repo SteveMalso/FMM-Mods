@@ -1,0 +1,7 @@
+importbitmap 00001C86 "h3mods\h3hud\Extras\ODST HUD\Spartan\Textures\COMMON_WARNING_FLASH_00001C86_SIMPLE_TEXTURE.dds"
+importbitmap 00000C38 "h3mods\h3hud\Extras\ODST HUD\Spartan\Textures\HEALTH_BAR_00000C38_SIMPLE_TEXTURE.dds"
+importbitmap 00000C8B "h3mods\h3hud\Extras\ODST HUD\Spartan\Textures\INHELMET_BOTTOM_MIDDLE_00000C8B_SIMPLE_TEXTURE.dds"
+importbitmap 00000C89 "h3mods\h3hud\Extras\ODST HUD\Spartan\Textures\INHELMET_TOP_MIDDLE_00000C89_SIMPLE_TEXTURE.dds"
+importbitmap 00000C59 "h3mods\h3hud\Extras\ODST HUD\Spartan\Textures\RULER_HORIZONTAL_00000C59_SIMPLE_TEXTURE.dds"
+importbitmap 00000C58 "h3mods\h3hud\Extras\ODST HUD\Spartan\Textures\RULER_VERTICAL_00000C58_SIMPLE_TEXTURE.dds"
+exit

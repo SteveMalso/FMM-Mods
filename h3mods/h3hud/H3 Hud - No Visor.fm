@@ -1,0 +1,3 @@
+ECHO FMM_OUTPUT Removing the visor from the HUD...
+cd "mods\tagMods\h3mods\h3hud\Extras\No Visor"
+Type Edit.cmds | ..\Tools\h3h_TagTool2.exe ..\..\..\..\..\maps\tags.dat

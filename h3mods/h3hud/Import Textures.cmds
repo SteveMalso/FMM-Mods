@@ -1,0 +1,97 @@
+edit 00000C66
+import 0 "h3mods\h3hud\Equipment\Textures\EQUIPMENT_SCHEMATICS_00000C66_TEXTURE.dds"
+exit
+edit 000025FB
+import 0 "h3mods\h3hud\Monitor\Textures\FIRST_PERSON_DISTORTION_000025FB_TEXTURE.dds"
+exit
+edit 000012FD
+import 0 "h3mods\h3hud\Other\Textures\MOTION_SENSOR_ICONS_000012FD_TEXTURE.dds"
+exit
+edit 000012BB
+import 0 "h3mods\h3hud\Other\Textures\WAYPOINTS_000012BB_TEXTURE.dds"
+exit
+edit 000012BC
+import 0 "h3mods\h3hud\Other\Textures\WAYPOINTS_NEW_000012BC_TEXTURE.dds"
+exit
+edit 0000086B
+import 1 "h3mods\h3hud\Other\Textures\UI_COMMON_ARROWS_VERTICAL_TEXTURE\UI_COMMON_ARROW_DOWN_0000086B-1_TEXTURE.dds"
+exit
+edit 0000086B
+import 0 "h3mods\h3hud\Other\Textures\UI_COMMON_ARROWS_VERTICAL_TEXTURE\UI_COMMON_ARROW_UP_0000086B-0_TEXTURE.dds"
+exit
+edit 0000131A
+import 0 "h3mods\h3hud\Scoreboard\Textures\SCOREBOARD_0000131A_TEXTURE.dds"
+exit
+edit 00000C4B
+import 0 "h3mods\h3hud\Spartan\Textures\INIT_LINES_HORIZONTAL_00000C4B_TEXTURE.dds"
+exit
+edit 00000C4D
+import 0 "h3mods\h3hud\Spartan\Textures\INIT_LINES_VERTICAL_00000C4D_TEXTURE.dds"
+exit
+edit 00000C3C
+import 0 "h3mods\h3hud\Spartan\Textures\MOTION_SENSOR_00000C3C_TEXTURE.dds"
+exit
+edit 00001D0F
+import 0 "h3mods\h3hud\Weapons\Textures\COMMON_BULLET_METERS_00001D0F_TEXTURE.dds"
+exit
+edit 00000CAF
+import 0 "h3mods\h3hud\Weapons\Textures\COMMON_ENERGY_CHARGE_METER_RIGHT_00000CAF_TEXTURE.dds"
+exit
+edit 00001EF1
+import 0 "h3mods\h3hud\Weapons\Textures\COMMON_WEAPON_SCHEMATICS_00001EF1_TEXTURE.dds"
+exit
+edit 00000E6F
+import 0 "h3mods\h3hud\Elite\Textures\INIT_DISTORT_00000E6F_TEXTURE.dds"
+exit
+edit 00000CAA
+import 0 "h3mods\h3hud\Weapons\Textures\COVENANT_CARBINE_METER_20_00000CAA_TEXTURE.dds"
+exit
+edit 00000CAB
+import 0 "h3mods\h3hud\Weapons\Textures\COVENANT_CARBINE_METER_9_00000CAB_TEXTURE.dds"
+exit
+edit 00000CB5
+import 0 "h3mods\h3hud\Weapons\Textures\DMR_METER_12_00000CB5_TEXTURE.dds"
+exit
+edit 00000CB4
+import 0 "h3mods\h3hud\Weapons\Textures\DMR_METER_15_00000CB4_TEXTURE.dds"
+exit
+edit 00000CB2
+import 0 "h3mods\h3hud\Weapons\Textures\DMR_METER_18_00000CB2_TEXTURE.dds"
+exit
+edit 00001DB1
+import 0 "h3mods\h3hud\Weapons\Textures\DMR_METER_20_00001DB1_TEXTURE.dds"
+exit
+edit 00000E77
+import 0 "h3mods\h3hud\Weapons\Textures\DMR_METER_40_00000E77_TEXTURE.dds"
+exit
+edit 00000CB6
+import 0 "h3mods\h3hud\Weapons\Textures\DMR_METER_8_00000CB6_TEXTURE.dds"
+exit
+edit 00000E75
+import 0 "h3mods\h3hud\Weapons\Textures\MAULER_METER_6_00000E75_TEXTURE.dds"
+exit
+edit 00000CBB
+import 0 "h3mods\h3hud\Weapons\Textures\PISTOL_METER_6_00000CBB_TEXTURE.dds"
+exit
+edit 00000CB7
+import 0 "h3mods\h3hud\Weapons\Textures\ASSAULT_RIFLE_METER_20_00000CB7_TEXTURE.dds"
+exit
+edit 00000C9A
+import 0 "h3mods\h3hud\Weapons\Textures\ASSAULT_RIFLE_METER_28_00000C9A_TEXTURE.dds"
+exit
+edit 00000CB8
+import 0 "h3mods\h3hud\Weapons\Textures\ASSAULT_RIFLE_METER_30_00000CB8_TEXTURE.dds"
+exit
+edit 00000C9D
+import 0 "h3mods\h3hud\Weapons\Textures\ASSAULT_RIFLE_METER_40_00000C9D_TEXTURE.dds"
+exit
+edit 00000CA0
+import 0 "h3mods\h3hud\Weapons\Textures\BATTLE_RIFLE_METER_30_00000CA0_TEXTURE.dds"
+exit
+edit 00000C98
+import 0 "h3mods\h3hud\Weapons\Textures\BATTLE_RIFLE_METER_40_00000C98_TEXTURE.dds"
+exit
+edit 00000C9F
+import 0 "h3mods\h3hud\Weapons\Textures\BATTLE_RIFLE_METER_48_00000C9F_TEXTURE.dds"
+exit
+exit

@@ -1,0 +1,97 @@
+edit 0xc1e
+edit hudwidgets[20]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield scaley 0
+setfield scalex 0
+exit
+exit
+edit bitmapwidgets[1]
+edit placementdata[0]
+setfield scaley 0
+setfield scalex 0
+exit
+exit
+exit
+edit hudwidgets[21]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield scaley 0
+setfield scalex 0
+exit
+exit
+edit bitmapwidgets[1]
+edit placementdata[0]
+setfield scaley 0
+setfield scalex 0
+exit
+exit
+exit
+edit hudwidgets[23]
+edit placementdata[0]
+setfield scalex 0
+setfield scaley 0
+exit
+exit
+edit hudwidgets[24]
+edit placementdata[0]
+setfield scalex 0
+setfield scaley 0
+exit
+exit
+savechanges
+exit
+
+edit 0x25F4
+edit hudwidgets[1]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield scalex 0
+setfield scaley 0
+exit
+exit
+edit bitmapwidgets[1]
+edit placementdata[0]
+setfield scalex 0
+setfield scaley 0
+exit
+exit
+edit bitmapwidgets[2]
+edit placementdata[0]
+setfield scalex 0
+setfield scaley 0
+exit
+exit
+exit
+savechanges
+exit
+
+edit 0xE5F
+edit hudwidgets[0]
+edit bitmapwidgets[0]
+edit placementdata[0]
+setfield scalex 0
+setfield scaley 0
+exit
+exit
+edit bitmapwidgets[1]
+edit placementdata[0]
+setfield scalex 0
+setfield scaley 0
+exit
+exit
+edit bitmapwidgets[2]
+edit placementdata[0]
+setfield scalex 0
+setfield scaley 0
+exit
+exit
+exit
+edit hudwidgets[8]
+edit placementdata[0]
+setfield scalex 0
+setfield scaley 0
+exit
+exit
+savechanges
+exit
