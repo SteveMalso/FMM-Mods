@@ -1,11 +1,11 @@
-ECHO FMM_OUTPUT Installing Halo 3 hud.....
+ECHO FMM_OUTPUT Installing Halo 3 HUD.....
 cd mods\tagMods\h3mods\h3hud
-echo FMM_OUTPUT [H3 Hud] Importing Tags
+echo FMM_OUTPUT [Halo 3 HUD] Importing Tags
 Type "Import Tags.cmds" | Tools\h3h_TagTool.exe ..\..\..\..\maps\tags.dat
-echo FMM_OUTPUT [H3 Hud] Importing Small Textures
+echo FMM_OUTPUT [Halo 3 HUD] Importing Small Textures
 Type "Import Simple Textures.cmds" | Tools\h3h_TagTool.exe ..\..\..\..\maps\tags.dat
-echo FMM_OUTPUT [H3 Hud] Importing Big Textures
+echo FMM_OUTPUT [Halo 3 HUD] Importing Big Textures
 Type "Import Textures.cmds" | Tools\h3h_TagTool.exe ..\..\..\..\maps\tags.dat
-echo FMM_OUTPUT [H3 Hud] Editing Tags
+echo FMM_OUTPUT [Halo 3 HUD] Editing Tags
 Type Edit.cmds | Tools\h3h_TagTool.exe ..\..\..\..\maps\tags.dat
-echo FMM_OUTPUT [H3 Hud] Done
+echo FMM_OUTPUT [Halo 3 HUD] Done

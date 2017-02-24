@@ -1,2 +1,0 @@
-Todo:
-- Create a script that edits every weapon's ammo area using the tag tool. Scaling should be identical to halo 3 in this branch.
