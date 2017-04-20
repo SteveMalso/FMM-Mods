@@ -94,4 +94,7 @@ exit
 edit 00000C9F
 import 0 "Weapons\Textures\BATTLE_RIFLE_METER_48_00000C9F_TEXTURE.dds"
 exit
+edit 00001EF2
+import 0 "Weapons\Textures\COMMON_ENERGY_BORDERS_00001EF2_TEXTURE.dds"
+exit
 exit
