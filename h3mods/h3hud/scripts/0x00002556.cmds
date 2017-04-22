@@ -1,0 +1,10 @@
+EditTag 0x00002556
+EditBlock HudWidgets[0]
+EditBlock BitmapWidgets[0]
+EditBlock PlacementData[0]
+SetField Scale 1 1
+exit
+exit
+exit
+SaveTagChanges
+exit

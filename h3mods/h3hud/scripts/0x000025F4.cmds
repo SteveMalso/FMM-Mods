@@ -1,0 +1,122 @@
+EditTag 0x000025F4
+EditBlock HudWidgets[0]
+SetField Unknown2 7
+EditBlock StateData[0]
+SetField Flags28 1
+exit
+EditBlock BitmapWidgets[0]
+EditBlock StateData[0]
+SetField Flags4Resolution Bit0,Bit1,Bit2,Bit3,Bit4,Bit5,Bit6
+SetField Flags26 32
+exit
+EditBlock PlacementData[0]
+SetField MirrorOffset 0 1
+SetField Offset 0 32
+SetField Scale 1 1
+exit
+EditBlock AnimationData[0]
+SetField Animation3 0x00000C32
+exit
+SetField Flags MirrorHorizontally
+exit
+EditBlock BitmapWidgets[1]
+EditBlock StateData[0]
+SetField Flags26 32
+exit
+exit
+EditBlock BitmapWidgets[2]
+EditBlock StateData[0]
+SetField Flags26 32
+exit
+exit
+exit
+EditBlock HudWidgets[1]
+SetField Unknown2 7
+EditBlock StateData[0]
+SetField Flags2 None
+exit
+EditBlock BitmapWidgets[0]
+EditBlock AnimationData[0]
+SetField Animation1 null
+exit
+exit
+EditBlock BitmapWidgets[1]
+EditBlock AnimationData[0]
+SetField Animation1 null
+exit
+exit
+EditBlock BitmapWidgets[2]
+SetField Unknown2 7
+EditBlock PlacementData[0]
+SetField MirrorOffset -3 -1.0125
+SetField Scale 1.48 1.34
+exit
+EditBlock AnimationData[0]
+SetField Animation1 null
+SetField Animation2 null
+exit
+EditBlock RenderData[0]
+SetField Unknown 1
+exit
+SetField WidgetIndex 7
+exit
+exit
+EditBlock HudWidgets[2]
+SetField SpecialHudType Unspecial
+SetField Unknown2 7
+EditBlock BitmapWidgets[0]
+SetField Unknown2 7
+SetField Bitmap 0x00000C3C
+exit
+EditBlock BitmapWidgets[1]
+SetField Unknown2 7
+SetField Bitmap 0x00000C3C
+exit
+exit
+EditBlock HudWidgets[3]
+SetField Unknown2 7
+EditBlock BitmapWidgets[0]
+EditBlock PlacementData[0]
+SetField Offset 0 -360
+exit
+exit
+EditBlock BitmapWidgets[1]
+EditBlock PlacementData[0]
+SetField Offset 0 40
+exit
+exit
+exit
+EditBlock HudWidgets[5]
+EditBlock StateData[0]
+SetField Flags2 None
+exit
+EditBlock BitmapWidgets[0]
+EditBlock PlacementData[0]
+SetField Scale 2 2
+exit
+EditBlock AnimationData[0]
+SetField Animation1 null
+SetField Animation2 null
+exit
+exit
+EditBlock BitmapWidgets[1]
+EditBlock PlacementData[0]
+SetField Scale 2 2
+exit
+EditBlock AnimationData[0]
+SetField Animation1 null
+SetField Animation2 null
+exit
+exit
+EditBlock BitmapWidgets[2]
+EditBlock PlacementData[0]
+SetField Scale 2 2
+exit
+EditBlock AnimationData[0]
+SetField Animation1 null
+SetField Animation2 null
+exit
+exit
+exit
+SaveTagChanges
+exit
