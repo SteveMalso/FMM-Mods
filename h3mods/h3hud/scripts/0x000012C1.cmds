@@ -1,0 +1,4 @@
+EditTag 0x000012C1
+RemoveBlockElements HudWidgets * 1
+SaveTagChanges
+exit

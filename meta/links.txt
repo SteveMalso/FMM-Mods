@@ -3,6 +3,7 @@ https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/FlatGrass/FlatGrass.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Lockout/Lockout.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Station/Station.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3armors/h3armors.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Halo_Online_HUD_Fixup/Halo_Online_HUD_Fixup.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3hud/Halo 3 HUD.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/CenteredCrosshairs/CenteredCrosshair.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3viewmodel/Remastered H3 Viewmodel.ini
