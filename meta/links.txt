@@ -35,6 +35,7 @@ https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/soundLagTest/soundLagTe
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/ODST_HUD/HUD.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/ODST_Styled_Magnums_default/ODST_Styled_Magnums_default.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/ODST_Styled_SMGs_default/ODST_Styled_SMGs_default.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/RedSword/RedSword.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Reach_Styled_Frags/Reach_Styled_Frags.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/reachMods/reachWeap/reachAR/reachAR.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/reachMods/reachWeap/reachDMR/reachDMR.ini
