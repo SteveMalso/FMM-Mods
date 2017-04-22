@@ -1,17 +1,9 @@
 ECHO FMM_OUTPUT Installing h3viewmodel ...
 
-
-
 cd mods\tagMods\h3viewmodel
 
-
-
-START /WAIT commands\TTCC.exe commands\h3viewmodel.cmdX
-
-
+START /WAIT commands\TTCC.exe -in commands\h3viewmodel.cmdX -out commands\h3viewmodel.cmds -dat ..\..\..\maps\tags.dat
 
 Type commands\h3viewmodel.cmds | TagTool.exe ../../../maps/tags.dat
-
-
 
 ECHO FMM_OUTPUT h3viewmodel installed. ...

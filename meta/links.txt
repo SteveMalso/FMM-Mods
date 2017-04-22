@@ -3,11 +3,12 @@ https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/FlatGrass/FlatGrass.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Lockout/Lockout.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Station/Station.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3armors/h3armors.ini
-https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3hud/H3 Hud.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Halo_Online_HUD_Fixup/Halo_Online_HUD_Fixup.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3hud/Halo 3 HUD.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/CenteredCrosshairs/CenteredCrosshair.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3viewmodel/Remastered H3 Viewmodel.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/ClefMagSkins/ClefMagSkins.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/EnhancedForge-PUB/EnhancedForge-PUB.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Grunt_Birthday_Party/Grunt_Birthday_Party.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Guardium/Guardium.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/H2ABR/H2ABR.ini
@@ -42,9 +43,11 @@ https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/reachMods/reachShotgun/
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/reachMods/reachSMG/reachSMG.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/reachMods/reachSniper/reachSniper.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Reacthor/Reacthor.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/ScoreboardAdjustments/ScoreboardAdjustments.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Snowverhaul/SnowverhaulMap/SnowverhaulMAP.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Snowverhaul/SnowverhaulTeleport/SnowverhaulTELEPORT.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Snowverhaul/SnowverhaulVehicle/SnowverhaulVEHICLE.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Snowverhaul/SnowverhaulWeapon/SnowverhaulWEAPON.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/SpartanVISION_1.0/SpartanVISION.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/turf/turf.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/weaponOutlineRemover/weaponOutlineRemover.ini
