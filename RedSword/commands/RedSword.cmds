@@ -1,0 +1,407 @@
+STOP
+echo   applying shaders to change energy sword RED
+
+edit 2305
+edit shaderProperties[0]
+
+edit arguments[0]
+setfield arg1 0
+setfield arg2 0
+setfield arg3 0
+setfield arg4 0
+savechanges
+exit
+
+edit arguments[1]
+setfield arg1 2.25
+setfield arg2 3
+setfield arg3 0
+setfield arg4 0
+savechanges
+exit
+
+edit arguments[2]
+setfield arg1 0
+setfield arg2 0
+setfield arg3 0
+setfield arg4 1
+savechanges
+exit
+
+edit arguments[3]
+setfield arg1 2
+setfield arg2 2
+setfield arg3 0
+setfield arg4 0
+savechanges
+
+exit
+
+edit arguments[4]
+setfield arg1 1
+setfield arg2 1
+setfield arg3 1
+setfield arg4 1
+savechanges
+exit
+
+edit arguments[5]
+setfield arg1 0.12157
+setfield arg2 0
+setfield arg3 0
+setfield arg4 1.2
+savechanges
+exit
+
+edit arguments[6]
+setfield arg1 7.5
+setfield arg2 0.1019608
+setfield arg3 0.2019608
+setfield arg4 10
+savechanges
+exit
+
+edit arguments[7]
+setfield arg1 0.22549
+setfield arg2 0.52549
+setfield arg3 0.52549
+setfield arg4 1.4
+savechanges
+exit
+
+edit arguments[8]
+setfield arg1 0
+setfield arg2 0
+setfield arg3 0
+setfield arg4 0
+savechanges
+exit
+
+edit arguments[9]
+setfield arg1 1
+setfield arg2 1
+setfield arg3 0
+setfield arg4 0
+savechanges
+exit
+
+edit arguments[10]
+setfield arg1 19
+setfield arg2 15.2
+setfield arg3 15.2
+setfield arg4 15.2
+savechanges
+exit
+
+edit arguments[11]
+setfield arg1 16
+setfield arg2 15
+setfield arg3 15
+setfield arg4 15
+savechanges
+exit
+
+edit arguments[12]
+setfield arg1 30
+setfield arg2 30
+setfield arg3 30
+setfield arg4 30
+savechanges
+exit
+
+savechanges
+exit
+
+exitTo tags.dat
+
+STOP
+echo   applying shaders to change energy sword holder
+
+edit 2303
+edit shaderProperties[0]
+
+edit arguments[0]
+setfield arg1 1
+setfield arg2 1
+setfield arg3 0
+setfield arg4 0
+savechanges
+exit
+
+edit arguments[1]
+setfield arg1 3
+setfield arg2 3
+setfield arg3 0
+setfield arg4 0
+savechanges
+exit
+
+edit arguments[2]
+setfield arg1 0
+setfield arg2 0
+setfield arg3 0
+setfield arg4 1
+savechanges
+exit
+
+edit arguments[3]
+setfield arg1 1
+setfield arg2 1
+setfield arg3 0
+setfield arg4 0
+savechanges
+exit
+
+edit arguments[4]
+setfield arg1 4.5
+setfield arg2 4.5
+setfield arg3 0
+setfield arg4 0
+savechanges
+exit
+
+edit arguments[5]
+setfield arg1 1
+setfield arg2 1
+setfield arg3 1
+setfield arg4 1
+savechanges
+exit
+
+edit arguments[6]
+setfield arg1 1
+setfield arg2 1
+setfield arg3 1
+setfield arg4 1
+savechanges
+exit
+
+edit arguments[7]
+setfield arg1 1
+setfield arg2 1
+setfield arg3 1
+setfield arg4 1
+savechanges
+exit
+
+edit arguments[8]
+setfield arg1 1
+setfield arg2 1
+setfield arg3 1
+setfield arg4 1
+savechanges
+exit
+
+edit arguments[9]
+setfield arg1 0.5019608
+setfield arg2 0.50196
+setfield arg3 0.5019608
+setfield arg4 1
+savechanges
+exit
+
+edit arguments[10]
+setfield arg1 0
+setfield arg2 0
+setfield arg3 0
+setfield arg4 0
+savechanges
+exit
+
+edit arguments[11]
+setfield arg1 0.5019608
+setfield arg2 0.501961
+setfield arg3 0.5019608
+setfield arg4 1
+savechanges
+exit
+
+edit arguments[12]
+setfield arg1 0.6
+setfield arg2 0
+setfield arg3 0
+setfield arg4 0.6
+savechanges
+exit
+
+edit arguments[13]
+setfield arg1 0
+setfield arg2 0.27
+setfield arg3 0.27
+setfield arg4 0.27
+savechanges
+exit
+
+edit arguments[14]
+setfield arg1 0
+setfield arg2 0
+setfield arg3 0
+setfield arg4 0
+savechanges
+exit
+
+edit arguments[15]
+setfield arg1 10.28
+setfield arg2 0.28
+setfield arg3 0.28
+setfield arg4 0.28
+savechanges
+exit
+
+edit arguments[16]
+setfield arg1 0.07
+setfield arg2 0.07
+setfield arg3 0.07
+setfield arg4 0.07
+savechanges
+exit
+
+edit arguments[17]
+setfield arg1 1
+setfield arg2 1
+setfield arg3 0
+setfield arg4 0
+savechanges
+exit
+
+edit arguments[18]
+setfield arg1 0
+setfield arg2 0
+setfield arg3 0
+setfield arg4 0
+savechanges
+exit
+
+edit arguments[19]
+setfield arg1 0
+setfield arg2 0
+setfield arg3 0
+setfield arg4 0
+savechanges
+exit
+
+edit arguments[20]
+setfield arg1 0
+setfield arg2 0
+setfield arg3 0
+setfield arg4 0
+savechanges
+exit
+
+edit arguments[21]
+setfield arg1 0
+setfield arg2 0
+setfield arg3 0
+setfield arg4 0
+savechanges
+exit
+
+edit arguments[22]
+setfield arg1 1
+setfield arg2 1
+setfield arg3 1
+setfield arg4 1
+savechanges
+exit
+
+edit arguments[23]
+setfield arg1 2
+setfield arg2 2
+setfield arg3 2
+setfield arg4 2
+savechanges
+exit
+
+edit arguments[24]
+setfield arg1 0
+setfield arg2 0
+setfield arg3 0
+setfield arg4 0
+savechanges
+exit
+
+edit arguments[25]
+setfield arg1 1
+setfield arg2 1
+setfield arg3 1
+setfield arg4 1
+savechanges
+exit
+
+edit arguments[26]
+setfield arg1 2
+setfield arg2 2
+setfield arg3 2
+setfield arg4 2
+savechanges
+exit
+
+edit arguments[27]
+setfield arg1 1
+setfield arg2 1
+setfield arg3 0
+setfield arg4 0
+savechanges
+exit
+
+edit arguments[28]
+setfield arg1 10
+setfield arg2 0.2627451
+setfield arg3 0.2627451
+setfield arg4 1
+savechanges
+exit
+
+edit arguments[29]
+setfield arg1 0
+setfield arg2 0
+setfield arg3 0
+setfield arg4 0
+savechanges
+exit
+
+savechanges
+exit
+
+exitTo tags.dat
+
+edit 2304
+edit shaderProperties[0]
+
+edit arguments[0]
+setfield arg1 0
+setfield arg2 0
+setfield arg3 0
+setfield arg4 1
+savechanges
+exit
+
+edit arguments[1]
+setfield arg1 0
+setfield arg2 0
+setfield arg3 0
+setfield arg4 0
+savechanges
+exit
+
+edit arguments[2]
+setfield arg1 3
+setfield arg2 0.1490196
+setfield arg3 0.1490196
+setfield arg4 1
+savechanges
+exit
+
+edit arguments[3]
+setfield arg1 1
+setfield arg2 1
+setfield arg3 1
+setfield arg4 1
+savechanges
+exit
+
+savechanges
+exit
+
+exitTo tags.dat
+exit
