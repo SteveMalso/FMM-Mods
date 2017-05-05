@@ -1,5 +1,5 @@
+@ECHO OFF
 ECHO Installing ...
-
 
 color 0A
 
@@ -10,20 +10,13 @@ if exist ..\..\..\maps\tags.dat (
 )
 
 :Label0
-
-START /WAIT commands\TTCC.exe commands\soundLagTest.cmdX
-
 Type commands\soundLagTest.cmds | TagTool.exe ../../../maps/tags.dat
-
-ECHO Installation Complete ...
-
-CLEAR
+ECHO Installation Complete.
 pause
 GOTO End
 
 :Label1
-ECHO WARNING this mod is not in the correct location.
-ECHO It should be: Halo/mods/tagMods/soundLagTest
-ECHO Windows blocks mods to install if the game is in Program Files.
-ECHO If it doesn't work, just send the log to reddit/users/dany5639.
+ECHO WARNING this mod needs to be in <HaloOnline>/mods/TagMods/soundLagTest/
+ECHO Windows may block mods if the game folder is in Program Files.
+ECHO https://www.reddit.com/user/dany5639/
 pause
