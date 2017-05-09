@@ -359,4 +359,5 @@ exit
 savetagchanges
 exit
 
+dumplog RedSword.log
 exit
