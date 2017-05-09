@@ -11,7 +11,7 @@ if exist ..\..\..\maps\tags.dat (
 
 :Label0
 
-Type commands\RedSword.cmds | TagTool.exe ../../../maps/tags.dat
+Type RedSword.cmds | TagTool.exe ../../../maps/tags.dat
 
 ECHO Installation Complete ...
 
