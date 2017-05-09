@@ -1,5 +1,7 @@
 echo   applying shaders to change energy sword RED
 
+SetLocale US
+
 editTag 0x2305
 editBlock shaderProperties[0]
 
