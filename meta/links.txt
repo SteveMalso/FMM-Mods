@@ -7,7 +7,6 @@ https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/EnhancedForge-PUB/Enhan
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/FlatGrass/FlatGrass.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Grunt_Birthday_Party/Grunt_Birthday_Party.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Guardium/Guardium.ini
-https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/H2ABR/H2ABR.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Halo_Online_HUD_Fixup/Halo_Online_HUD_Fixup.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Hexagone/Hexagone.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Hexagone_Black/HexagoneBlack.ini
