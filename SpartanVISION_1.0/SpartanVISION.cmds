@@ -205,90 +205,90 @@ import 3757 SpartanVISION\Vehicles\Wraith\mortar.hlmt full
 
 import 30A2 SpartanVISION\Vehicles\Shade_Turret\000030A2.hlmt full
 
-import 244F SpartanVISION\Weapons\Beam_Rifle\0000244F.hlmt full
-import 31F5 SpartanVISION\Weapons\Gravity_Hammer\gravity_hammer.hlmt full
-import 54F SpartanVISION\Weapons\Spike_Grenade\claymore_grenade(1).hlmt full
-import 69C SpartanVISION\Weapons\Spike_Grenade\claymore_grenade(2).hlmt full
-import 1205 SpartanVISION\Weapons\Spike_Grenade\claymore_grenade(3).hlmt full
-import 6B2 SpartanVISION\Weapons\Firebomb_Grenade\firebomb_grenade(1).hlmt full
-import 6CC SpartanVISION\Weapons\Firebomb_Grenade\firebomb_grenade(2).hlmt full
-import 1206 SpartanVISION\Weapons\Firebomb_Grenade\firebomb_grenade(3).hlmt full
-import 335 SpartanVISION\Weapons\Frag_Grenade\frag_grenade_equipment.hlmt full
-import 4D8 SpartanVISION\Weapons\Frag_Grenade\frag_grenade(1).hlmt full
-import 1203 SpartanVISION\Weapons\Frag_Grenade\frag_grenade(2).hlmt full
-import 4EE SpartanVISION\Weapons\Plasma_Grenade\plasma_grenade(1).hlmt full
-import 51E SpartanVISION\Weapons\Plasma_Grenade\plasma_grenade(2).hlmt full
-import 1204 SpartanVISION\Weapons\Plasma_Grenade\plasma_grenade(3).hlmt full
-import 22FD SpartanVISION\Weapons\Energy_Sword\energy_blade.hlmt full
-import 268D SpartanVISION\Weapons\Multiplayer\assault_bomb.hlmt full
-import 2673 SpartanVISION\Weapons\Multiplayer\ball.hlmt full
-import 264C SpartanVISION\Weapons\Multiplayer\flag.hlmt full
-import 2087 SpartanVISION\Weapons\Mauler\excavator.hlmt full
-import 2407 SpartanVISION\Weapons\Mauler\excavator_variant6.hlmt full
-import 20B8 SpartanVISION\Weapons\Magnum\magnum.hlmt full
-import 2411 SpartanVISION\Weapons\Magnum\magnum_variant2.hlmt full
-import 241A SpartanVISION\Weapons\Magnum\magnum_variant6.hlmt full
-import 20E6 SpartanVISION\Weapons\Needler\needler.hlmt full
-import 211E SpartanVISION\Weapons\Needler\needler_shard.hlmt full
-import 2251 SpartanVISION\Weapons\Plasma_Pistol\plasma_pistol.hlmt full
-import 2421 SpartanVISION\Weapons\Plasma_Pistol\plasma_pistol_variant6.hlmt full
-import 1B80 SpartanVISION\Weapons\Assault_Rifle\assault_rifle.hlmt full
-import 231E SpartanVISION\Weapons\Assault_Rifle\assault_rifle_variant2.hlmt full
-import 2341 SpartanVISION\Weapons\Assault_Rifle\assault_rifle_variant3.hlmt full
-import 2333 SpartanVISION\Weapons\Assault_Rifle\assault_rifle_variant4.hlmt full
-import 2352 SpartanVISION\Weapons\Assault_Rifle\assault_rifle_variant6.hlmt full
-import 1D81 SpartanVISION\Weapons\Battle_Rifle\battle_rifle.hlmt full
-import 2360 SpartanVISION\Weapons\Battle_Rifle\battle_rifle_variant1.hlmt full
-import 236E SpartanVISION\Weapons\Battle_Rifle\battle_rifle_variant2.hlmt full
-import 258A SpartanVISION\Weapons\Battle_Rifle\battle_rifle_variant3.hlmt full
-import 2580 SpartanVISION\Weapons\Battle_Rifle\battle_rifle_variant4.hlmt full
-import 2594 SpartanVISION\Weapons\Battle_Rifle\battle_rifle_variant5.hlmt full
-import 2380 SpartanVISION\Weapons\Battle_Rifle\battle_rifle_variant6.hlmt full
-import 1DB2 SpartanVISION\Weapons\Covenant_Carbine\covenant_carbine.hlmt full
-import 25B9 SpartanVISION\Weapons\Covenant_Carbine\carbine_variant1.hlmt full
-import 25CB SpartanVISION\Weapons\Covenant_Carbine\carbine_variant2.hlmt full
-import 25D4 SpartanVISION\Weapons\Covenant_Carbine\carbine_variant3.hlmt full
-import 25B0 SpartanVISION\Weapons\Covenant_Carbine\carbine_variant4.hlmt full
-import 25C2 SpartanVISION\Weapons\Covenant_Carbine\carbine_variant5.hlmt full
-import 23FD SpartanVISION\Weapons\Covenant_Carbine\covenant_carbine_variant6.hlmt full
-import 1E0B SpartanVISION\Weapons\DMR\dmr.hlmt full
-import 259D SpartanVISION\Weapons\DMR\dmr_variant1.hlmt full
-import 2391 SpartanVISION\Weapons\DMR\dmr_variant2.hlmt full
-import 23B0 SpartanVISION\Weapons\DMR\dmr_variant3.hlmt full
-import 23A4 SpartanVISION\Weapons\DMR\dmr_variant4.hlmt full
-import 25A6 SpartanVISION\Weapons\DMR\dmr_variant5.hlmt full
-import 23BF SpartanVISION\Weapons\DMR\dmr_variant6.hlmt full
-import 1E41 SpartanVISION\Weapons\Plasma_Rifle\plasma_rifle.hlmt full
-import 23F2 SpartanVISION\Weapons\Plasma_Rifle\plasma_rifle_variant6.hlmt full
-import 1EF5 SpartanVISION\Weapons\Shotgun\shotgun.hlmt full
-import 1F46 SpartanVISION\Weapons\SMG\smg.hlmt full
-import 23E0 SpartanVISION\Weapons\SMG\smg_variant2.hlmt full
-import 23D4 SpartanVISION\Weapons\SMG\smg_variant3.hlmt full
-import 23CB SpartanVISION\Weapons\SMG\smg_variant4.hlmt full
-import 23E9 SpartanVISION\Weapons\SMG\smg_variant6.hlmt full
-import 1F88 SpartanVISION\Weapons\Sniper_Rifle\sniper_rifle.hlmt full
-import 204F SpartanVISION\Weapons\Spiker\spike_rifle.hlmt full
-import 21D5 SpartanVISION\Weapons\Fuel_Rod_Gun\flak_cannon.hlmt full
-import 2203 SpartanVISION\Weapons\Fuel_Rod_Gun\flak_bolt.hlmt full
-import 1C96 SpartanVISION\Weapons\Rocket_Launcher\rocket_launcher.hlmt full
-import 1CEF SpartanVISION\Weapons\Rocket_Launcher\rocket.hlmt full
-import 24A1 SpartanVISION\Weapons\Spartan_Laser\spartan_laser.hlmt full
-import 1D11 SpartanVISION\Weapons\Brute_Shot\brute_shot.hlmt full
-import 1D40 SpartanVISION\Weapons\Brute_Shot\grenade.hlmt full
-import 3224 SpartanVISION\Weapons\Sentinel_Gun\sentinel_gun.hlmt full
-import 31BD SpartanVISION\Weapons\Flamethrower\flamethrower_weapon.hlmt full
-import 2879 SpartanVISION\Weapons\Machinegun_Turret\machinegun_turret_vehicle.hlmt full
-import 2198 SpartanVISION\Weapons\Machinegun_Turret\machinegun_turret_weapon.hlmt full
-import 2889 SpartanVISION\Weapons\Machinegun_Turret\machinegun_turret_weapon(2).hlmt full
-import 3CD2 SpartanVISION\Weapons\Missile_Pod\garbage_tripod.hlmt full
-import 3CC8 SpartanVISION\Weapons\Missile_Pod\missile_pod_vehicle.hlmt full
-import 2CAB SpartanVISION\Weapons\Missile_Pod\missile_pod_weapon.hlmt full
-import 2168 SpartanVISION\Weapons\Missile_Pod\missile.hlmt full
-import 2157 SpartanVISION\Weapons\Missile_Pod\missile(2).hlmt full
-import 308C SpartanVISION\Weapons\Plasma_Cannon_Turret\plasma_cannon_vehicle.hlmt full
-import 309C SpartanVISION\Weapons\Plasma_Cannon_Turret\garbage_tripod_front.hlmt full
-import 3098 SpartanVISION\Weapons\Plasma_Cannon_Turret\garbage_tripod_back.hlmt full
-import 2524 SpartanVISION\Weapons\Plasma_Cannon_Turret\plasma_cannon_weapon.hlmt full
+echo import 244F SpartanVISION\Weapons\Beam_Rifle\0000244F.hlmt full
+echo import 31F5 SpartanVISION\Weapons\Gravity_Hammer\gravity_hammer.hlmt full
+echo import 54F SpartanVISION\Weapons\Spike_Grenade\claymore_grenade(1).hlmt full
+echo import 69C SpartanVISION\Weapons\Spike_Grenade\claymore_grenade(2).hlmt full
+echo import 1205 SpartanVISION\Weapons\Spike_Grenade\claymore_grenade(3).hlmt full
+echo import 6B2 SpartanVISION\Weapons\Firebomb_Grenade\firebomb_grenade(1).hlmt full
+echo import 6CC SpartanVISION\Weapons\Firebomb_Grenade\firebomb_grenade(2).hlmt full
+echo import 1206 SpartanVISION\Weapons\Firebomb_Grenade\firebomb_grenade(3).hlmt full
+echo import 335 SpartanVISION\Weapons\Frag_Grenade\frag_grenade_equipment.hlmt full
+echo import 4D8 SpartanVISION\Weapons\Frag_Grenade\frag_grenade(1).hlmt full
+echo import 1203 SpartanVISION\Weapons\Frag_Grenade\frag_grenade(2).hlmt full
+echo import 4EE SpartanVISION\Weapons\Plasma_Grenade\plasma_grenade(1).hlmt full
+echo import 51E SpartanVISION\Weapons\Plasma_Grenade\plasma_grenade(2).hlmt full
+echo import 1204 SpartanVISION\Weapons\Plasma_Grenade\plasma_grenade(3).hlmt full
+echo import 22FD SpartanVISION\Weapons\Energy_Sword\energy_blade.hlmt full
+echo import 268D SpartanVISION\Weapons\Multiplayer\assault_bomb.hlmt full
+echo import 2673 SpartanVISION\Weapons\Multiplayer\ball.hlmt full
+echo import 264C SpartanVISION\Weapons\Multiplayer\flag.hlmt full
+echo import 2087 SpartanVISION\Weapons\Mauler\excavator.hlmt full
+echo import 2407 SpartanVISION\Weapons\Mauler\excavator_variant6.hlmt full
+echo import 20B8 SpartanVISION\Weapons\Magnum\magnum.hlmt full
+echo import 2411 SpartanVISION\Weapons\Magnum\magnum_variant2.hlmt full
+echo import 241A SpartanVISION\Weapons\Magnum\magnum_variant6.hlmt full
+echo import 20E6 SpartanVISION\Weapons\Needler\needler.hlmt full
+echo import 211E SpartanVISION\Weapons\Needler\needler_shard.hlmt full
+echo import 2251 SpartanVISION\Weapons\Plasma_Pistol\plasma_pistol.hlmt full
+echo import 2421 SpartanVISION\Weapons\Plasma_Pistol\plasma_pistol_variant6.hlmt full
+echo import 1B80 SpartanVISION\Weapons\Assault_Rifle\assault_rifle.hlmt full
+echo import 231E SpartanVISION\Weapons\Assault_Rifle\assault_rifle_variant2.hlmt full
+echo import 2341 SpartanVISION\Weapons\Assault_Rifle\assault_rifle_variant3.hlmt full
+echo import 2333 SpartanVISION\Weapons\Assault_Rifle\assault_rifle_variant4.hlmt full
+echo import 2352 SpartanVISION\Weapons\Assault_Rifle\assault_rifle_variant6.hlmt full
+echo import 1D81 SpartanVISION\Weapons\Battle_Rifle\battle_rifle.hlmt full
+echo import 2360 SpartanVISION\Weapons\Battle_Rifle\battle_rifle_variant1.hlmt full
+echo import 236E SpartanVISION\Weapons\Battle_Rifle\battle_rifle_variant2.hlmt full
+echo import 258A SpartanVISION\Weapons\Battle_Rifle\battle_rifle_variant3.hlmt full
+echo import 2580 SpartanVISION\Weapons\Battle_Rifle\battle_rifle_variant4.hlmt full
+echo import 2594 SpartanVISION\Weapons\Battle_Rifle\battle_rifle_variant5.hlmt full
+echo import 2380 SpartanVISION\Weapons\Battle_Rifle\battle_rifle_variant6.hlmt full
+echo import 1DB2 SpartanVISION\Weapons\Covenant_Carbine\covenant_carbine.hlmt full
+echo import 25B9 SpartanVISION\Weapons\Covenant_Carbine\carbine_variant1.hlmt full
+echo import 25CB SpartanVISION\Weapons\Covenant_Carbine\carbine_variant2.hlmt full
+echo import 25D4 SpartanVISION\Weapons\Covenant_Carbine\carbine_variant3.hlmt full
+echo import 25B0 SpartanVISION\Weapons\Covenant_Carbine\carbine_variant4.hlmt full
+echo import 25C2 SpartanVISION\Weapons\Covenant_Carbine\carbine_variant5.hlmt full
+echo import 23FD SpartanVISION\Weapons\Covenant_Carbine\covenant_carbine_variant6.hlmt full
+echo import 1E0B SpartanVISION\Weapons\DMR\dmr.hlmt full
+echo import 259D SpartanVISION\Weapons\DMR\dmr_variant1.hlmt full
+echo import 2391 SpartanVISION\Weapons\DMR\dmr_variant2.hlmt full
+echo import 23B0 SpartanVISION\Weapons\DMR\dmr_variant3.hlmt full
+echo import 23A4 SpartanVISION\Weapons\DMR\dmr_variant4.hlmt full
+echo import 25A6 SpartanVISION\Weapons\DMR\dmr_variant5.hlmt full
+echo import 23BF SpartanVISION\Weapons\DMR\dmr_variant6.hlmt full
+echo import 1E41 SpartanVISION\Weapons\Plasma_Rifle\plasma_rifle.hlmt full
+echo import 23F2 SpartanVISION\Weapons\Plasma_Rifle\plasma_rifle_variant6.hlmt full
+echo import 1EF5 SpartanVISION\Weapons\Shotgun\shotgun.hlmt full
+echo import 1F46 SpartanVISION\Weapons\SMG\smg.hlmt full
+echo import 23E0 SpartanVISION\Weapons\SMG\smg_variant2.hlmt full
+echo import 23D4 SpartanVISION\Weapons\SMG\smg_variant3.hlmt full
+echo import 23CB SpartanVISION\Weapons\SMG\smg_variant4.hlmt full
+echo import 23E9 SpartanVISION\Weapons\SMG\smg_variant6.hlmt full
+echo import 1F88 SpartanVISION\Weapons\Sniper_Rifle\sniper_rifle.hlmt full
+echo import 204F SpartanVISION\Weapons\Spiker\spike_rifle.hlmt full
+echo import 21D5 SpartanVISION\Weapons\Fuel_Rod_Gun\flak_cannon.hlmt full
+echo import 2203 SpartanVISION\Weapons\Fuel_Rod_Gun\flak_bolt.hlmt full
+echo import 1C96 SpartanVISION\Weapons\Rocket_Launcher\rocket_launcher.hlmt full
+echo import 1CEF SpartanVISION\Weapons\Rocket_Launcher\rocket.hlmt full
+echo import 24A1 SpartanVISION\Weapons\Spartan_Laser\spartan_laser.hlmt full
+echo import 1D11 SpartanVISION\Weapons\Brute_Shot\brute_shot.hlmt full
+echo import 1D40 SpartanVISION\Weapons\Brute_Shot\grenade.hlmt full
+echo import 3224 SpartanVISION\Weapons\Sentinel_Gun\sentinel_gun.hlmt full
+echo import 31BD SpartanVISION\Weapons\Flamethrower\flamethrower_weapon.hlmt full
+echo import 2879 SpartanVISION\Weapons\Machinegun_Turret\machinegun_turret_vehicle.hlmt full
+echo import 2198 SpartanVISION\Weapons\Machinegun_Turret\machinegun_turret_weapon.hlmt full
+echo import 2889 SpartanVISION\Weapons\Machinegun_Turret\machinegun_turret_weapon(2).hlmt full
+echo import 3CD2 SpartanVISION\Weapons\Missile_Pod\garbage_tripod.hlmt full
+echo import 3CC8 SpartanVISION\Weapons\Missile_Pod\missile_pod_vehicle.hlmt full
+echo import 2CAB SpartanVISION\Weapons\Missile_Pod\missile_pod_weapon.hlmt full
+echo import 2168 SpartanVISION\Weapons\Missile_Pod\missile.hlmt full
+echo import 2157 SpartanVISION\Weapons\Missile_Pod\missile(2).hlmt full
+echo import 308C SpartanVISION\Weapons\Plasma_Cannon_Turret\plasma_cannon_vehicle.hlmt full
+echo import 309C SpartanVISION\Weapons\Plasma_Cannon_Turret\garbage_tripod_front.hlmt full
+echo import 3098 SpartanVISION\Weapons\Plasma_Cannon_Turret\garbage_tripod_back.hlmt full
+echo import 2524 SpartanVISION\Weapons\Plasma_Cannon_Turret\plasma_cannon_weapon.hlmt full
 
 import 196D SpartanVISION\Equipment\Bubble_Shield\bubbleshield_equipment.hlmt full
 import 1971 SpartanVISION\Equipment\Bubble_Shield\bubbleshield.hlmt full
