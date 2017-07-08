@@ -4,6 +4,7 @@ https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/DMRCrosshairFix/DMRCros
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/DMRCrosshairFixH3HUDCompatible/DMRCrosshairFixH3HUDCompatible.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/EnhancedForge-PUB/EnhancedForge-PUB.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/FlatGrass/FlatGrass.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/FlatWeapFix/FlatWeapFix.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Grunt_Birthday_Party/Grunt_Birthday_Party.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Guardium/Guardium.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Halo_Online_HUD_Fixup/Halo_Online_HUD_Fixup.ini
