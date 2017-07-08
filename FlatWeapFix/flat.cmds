@@ -152,12 +152,12 @@ exit
 
 echo altering sniper, shotgun, & sword phmo to fix weapon placement bug
 
-ECHO SNIPER
+echo SNIPER
 editTag 0x1F88
 setfield PhysicsModel 0x2505
 savetagchanges
 exit
-ECHO BEAM
+echo BEAM
 editTag 0x244F
 setfield PhysicsModel 0x2505
 savetagchanges

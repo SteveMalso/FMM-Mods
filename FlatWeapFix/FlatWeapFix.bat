@@ -6,7 +6,7 @@ echo.
 echo 				*********************
 echo 				***  FlatWeapFix  ***
 echo 				~~~~~~~~~~~~~~~~~~~~~
-echo 				***  Version 0.8  ***
+echo 				***  Version 0.9  ***
 echo 				~~~~~~~~~~~~~~~~~~~~~
 echo 				*** Press Any Key ***
 echo 				*********************
