@@ -11,7 +11,7 @@ savetagchanges
 exit
 
 editTag 0x236E
-setfield PhysicsModel 2505
+setfield PhysicsModel 0x2505
 savetagchanges
 exit
 
