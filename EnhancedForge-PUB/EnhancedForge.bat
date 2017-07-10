@@ -10,7 +10,7 @@ echo.
 echo 				*********************
 echo 				*** EnhancedForge ***
 echo 				~~~~~~~~~~~~~~~~~~~~~
-echo 				***  Version 1.1  ***
+echo 				***  Version 1.2  ***
 echo 				~~~~~~~~~~~~~~~~~~~~~
 echo 				*** Press Any Key ***
 echo 				*********************
