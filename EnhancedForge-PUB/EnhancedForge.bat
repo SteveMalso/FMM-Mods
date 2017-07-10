@@ -29,6 +29,8 @@ if exist ..\..\..\maps\tags.dat (
 
 :Label0
 
+START /WAIT commands\TTCC.exe commands\EnhancedForge.cmdX
+
 Type commands\EnhancedForge.cmds | TagTool.exe ../../../maps/tags.dat
 
 ECHO Installation Complete ...

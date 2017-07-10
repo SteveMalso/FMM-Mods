@@ -2422,26 +2422,26 @@ setfield SandboxWeapons[57].name Bomb
 
 
 removefrom sandboxEquipment 15 *
-addto sandboxEquipment 9
-setfield SandboxEquipment[15].object 196E
-setfield SandboxEquipment[16].object 1A6E
-setfield SandboxEquipment[17].object 15D2
-setfield SandboxEquipment[18].object 19C5
-setfield SandboxEquipment[19].object 18AC
-setfield SandboxEquipment[20].object 15D3
-setfield SandboxEquipment[21].object 15D1
-setfield SandboxEquipment[22].object 15D5
-setfield SandboxEquipment[23].object 15D4
+addto sandboxEquipment 7
+setfield SandboxEquipment[13].object 196E
+setfield SandboxEquipment[14].object 1A6E
+setfield SandboxEquipment[15].object 15D2
+setfield SandboxEquipment[16].object 19C5
+setfield SandboxEquipment[17].object 18AC
+setfield SandboxEquipment[18].object 15D3
+setfield SandboxEquipment[19].object 15D1
+setfield SandboxEquipment[20].object 15D5
+setfield SandboxEquipment[21].object 15D4
 
-setfield SandboxEquipment[15].name BubbleShield
-setfield SandboxEquipment[16].name DeployableCover
-setfield SandboxEquipment[17].name PowerDrain
-setfield SandboxEquipment[18].name Regen
-setfield SandboxEquipment[19].name radarjammer
-setfield SandboxEquipment[20].name flare
-setfield SandboxEquipment[21].name tripmine
-setfield SandboxEquipment[22].name yellowpowerdrain
-setfield SandboxEquipment[23].name scrambler 
+setfield SandboxEquipment[13].name BubbleShield
+setfield SandboxEquipment[14].name DeployableCover
+setfield SandboxEquipment[15].name PowerDrain
+setfield SandboxEquipment[16].name Regen
+setfield SandboxEquipment[17].name radarjammer
+setfield SandboxEquipment[18].name flare
+setfield SandboxEquipment[19].name tripmine
+setfield SandboxEquipment[20].name yellowpowerdrain
+setfield SandboxEquipment[21].name scrambler 
 
 
 echo  maxing forge pallete for Sandtrap
