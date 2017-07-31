@@ -6,26 +6,84 @@ weap_energy_hilt
 weap_gravity_hammer
 1504
 weap_excavator
+1592
+weap_excav_v3
 14f7
 weap_plasma_pistol
+1595
+weap_plasmap_v3
 14f8
 weap_needler
 151e
 weap_assault_rifle
+1581
+weap_assault_v2
+1582
+weap_assault_v3
+1583
+weap_assault_v5
+1584
+weap_assault_v6
 157C
 weap_battle_rifle
+15BB
+weap_battler_v1
+15BC
+weap_battler_v2
+1585
+weap_battler_v3
+1586
+weap_battler_v4
+15BD
+weap_battler_v5
+1587
+weap_battler_v6
 1509
 weap_beam_rifle
 14fe
 weap_carbine
+15C0
+weap_carb_v1
+15C1
+weap_carb_v2
+15C2
+weap_carb_v3
+15C3
+weap_carb_v4
+15C4
+weap_carb_v5
+1591
+weap_carb_v6
 1580
 weap_dmr
+15BE
+weap_dm_v1
+1588
+weap_dm_v2
+1589
+weap_dm_v3
+158A
+weap_dm_v4
+15BF
+weap_dm_v5
+158B
+weap_dm_v6
 1525
 weap_plasma_rifle
+1590
+weap_plasma_v6
 1a45
 weap_shotgun
 157d
 weap_smg
+158C
+weap_sm_v1
+158D
+weap_sm_v2
+158E
+weap_sm_v4
+158F
+weap_sm_v6
 15b1
 weap_sniper_rifle
 1500
@@ -40,6 +98,10 @@ weap_brute_shot
 weap_sentinel_beam
 157e
 weap_magnum
+1593
+weap_mag_v2
+1594
+weap_mag_v3
 14f9
 weap_fuelrod
 15a4
@@ -73,7 +135,25 @@ SetField FirstPersonWeaponOffsetJ 0
 SetField FirstPersonWeaponOffsetK -0.01
 savechanges
 exit
+edit weap_excav_v3
+SetField FirstPersonWeaponOffsetI -0.06
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK -0.01
+savechanges
+exit
 edit weap_magnum
+SetField FirstPersonWeaponOffsetI -0.035
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK 0
+savechanges
+exit
+edit weap_mag_v2
+SetField FirstPersonWeaponOffsetI -0.035
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK 0
+savechanges
+exit
+edit weap_mag_v3
 SetField FirstPersonWeaponOffsetI -0.035
 SetField FirstPersonWeaponOffsetJ 0
 SetField FirstPersonWeaponOffsetK 0
@@ -91,13 +171,79 @@ SetField FirstPersonWeaponOffsetJ 0
 SetField FirstPersonWeaponOffsetK -0.0035
 savechanges
 exit
+edit weap_plasmap_v3
+SetField FirstPersonWeaponOffsetI -0.055
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK -0.0035
+savechanges
+exit
 edit weap_assault_rifle
 SetField FirstPersonWeaponOffsetI -0.025
 SetField FirstPersonWeaponOffsetJ 0
 SetField FirstPersonWeaponOffsetK -0.0035
 savechanges
 exit
+edit weap_assault_v2
+SetField FirstPersonWeaponOffsetI -0.025
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK -0.0035
+savechanges
+exit
+edit weap_assault_v3
+SetField FirstPersonWeaponOffsetI -0.025
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK -0.0035
+savechanges
+exit
+edit weap_assault_v5
+SetField FirstPersonWeaponOffsetI -0.025
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK -0.0035
+savechanges
+exit
+edit weap_assault_v6
+SetField FirstPersonWeaponOffsetI -0.025
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK -0.0035
+savechanges
+exit
 edit weap_battle_rifle
+SetField FirstPersonWeaponOffsetI -0.01
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK -0.005
+savechanges
+exit
+edit weap_battler_v1
+SetField FirstPersonWeaponOffsetI -0.01
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK -0.005
+savechanges
+exit
+edit weap_battler_v2
+SetField FirstPersonWeaponOffsetI -0.01
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK -0.005
+savechanges
+exit
+edit weap_battler_v3
+SetField FirstPersonWeaponOffsetI -0.01
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK -0.005
+savechanges
+exit
+edit weap_battler_v4
+SetField FirstPersonWeaponOffsetI -0.01
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK -0.005
+savechanges
+exit
+edit weap_battler_v5
+SetField FirstPersonWeaponOffsetI -0.01
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK -0.005
+savechanges
+exit
+edit weap_battler_v6
 SetField FirstPersonWeaponOffsetI -0.01
 SetField FirstPersonWeaponOffsetJ 0
 SetField FirstPersonWeaponOffsetK -0.005
@@ -115,8 +261,86 @@ SetField FirstPersonWeaponOffsetJ 0
 SetField FirstPersonWeaponOffsetK -0.005
 savechanges
 exit
+edit weap_carb_v1
+SetField FirstPersonWeaponOffsetI -0.01
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK -0.005
+savechanges
+exit
+edit weap_carb_v2
+SetField FirstPersonWeaponOffsetI -0.01
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK -0.005
+savechanges
+exit
+edit weap_carb_v3
+SetField FirstPersonWeaponOffsetI -0.01
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK -0.005
+savechanges
+exit
+edit weap_carb_v4
+SetField FirstPersonWeaponOffsetI -0.01
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK -0.005
+savechanges
+exit
+edit weap_carb_v5
+SetField FirstPersonWeaponOffsetI -0.01
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK -0.005
+savechanges
+exit
+edit weap_carb_v6
+SetField FirstPersonWeaponOffsetI -0.01
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK -0.005
+savechanges
+exit
 //
 edit weap_dmr
+SetField FirstPersonWeaponOffsetI -0.02
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK 0
+savechanges
+exit
+//
+edit weap_dm_v1
+SetField FirstPersonWeaponOffsetI -0.02
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK 0
+savechanges
+exit
+//
+edit weap_dm_v2
+SetField FirstPersonWeaponOffsetI -0.02
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK 0
+savechanges
+exit
+//
+edit weap_dm_v3
+SetField FirstPersonWeaponOffsetI -0.02
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK 0
+savechanges
+exit
+//
+edit weap_dm_v4
+SetField FirstPersonWeaponOffsetI -0.02
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK 0
+savechanges
+exit
+//
+edit weap_dm_v5
+SetField FirstPersonWeaponOffsetI -0.02
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK 0
+savechanges
+exit
+//
+edit weap_dm_v6
 SetField FirstPersonWeaponOffsetI -0.02
 SetField FirstPersonWeaponOffsetJ 0
 SetField FirstPersonWeaponOffsetK 0
@@ -130,6 +354,13 @@ SetField FirstPersonWeaponOffsetK -0.005
 savechanges
 exit
 //
+edit weap_plasma_v6
+SetField FirstPersonWeaponOffsetI 0.015
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK -0.005
+savechanges
+exit
+//
 edit weap_shotgun
 SetField FirstPersonWeaponOffsetI -0.017
 SetField FirstPersonWeaponOffsetJ 0
@@ -137,6 +368,30 @@ SetField FirstPersonWeaponOffsetK -0.005
 savechanges
 exit
 edit weap_smg
+SetField FirstPersonWeaponOffsetI -0.015
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK -0.005
+savechanges
+exit
+edit weap_sm_v1
+SetField FirstPersonWeaponOffsetI -0.015
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK -0.005
+savechanges
+exit
+edit weap_sm_v2
+SetField FirstPersonWeaponOffsetI -0.015
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK -0.005
+savechanges
+exit
+edit weap_sm_v4
+SetField FirstPersonWeaponOffsetI -0.015
+SetField FirstPersonWeaponOffsetJ 0
+SetField FirstPersonWeaponOffsetK -0.005
+savechanges
+exit
+edit weap_sm_v6
 SetField FirstPersonWeaponOffsetI -0.015
 SetField FirstPersonWeaponOffsetJ 0
 SetField FirstPersonWeaponOffsetK -0.005
