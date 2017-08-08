@@ -1,0 +1,4 @@
+edittag 0x01DD 
+setfield Attachments[0].Attachment2 0x0E5D 
+savetagchanges exit
+dumplog shieldsdownfix.log

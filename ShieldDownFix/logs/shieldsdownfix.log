@@ -1,0 +1,19 @@
+Tag Tool [1.5.6334.39260]
+
+Please report any bugs and/or feature requests at
+<https://gitlab.com/TheGuardians/TagTool/issues>.
+
+Enter "help" to list available commands. Enter "exit" to quit.
+
+tags> edittag 0x01DD 
+Tag (0x01DD) 0x01DD.biped has been opened for editing.
+New commands are now available. Enter "help" to view them.
+Use "exit" to return to tags.
+
+tags\(0x01DD) 0x01DD.biped> setfield Attachments[0].Attachment2 0x0E5D 
+Attachment2: CachedTagInstance = 0x00000E5D
+
+tags\(0x01DD) 0x01DD.biped> savetagchanges exit
+Done!
+
+tags\(0x01DD) 0x01DD.biped> dumplog shieldsdownfix.log
