@@ -1,0 +1,22 @@
+createtag effe
+nametag * sdeple
+importtag sdeple.effe files/sdeple.effe
+edittag 0x1348
+setfield NewDamageInfo[0].ShieldDepletedEffect sdeple.effe
+savetagchanges
+exit
+createtag effe
+nametag * sdown
+importtag sdown.effe files/sdown.effe
+edittag 0x01DD
+setfield Attachments[0].Attachment2 sdown.effe
+savetagchanges
+exit
+createtag effe
+nametag * srecha
+importtag srecha.effe files/srecha.effe
+edittag 0x1348
+setfield NewDamageInfo[0].ShieldRechargingEffect srecha.effe
+savetagchanges
+exit
+quit
