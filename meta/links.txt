@@ -30,8 +30,6 @@ https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3anims/Halo3BRA
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3armors/h3armors.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3hud/Halo 3 HUD.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3intro/h3intro.ini
-https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3sounds/h3ARsound/H3ARsound.ini
-https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3sounds/h3BRsound/h3BRsound.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3sounds/h3menuMusic/h3menuMusic.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3sounds/h3shotgunSound/h3shotgunSound.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3sounds/h3sniperSound/h3sniperSound.ini
