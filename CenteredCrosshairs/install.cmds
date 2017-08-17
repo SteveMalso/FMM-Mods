@@ -1,57 +1,375 @@
-import 1a45 tags/1a45_shot.weap full
-import 1a56 tags/1a56_sg.weap full
-import 14f7 tags/14f7_pp.weap full
-import 14f8 tags/14f8_need.weap full
-import 14f9 tags/14f9_pc.weap full
-import 14fe tags/14fe_cc.weap full
-import 14ff tags/14ff_bs.weap full
-import 15a3 tags/15a3_ob.weap full
-import 15a4 tags/15a4_ab.weap full
-import 15b1 tags/15b1_sr.weap full
-import 15b2 tags/15b2_sl.weap full
-import 15b3 tags/15b3_rl.weap full
-import 15bb tags/15bb_br4.weap full
-import 15bc tags/15bc_br3.weap full
-import 15bd tags/15bd_br5.weap full
-import 15be tags/15be_dmr1.weap full
-import 15bf tags/15bf_dmr5.weap full
-import 15c0 tags/15c0_cc4.weap full
-import 15c1 tags/15c1_cc1.weap full
-import 15c2 tags/15c2_cc5.weap full
-import 15c3 tags/15c3_cc2.weap full
-import 15c4 tags/15c4_cc3.weap full
-import 150c tags/150c_gh.weap full
-import 151e tags/151e_ar.weap full
-import 157c tags/157c_br.weap full
-import 157d tags/157d_smg.weap full
-import 157e tags/157e_mag.weap full
-import 158a tags/158a_dmr3.weap full
-import 158b tags/158b_dmr6.weap full
-import 158c tags/158c_smg4.weap full
-import 158d tags/158d_smg3.weap full
-import 158e tags/158e_smg2.weap full
-import 158f tags/158f_smg6.weap full
-import 159e tags/159e_es.weap full
-import 1500 tags/1500_spk.weap full
-import 1504 tags/1504_maul.weap full
-import 1509 tags/1509_beam.weap full
-import 1525 tags/1525_pr.weap full
-import 1580 tags/1580_dmr.weap full
-import 1581 tags/1581_ar2.weap full
-import 1582 tags/1582_ar4.weap full
-import 1583 tags/1583_ar3.weap full
-import 1584 tags/1584_ar6.weap full
-import 1585 tags/1585_br1.weap full
-import 1586 tags/1586_br2.weap full
-import 1587 tags/1587_br6.weap full
-import 1588 tags/1588_dmr2.weap full
-import 1589 tags/1589_dmr4.weap full
-import 1590 tags/1590_pr6.weap full
-import 1591 tags/1591_cc6.weap full
-import 1592 tags/1592_maul6.weap full
-import 1593 tags/1593_mag2.weap full
-import 1594 tags/1594_mag6.weap full
-import 1595 tags/1595_pp6.weap full
-import 101e tags/101e_dmr1.mode full
-import 117b tags/117b_mag6.mode full
-quit
+Echo ======================================================================
+Echo  ---------------------- Naming All Weapon Tags ----------------------
+Echo ======================================================================
+
+NameTag 0x159E objects\weapons\melee\energy_blade\energy_blade
+NameTag 0x157F objects\weapons\melee\energy_blade\energy_blade_useless
+NameTag 0x150C objects\weapons\melee\gravity_hammer\gravity_hammer
+
+NameTag 0x15A4 objects\weapons\multiplayer\assault_bomb\assault_bomb
+NameTag 0x15A3 objects\weapons\multiplayer\ball\ball
+NameTag 0x15A2 objects\weapons\multiplayer\flag\flag
+
+NameTag 0x1504 objects\weapons\pistol\excavator\excavator
+NameTag 0x1592 objects\weapons\pistol\excavator\excavator_power
+NameTag 0x157E objects\weapons\pistol\magnum\magnum
+NameTag 0x1593 objects\weapons\pistol\magnum\magnum_damage
+NameTag 0x1594 objects\weapons\pistol\magnum\magnum_power
+NameTag 0x14F8 objects\weapons\pistol\needler\needler
+NameTag 0x14F7 objects\weapons\pistol\plasma_pistol\plasma_pistol
+NameTag 0x1595 objects\weapons\pistol\plasma_pistol\plasma_pistol_power
+
+NameTag 0x151E objects\weapons\rifle\assault_rifle\assault_rifle
+NameTag 0x1581 objects\weapons\rifle\assault_rifle\assault_rifle_damage
+NameTag 0x1582 objects\weapons\rifle\assault_rifle\assault_rifle_accuracy
+NameTag 0x1583 objects\weapons\rifle\assault_rifle\assault_rifle_rateoffire
+NameTag 0x1584 objects\weapons\rifle\assault_rifle\assault_rifle_power
+NameTag 0x157C objects\weapons\rifle\battle_rifle\battle_rifle
+NameTag 0x15BB objects\weapons\rifle\battle_rifle\battle_rifle_ammo
+NameTag 0x15BC objects\weapons\rifle\battle_rifle\battle_rifle_damage
+NameTag 0x1585 objects\weapons\rifle\battle_rifle\battle_rifle_accuracy
+NameTag 0x1586 objects\weapons\rifle\battle_rifle\battle_rifle_rateoffire
+NameTag 0x15BD objects\weapons\rifle\battle_rifle\battle_rifle_range
+NameTag 0x1587 objects\weapons\rifle\battle_rifle\battle_rifle_power
+NameTag 0x1509 objects\weapons\rifle\beam_rifle\beam_rifle
+NameTag 0x14fE objects\weapons\rifle\covenant_carbine\covenant_carbine
+NameTag 0x15C0 objects\weapons\rifle\covenant_carbine\covenant_carbine_ammo
+NameTag 0x15C1 objects\weapons\rifle\covenant_carbine\covenant_carbine_damage
+NameTag 0x15C2 objects\weapons\rifle\covenant_carbine\covenant_carbine_accuracy
+NameTag 0x15C3 objects\weapons\rifle\covenant_carbine\covenant_carbine_rateoffire
+NameTag 0x15C4 objects\weapons\rifle\covenant_carbine\covenant_carbine_range
+NameTag 0x1591 objects\weapons\rifle\covenant_carbine\covenant_carbine_power
+NameTag 0x1580 objects\weapons\rifle\dmr\dmr
+NameTag 0x15Bf objects\weapons\rifle\dmr\dmr_ammo
+NameTag 0x1588 objects\weapons\rifle\dmr\dmr_accuracy
+NameTag 0x1589 objects\weapons\rifle\dmr\dmr_damage
+NameTag 0x158A objects\weapons\rifle\dmr\dmr_rateoffire
+NameTag 0x15BE objects\weapons\rifle\dmr\dmr_range
+NameTag 0x158B objects\weapons\rifle\dmr\dmr_power
+NameTag 0x1525 objects\weapons\rifle\plasma_rifle\plasma_rifle
+NameTag 0x1590 objects\weapons\rifle\plasma_rifle\plasma_rifle_power
+NameTag 0x1A45 objects\weapons\rifle\shotgun\shotgun
+NameTag 0x157D objects\weapons\rifle\smg\smg
+NameTag 0x158C objects\weapons\rifle\smg\smg_damage
+NameTag 0x158D objects\weapons\rifle\smg\smg_accuracy
+NameTag 0x158E objects\weapons\rifle\smg\smg_rateoffire
+NameTag 0x158F objects\weapons\rifle\smg\smg_power
+NameTag 0x15B1 objects\weapons\rifle\sniper_rifle\sniper_rifle
+NameTag 0x1500 objects\weapons\rifle\spike_rifle\spike_rifle
+
+NameTag 0x14F9 objects\weapons\support_high\flak_cannon\flak_cannon
+NameTag 0x15B3 objects\weapons\support_high\rocket_launcher\rocket_launcher
+NameTag 0x15B2 objects\weapons\support_high\spartan_laser\spartan_laser
+
+NameTag 0x14FF objects\weapons\support_low\brute_shot\brute_shot
+NameTag 0x1A56 objects\weapons\support_low\sentinel_gun\sentinel_gun
+
+NameTag 0x1A55 objects\weapons\turret\flamethrower\flamethrower
+NameTag 0x15B5 objects\weapons\turret\machinegun_turret\machinegun_turret
+NameTag 0x15B6 objects\weapons\turret\machinegun_turret\machinegun_turret_integrated
+NameTag 0x1A54 objects\weapons\turret\missile_pod\missile_pod
+NameTag 0x1A57 objects\weapons\turret\missile_pod\missile_pod_integrated
+NameTag 0x150E objects\weapons\turret\plasma_cannon\plasma_cannon
+NameTag 0x15B7 objects\weapons\turret\plasma_cannon\plasma_cannon_integrated
+
+Echo ======================================================================
+Echo  ------------------ Editing All Weapon View Models ------------------
+Echo ======================================================================
+
+EditTag objects\weapons\melee\energy_blade\energy_blade.weapon
+SetField FirstPersonWeaponOffset 0.012000 0.000000 -0.050000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\melee\energy_blade\energy_blade_useless.weapon
+Exit
+
+EditTag objects\weapons\melee\gravity_hammer\gravity_hammer.weapon
+SetField FirstPersonWeaponOffset 0.015000 -0.030000 -0.070000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\multiplayer\assault_bomb\assault_bomb.weapon
+SetField FirstPersonWeaponOffset -0.025000 0.022000 -0.025000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\multiplayer\ball\ball.weapon
+SetField FirstPersonWeaponOffset -0.025000 0.022000 -0.025000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\multiplayer\flag\flag.weapon
+Exit
+
+EditTag objects\weapons\pistol\excavator\excavator.weapon
+SetField FirstPersonWeaponOffset -0.030000 0.005000 -0.010000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\pistol\excavator\excavator_power.weapon
+SetField FirstPersonWeaponOffset -0.030000 0.005000 -0.010000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\pistol\magnum\magnum.weapon
+SetField FirstPersonWeaponOffset -0.030000 0.003000 -0.015000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\pistol\magnum\magnum_damage.weapon
+SetField FirstPersonWeaponOffset -0.030000 0.005000 -0.010000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\pistol\magnum\magnum_power.weapon
+SetField FirstPersonWeaponOffset -0.030000 0.005000 -0.010000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\pistol\needler\needler.weapon
+SetField FirstPersonWeaponOffset -0.030000 0.012000 -0.001500
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\pistol\plasma_pistol\plasma_pistol.weapon
+SetField FirstPersonWeaponOffset -0.060000 0.005000 -0.025000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\pistol\plasma_pistol\plasma_pistol_power.weapon
+SetField FirstPersonWeaponOffset -0.060000 0.005000 -0.025000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\assault_rifle\assault_rifle.weapon
+SetField FirstPersonWeaponOffset -0.037000 0.008000 -0.012000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\assault_rifle\assault_rifle_damage.weapon
+SetField FirstPersonWeaponOffset -0.037000 0.008000 -0.012000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\assault_rifle\assault_rifle_accuracy.weapon
+SetField FirstPersonWeaponOffset -0.037000 0.008000 -0.012000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\assault_rifle\assault_rifle_rateoffire.weapon
+SetField FirstPersonWeaponOffset -0.037000 0.008000 -0.012000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\assault_rifle\assault_rifle_power.weapon
+SetField FirstPersonWeaponOffset -0.037000 0.008000 -0.012000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\battle_rifle\battle_rifle.weapon
+SetField FirstPersonWeaponOffset -0.008000 0.009000 -0.022000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\battle_rifle\battle_rifle_ammo.weapon
+SetField FirstPersonWeaponOffset -0.008000 0.009000 -0.022000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\battle_rifle\battle_rifle_damage.weapon
+SetField FirstPersonWeaponOffset -0.008000 0.009000 -0.022000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\battle_rifle\battle_rifle_accuracy.weapon
+SetField FirstPersonWeaponOffset -0.008000 0.009000 -0.022000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\battle_rifle\battle_rifle_rateoffire.weapon
+SetField FirstPersonWeaponOffset -0.008000 0.010000 -0.017000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\battle_rifle\battle_rifle_range.weapon
+SetField FirstPersonWeaponOffset -0.008000 0.009000 -0.022000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\battle_rifle\battle_rifle_power.weapon
+SetField FirstPersonWeaponOffset -0.008000 0.009000 -0.022000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\beam_rifle\beam_rifle.weapon
+SetField FirstPersonWeaponOffset -0.045000 0.018000 -0.028000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\covenant_carbine\covenant_carbine.weapon
+SetField FirstPersonWeaponOffset -0.032000 0.007000 -0.021000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\covenant_carbine\covenant_carbine_ammo.weapon
+SetField FirstPersonWeaponOffset -0.032000 0.007000 -0.021000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\covenant_carbine\covenant_carbine_damage.weapon
+SetField FirstPersonWeaponOffset -0.032000 0.007000 -0.021000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\covenant_carbine\covenant_carbine_accuracy.weapon
+SetField FirstPersonWeaponOffset -0.032000 0.007000 -0.021000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\covenant_carbine\covenant_carbine_rateoffire.weapon
+SetField FirstPersonWeaponOffset -0.032000 0.007000 -0.021000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\covenant_carbine\covenant_carbine_range.weapon
+SetField FirstPersonWeaponOffset -0.032000 0.007000 -0.021000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\covenant_carbine\covenant_carbine_power.weapon
+SetField FirstPersonWeaponOffset -0.032000 0.007000 -0.021000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\dmr\dmr.weapon
+SetField FirstPersonWeaponOffset -0.031000 0.015000 -0.008000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\dmr\dmr_ammo.weapon
+SetField FirstPersonWeaponOffset -0.028000 0.015000 -0.008000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\dmr\dmr_accuracy.weapon
+SetField FirstPersonWeaponOffset -0.031000 0.015000 -0.008000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\dmr\dmr_damage.weapon
+SetField FirstPersonWeaponOffset -0.031000 0.015000 -0.008000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\dmr\dmr_rateoffire.weapon
+SetField FirstPersonWeaponOffset -0.031000 0.015000 -0.006500
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\dmr\dmr_range.weapon
+SetField FirstPersonWeaponOffset -0.031000 0.015000 -0.008000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\dmr\dmr_power.weapon
+SetField FirstPersonWeaponOffset -0.031000 0.015000 -0.006500
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\plasma_rifle\plasma_rifle.weapon
+SetField FirstPersonWeaponOffset 0.015000 0.002500 -0.040000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\plasma_rifle\plasma_rifle_power.weapon
+SetField FirstPersonWeaponOffset 0.015000 0.002500 -0.040000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\shotgun\shotgun.weapon
+SetField FirstPersonWeaponOffset 0.015000 0.007000 -0.028000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\smg\smg.weapon
+SetField FirstPersonWeaponOffset -0.052000 0.000000 -0.035000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\smg\smg_damage.weapon
+SetField FirstPersonWeaponOffset -0.052000 0.000000 -0.035000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\smg\smg_accuracy.weapon
+SetField FirstPersonWeaponOffset -0.052000 0.000000 -0.035000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\smg\smg_rateoffire.weapon
+SetField FirstPersonWeaponOffset -0.052000 0.000000 -0.035000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\smg\smg_power.weapon
+SetField FirstPersonWeaponOffset -0.052000 0.000000 -0.035000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\sniper_rifle\sniper_rifle.weapon
+SetField FirstPersonWeaponOffset -0.040000 -0.010000 -0.027000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\rifle\spike_rifle\spike_rifle.weapon
+SetField FirstPersonWeaponOffset -0.015000 0.007000 -0.028000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\support_high\flak_cannon\flak_cannon.weapon
+SetField FirstPersonWeaponOffset -0.032000 0.016000 -0.012000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\support_high\rocket_launcher\rocket_launcher.weapon
+SetField FirstPersonWeaponOffset -0.020000 -0.001200 0.004500
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\support_high\spartan_laser\spartan_laser.weapon
+SetField FirstPersonWeaponOffset -0.015000 -0.002000 0.005000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\support_low\brute_shot\brute_shot.weapon
+SetField FirstPersonWeaponOffset -0.060000 0.010000 -0.080000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\support_low\sentinel_gun\sentinel_gun.weapon
+SetField FirstPersonWeaponOffset -0.155000 0.000000 -0.060000
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\turret\flamethrower\flamethrower.weapon
+SetField FirstPersonWeaponOffset 
+SaveTagChanges
+Exit
+
+EditTag objects\weapons\turret\machinegun_turret\machinegun_turret.weapon
+Exit
+EditTag objects\weapons\turret\machinegun_turret\machinegun_turret_integrated.weapon
+Exit
+
+EditTag objects\weapons\turret\missile_pod\missile_pod.weapon
+Exit
+
+EditTag objects\weapons\turret\plasma_cannon\plasma_cannon.weapon
+Exit
+EditTag objects\weapons\turret\plasma_cannon\plasma_cannon_integrated.weapon
+Exit
+
+DumpLog 
+
+Exit
