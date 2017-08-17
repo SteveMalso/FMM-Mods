@@ -1,4 +1,4 @@
-ECHO FMM_OUTPUT Installing Halo 3 Weapon Sounds
+ECHO FMM_OUTPUT Installing Halo 3 BR Animations
 cd mods\tagMods\h3mods\h3anims\Halo3BRAnimations
 
 color 0A
