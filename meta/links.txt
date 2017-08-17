@@ -26,6 +26,7 @@ https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Snowverhaul/Snowverhaul
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Snowverhaul/SnowverhaulWeapon/SnowverhaulWEAPON.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/SpartanVISION_1.0/SpartanVISION.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Station/Station.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3anims/Halo3ARAnimations/Halo3ARAnimations.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3anims/Halo3BRAnimations/Halo3BRAnimations.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3armors/h3armors.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3hud/Halo 3 HUD.ini
@@ -48,6 +49,7 @@ https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3viewmodel/Remastered 
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Halo3Shields/Halo3Shields.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/HUDim/HUDim.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/intelPatch/intelPatch.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/UpdatedBRSounds/UpdatedBRSounds.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/updatedsniper/updatedsniper.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/reachMods/reachMagnum/reachMagnum.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/reachMods/reachSMG/reachSMG.ini
