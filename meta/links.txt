@@ -1,5 +1,5 @@
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Airglow/Airglow.ini
-https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/CenteredCrosshairs/CenteredCrosshair.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/CenteredCrosshairs/CenteredCrosshairs.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/ClefMagSkins/ClefMagSkins.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/DMRCrosshairFix/DMRCrosshairFix.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/DMRCrosshairFixH3HUDCompatible/DMRCrosshairFixH3HUDCompatible.ini
