@@ -110,8 +110,6 @@ import modeBR43d tempTag
 import modeBR53d tempTag
 import modeBR63d tempTag
 
-edit jmadBRdefault XXXX SetField modes[0].weaponclass[0].weapontype[0].actions[8].animation 17 XXXX savechanges XXXX exit
-
 edit modeBR0fp XXXX SpecifyShaders XXXX shadBR0def XXXX shadBRrubb XXXX shadBRlens XXXX shadBROnes XXXX shadBRTens XXXX exit
 edit modeBR1fp XXXX SpecifyShaders XXXX shadBR1ora XXXX shadBRrubb XXXX shadBRlens XXXX shadBROnes XXXX shadBRTens XXXX exit
 edit modeBR2fp XXXX SpecifyShaders XXXX shadBR2gre XXXX shadBRrubb XXXX shadBRlens XXXX shadBROnes XXXX shadBRTens XXXX exit
@@ -216,9 +214,4 @@ shadBRTens shad_BRTens
 shadBRlens shad_BRlens
 shadBRrubb shad_BRrubb
 
-// INFO for all Halo 3 weapons
-06 diffuse_coefficient
-19 albedo_blend
-29 self_illum_intensity
-28 self_illum_color
-16 environment_map_specular_contribution; watery reflections 0
+To tweak shaders, check the arguments tagblock in the rmt2 tag in the rmsh shader tag.
