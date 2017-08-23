@@ -27,6 +27,7 @@ https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Snowverhaul/Snowverhaul
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Snowverhaul/SnowverhaulWeapon/SnowverhaulWEAPON.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/SpartanVISION_1.0/SpartanVISION.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Station/Station.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/H2ABR/H2ABR.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3anims/Halo3ARAnimations/Halo3ARAnimations.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3anims/Halo3BRAnimations/Halo3BRAnimations.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3armors/h3armors.ini
