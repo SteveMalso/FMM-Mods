@@ -46,7 +46,6 @@ https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3weap/H3SMG/H3S
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3weap/H3SPL/H3SPL.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3weap/H3Sho/H3Sho.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3weap/H3Sni/H3Sni.ini
-https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3sounds/h3weapsounds/h3weapsounds.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3viewmodel/Remastered H3 Viewmodel.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Halo3Shields/Halo3Shields.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/HUDim/HUDim.ini
