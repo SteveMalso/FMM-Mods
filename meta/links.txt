@@ -30,17 +30,34 @@ https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Station/Station.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/H2ABR/H2ABR.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3anims/Halo3ARAnimations/Halo3ARAnimations.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3anims/Halo3BRAnimations/Halo3BRAnimations.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3armors/h3armors.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3hud/Halo 3 HUD.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3intro/h3intro.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3sounds/h3menuMusic/h3menuMusic.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3sounds/h3shotgunSound/h3shotgunSound.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3sounds/h3sniperSound/h3sniperSound.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3weap/H3AR/H3AR.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3weap/H3BR/H3BR.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3weap/H3Bea/H3Bea.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3weap/H3Flak/H3Flak.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3weap/H3Mag/H3Mag.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3weap/H3RL/H3RL.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3weap/H3SMG/H3SMG.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3weap/H3SPL/H3SPL.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3weap/H3Sho/H3Sho.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3weap/H3Sni/H3Sni.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3viewmodel/Remastered H3 Viewmodel.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Halo3Shields/Halo3Shields.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/HUDim/HUDim.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/intelPatch/intelPatch.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/UpdatedBRSounds/UpdatedBRSounds.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/updatedsniper/updatedsniper.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/reachMods/reachMagnum/reachMagnum.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/reachMods/reachSMG/reachSMG.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/reachMods/reachShotgun/reachShotgun.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/reachMods/reachSniper/reachSniper.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/reachMods/reachWeap/reachAR/reachAR.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/reachMods/reachWeap/reachDMR/reachDMR.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/ShieldDownFix/ShieldDownFix.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/soundLagTest/soundLagTest.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/turf/turf.ini
